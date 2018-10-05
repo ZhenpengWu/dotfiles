@@ -1,0 +1,53 @@
+{
+  "title": "Switch Input Source Caps_lock",
+  "rules": [
+    {
+      "description": "Switch Input Source Caps_lock",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "left_shift",
+            "modifiers": {
+              "optional": ["any"]
+            }
+          },
+          "to": [
+            {
+              "key_code": "left_shift"
+            }
+          ],
+          "to_if_alone": [
+            {
+              "key_code": "caps_lock"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Switch Input Source Caps_lock 2",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "right_shift",
+            "modifiers": {
+              "optional": ["any"]
+            }
+          },
+          "to": [
+            {
+              "key_code": "right_shift"
+            }
+          ],
+          "to_if_alone": [
+            {
+              "key_code": "caps_lock"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
