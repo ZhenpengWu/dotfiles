@@ -7,7 +7,7 @@ export ZSH=/Users/AKIRA/.oh-my-zsh
 # Theme
 source "$ZSH/custom/themes/spaceship.zsh-theme"
 ZSH_THEME="spaceship"
-SPACESHIP_CHAR_SYMBOL='⦔'
+SPACESHIP_CHAR_SYMBOL='⸖'
 SPACESHIP_CHAR_SUFFIX=' '
 SPACESHIP_BATTERY_SHOW=false
 SPACESHIP_PACKAGE_SYMBOL="❐ "
@@ -58,18 +58,12 @@ plugins=(git
          autojump
          zsh-autosuggestions
          zsh-completions
-         zsh-syntax-highlighting
-         catimg
-         f
-         npm
-         yarn
-         iterm2)
+         zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
 
 # language
 export LANG=en_US.UTF-8
-
 
 # ssh
 export SSH_KEY_PATH="~/.ssh/rsa_id"
@@ -77,7 +71,6 @@ export SSH_KEY_PATH="~/.ssh/rsa_id"
 # aiases
 alias ohmyzsh="emacs ~/.oh-my-zsh"
 alias e='emacs -nw'
-alias ee=emacs
 alias t=touch
 alias code="code-insiders"
 eval $(thefuck --alias)
@@ -85,6 +78,15 @@ alias vim=nvim
 export PATH="/usr/local/sbin:$PATH"
 function erl {
 	/usr/local/bin/erl erl -eval 'code:add_path("/Users/AKIRA/Desktop/CPSC 418/erl")' "$@"
+}
+
+handin() {
+    if  [ "$1" != "" ] && [ "$2" != "" ] # or better, if [ -n "$1" ]
+    then 
+        rsync -ra . w8j0b@thetis.ugrad.cs.ubc.ca:~/"$1"/"$2"
+    else
+        echo "handin course# hw#";
+    fi
 }
 
 export PATH="$PATH:$HOME/.npm-packages/bin"

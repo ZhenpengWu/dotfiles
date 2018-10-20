@@ -104,7 +104,39 @@
 	<key>DHUserRepo</key>
 	<dict>
 		<key>installed</key>
-		<dict/>
+		<dict>
+			<key>CUDA</key>
+			<dict>
+				<key>date</key>
+				<date>2018-10-16T14:19:04Z</date>
+				<key>entry</key>
+				<dict>
+					<key>aliases</key>
+					<array>
+						<string>CUDA</string>
+						<string>Nvidia</string>
+						<string>cuBLAS</string>
+						<string>NVBLAS</string>
+						<string>cuFFT</string>
+						<string>nvGRAPH</string>
+						<string>cuRAND</string>
+						<string>cuSPARSE</string>
+						<string>NPP</string>
+						<string>cuSOLVER</string>
+					</array>
+					<key>authorLinkHref</key>
+					<string>https://github.com/Kapeli/Dash-User-Contributions/tree/master/docsets/CUDA#readme</string>
+					<key>authorLinkText</key>
+					<string>BlahGeek</string>
+					<key>name</key>
+					<string>CUDA</string>
+					<key>platform</key>
+					<string>usercontribCUDA</string>
+					<key>uniqueIdentifier</key>
+					<string>CUDA</string>
+				</dict>
+			</dict>
+		</dict>
 		<key>uninstalled</key>
 		<dict/>
 	</dict>
