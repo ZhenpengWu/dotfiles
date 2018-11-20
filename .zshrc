@@ -12,6 +12,9 @@ SPACESHIP_CHAR_SUFFIX=' '
 SPACESHIP_BATTERY_SHOW=false
 SPACESHIP_PACKAGE_SYMBOL="❐ "
 
+fpath=(/usr/local/share/zsh-completions $fpath)
+
+PATH="/usr/local/opt/coreutils/libexec/gnubin:$PATH"
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
 
@@ -40,7 +43,7 @@ ZSH_DISABLE_COMPFIX="true"
 # COMPLETION_WAITING_DOTS="true"
 
 # Uncomment the following line if you want to disable marking untracked files
-# under VCS as dirty. This makes repository status check for large repositories
+# under VCS as dirt. This makes repository status check for large repositories
 # much, much faster.
 # DISABLE_UNTRACKED_FILES_DIRTY="true"
 
@@ -71,7 +74,7 @@ export SSH_KEY_PATH="~/.ssh/rsa_id"
 # aiases
 alias ohmyzsh="emacs ~/.oh-my-zsh"
 alias e='emacs -nw'
-alias t=touch
+alias t='tmux attach -t base || tmux new -s base'
 alias code="code-insiders"
 eval $(thefuck --alias)
 alias vim=nvim
@@ -80,6 +83,9 @@ function erl {
 	/usr/local/bin/erl erl -eval 'code:add_path("/Users/AKIRA/Desktop/CPSC 418/erl")' "$@"
 }
 
+ok() {
+	cmatrix -a -s -b
+}
 handin() {
     if  [ "$1" != "" ] && [ "$2" != "" ] # or better, if [ -n "$1" ]
     then 
