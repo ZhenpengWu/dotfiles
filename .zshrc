@@ -12,8 +12,6 @@ SPACESHIP_CHAR_SUFFIX=' '
 SPACESHIP_BATTERY_SHOW=false
 SPACESHIP_PACKAGE_SYMBOL="❐ "
 
-fpath=(/usr/local/share/zsh-completions $fpath)
-
 PATH="/usr/local/opt/coreutils/libexec/gnubin:$PATH"
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -52,8 +50,7 @@ ZSH_DISABLE_COMPFIX="true"
 # The optional three formats: "mm/dd/yyyy"|"dd.mm.yyyy"|"yyyy-mm-dd"
 # HIST_STAMPS="mm/dd/yyyy"
 
-# Would you like to use another custom folder than $ZSH/custom?
-# ZSH_CUSTOM=/path/to/new-custom-folder
+export ZSH_CUSTOM=$ZSH/custom
 
 # plugins
 plugins=(git

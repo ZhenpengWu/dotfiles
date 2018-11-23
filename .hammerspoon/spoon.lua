@@ -46,17 +46,17 @@ hs.loadSpoon("ModalMgr")
 -- Define default Spoons which will be loaded later
 if not hspoon_list then
     hspoon_list = {
-        "AClock",
+        -- "AClock",
         -- "BingDaily",
         -- "CircleClock",
         -- "ClipShow",
-        "CountDown",
+        -- "CountDown",
         -- "HCalendar",
         "HSaria2",
-        "KSheet"
+        -- "KSheet"
         -- "HSearch",
         -- "SpeedMenu",
-        -- "WinWin",
+        -- "WinWin"
         -- "FnMate"
     }
 end
@@ -346,6 +346,20 @@ if string.len(hsman_keys[2]) > 0 then
 end
 
 ----------------------------------------------------------------------------------------------------
+-- Register lock screen
+hslock_keys = hslock_keys or {"alt", "L"}
+if string.len(hslock_keys[2]) > 0 then
+    spoon.ModalMgr.supervisor:bind(
+        hslock_keys[1],
+        hslock_keys[2],
+        "Lock Screen",
+        function()
+            hs.caffeinate.lockScreen()
+        end
+    )
+end
+
+----------------------------------------------------------------------------------------------------
 -- countdownM modal environment
 if spoon.CountDown then
     spoon.ModalMgr:new("countdownM")
@@ -427,20 +441,6 @@ if spoon.CountDown then
             end
         )
     end
-end
-
-----------------------------------------------------------------------------------------------------
--- Register lock screen
-hslock_keys = hslock_keys or {"alt", "L"}
-if string.len(hslock_keys[2]) > 0 then
-    spoon.ModalMgr.supervisor:bind(
-        hslock_keys[1],
-        hslock_keys[2],
-        "Lock Screen",
-        function()
-            hs.caffeinate.lockScreen()
-        end
-    )
 end
 
 ----------------------------------------------------------------------------------------------------
