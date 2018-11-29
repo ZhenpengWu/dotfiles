@@ -7,8 +7,8 @@ export ZSH=/Users/AKIRA/.oh-my-zsh
 # Theme
 source "$ZSH/custom/themes/spaceship.zsh-theme"
 ZSH_THEME="spaceship"
-SPACESHIP_CHAR_SYMBOL='⸖'
-SPACESHIP_CHAR_SUFFIX=' '
+SPACESHIP_CHAR_SYMBOL='$> '
+SPACESHIP_CHAR_SYMBOL_SECONDARY='-> '
 SPACESHIP_BATTERY_SHOW=false
 SPACESHIP_PACKAGE_SYMBOL="❐ "
 
