@@ -115,21 +115,11 @@
                         ]
                     },
                     {
-                        "description": "LeftShift to Switch Input Source",
+                        "description": "Switch Input Source Caps_lock 2",
                         "manipulators": [
                             {
-                                "conditions": [
-                                    {
-                                        "input_sources": [
-                                            {
-                                                "input_source_id": "com.apple.keylayout.Canadian"
-                                            }
-                                        ],
-                                        "type": "input_source_unless"
-                                    }
-                                ],
                                 "from": {
-                                    "key_code": "left_shift",
+                                    "key_code": "right_shift",
                                     "modifiers": {
                                         "optional": [
                                             "any"
@@ -138,47 +128,12 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "left_shift"
+                                        "key_code": "right_shift"
                                     }
                                 ],
                                 "to_if_alone": [
                                     {
-                                        "select_input_source": {
-                                            "input_source_id": "com.apple.keylayout.Canadian"
-                                        }
-                                    }
-                                ],
-                                "type": "basic"
-                            },
-                            {
-                                "conditions": [
-                                    {
-                                        "input_sources": [
-                                            {
-                                                "input_mode_id": "com.apple.inputmethod.SCIM.ITABC"
-                                            }
-                                        ],
-                                        "type": "input_source_unless"
-                                    }
-                                ],
-                                "from": {
-                                    "key_code": "left_shift",
-                                    "modifiers": {
-                                        "optional": [
-                                            "any"
-                                        ]
-                                    }
-                                },
-                                "to": [
-                                    {
-                                        "key_code": "left_shift"
-                                    }
-                                ],
-                                "to_if_alone": [
-                                    {
-                                        "select_input_source": {
-                                            "input_mode_id": "com.apple.inputmethod.SCIM.ITABC"
-                                        }
+                                        "key_code": "caps_lock"
                                     }
                                 ],
                                 "type": "basic"
@@ -186,21 +141,11 @@
                         ]
                     },
                     {
-                        "description": "RightShift to Switch Input Source",
+                        "description": "Switch Input Source Caps_lock",
                         "manipulators": [
                             {
-                                "conditions": [
-                                    {
-                                        "input_sources": [
-                                            {
-                                                "input_source_id": "com.apple.keylayout.Canadian"
-                                            }
-                                        ],
-                                        "type": "input_source_unless"
-                                    }
-                                ],
                                 "from": {
-                                    "key_code": "right_shift",
+                                    "key_code": "left_shift",
                                     "modifiers": {
                                         "optional": [
                                             "any"
@@ -209,47 +154,12 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "right_shift"
+                                        "key_code": "left_shift"
                                     }
                                 ],
                                 "to_if_alone": [
                                     {
-                                        "select_input_source": {
-                                            "input_source_id": "com.apple.keylayout.Canadian"
-                                        }
-                                    }
-                                ],
-                                "type": "basic"
-                            },
-                            {
-                                "conditions": [
-                                    {
-                                        "input_sources": [
-                                            {
-                                                "input_mode_id": "com.apple.inputmethod.SCIM.ITABC"
-                                            }
-                                        ],
-                                        "type": "input_source_unless"
-                                    }
-                                ],
-                                "from": {
-                                    "key_code": "right_shift",
-                                    "modifiers": {
-                                        "optional": [
-                                            "any"
-                                        ]
-                                    }
-                                },
-                                "to": [
-                                    {
-                                        "key_code": "right_shift"
-                                    }
-                                ],
-                                "to_if_alone": [
-                                    {
-                                        "select_input_source": {
-                                            "input_mode_id": "com.apple.inputmethod.SCIM.ITABC"
-                                        }
+                                        "key_code": "caps_lock"
                                     }
                                 ],
                                 "type": "basic"

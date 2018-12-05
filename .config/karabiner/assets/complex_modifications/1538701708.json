@@ -1,46 +1,31 @@
 {
-  "title": "New Caps_lock and Right Escape",
-  "rules": [
-    {
-      "description": "Map left_shift and right_shift to caps_lock",
-      "manipulators": [
+    "title": "New Caps_lock and Right Escape",
+    "rules": [
         {
-          "type": "basic",
-          "from": {
-            "key_code": "right_shift",
-            "modifiers": ["left_shift"]
-          },
-          "to": [
-            {
-              "key_code": "caps_lock"
-            }
-          ]
+            "description": "Map right_command to escape if pressed alone",
+            "manipulators": [
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "right_command",
+                        "modifiers": {
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "right_command"
+                        }
+                    ],
+                    "to_if_alone": [
+                        {
+                            "key_code": "escape"
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    },
-    {
-      "description": "Map right_command to escape if pressed alone",
-      "manipulators": [
-        {
-          "type": "basic",
-          "from": {
-            "key_code": "right_command",
-            "modifiers": {
-              "optional": ["any"]
-            }
-          },
-          "to": [
-            {
-              "key_code": "right_command"
-            }
-          ],
-          "to_if_alone": [
-            {
-              "key_code": "escape"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+    ]
 }

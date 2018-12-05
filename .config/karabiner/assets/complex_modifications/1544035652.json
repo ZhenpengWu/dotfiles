@@ -1,0 +1,147 @@
+{
+    "title": "Shift to Switch Input Source",
+    "rules": [
+        {
+            "description": "LeftShift to Switch Input Source",
+            "manipulators": [
+                {
+                    "conditions": [
+                        {
+                            "input_sources": [
+                                {
+                                    "input_source_id": "com.apple.keylayout.Canadian"
+                                }
+                            ],
+                            "type": "input_source_unless"
+                        }
+                    ],
+                    "from": {
+                        "key_code": "left_shift",
+                        "modifiers": {
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "left_shift"
+                        }
+                    ],
+                    "to_if_alone": [
+                        {
+                            "select_input_source": {
+                                "input_source_id": "com.apple.keylayout.Canadian"
+                            }
+                        }
+                    ],
+                    "type": "basic"
+                },
+                {
+                    "conditions": [
+                        {
+                            "input_sources": [
+                                {
+                                    "input_mode_id": "com.apple.inputmethod.SCIM.ITABC"
+                                }
+                            ],
+                            "type": "input_source_unless"
+                        }
+                    ],
+                    "from": {
+                        "key_code": "left_shift",
+                        "modifiers": {
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "left_shift"
+                        }
+                    ],
+                    "to_if_alone": [
+                        {
+                            "select_input_source": {
+                                "input_mode_id": "com.apple.inputmethod.SCIM.ITABC"
+                            }
+                        }
+                    ],
+                    "type": "basic"
+                }
+            ]
+        },
+        {
+            "description": "RightShift to Switch Input Source",
+            "manipulators": [
+                {
+                    "conditions": [
+                        {
+                            "input_sources": [
+                                {
+                                    "input_source_id": "com.apple.keylayout.Canadian"
+                                }
+                            ],
+                            "type": "input_source_unless"
+                        }
+                    ],
+                    "from": {
+                        "key_code": "right_shift",
+                        "modifiers": {
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "right_shift"
+                        }
+                    ],
+                    "to_if_alone": [
+                        {
+                            "select_input_source": {
+                                "input_source_id": "com.apple.keylayout.Canadian"
+                            }
+                        }
+                    ],
+                    "type": "basic"
+                },
+                {
+                    "conditions": [
+                        {
+                            "input_sources": [
+                                {
+                                    "input_mode_id": "com.apple.inputmethod.SCIM.ITABC"
+                                }
+                            ],
+                            "type": "input_source_unless"
+                        }
+                    ],
+                    "from": {
+                        "key_code": "right_shift",
+                        "modifiers": {
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "right_shift"
+                        }
+                    ],
+                    "to_if_alone": [
+                        {
+                            "select_input_source": {
+                                "input_mode_id": "com.apple.inputmethod.SCIM.ITABC"
+                            }
+                        }
+                    ],
+                    "type": "basic"
+                }
+            ]
+        }
+    ]
+}
