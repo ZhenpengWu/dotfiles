@@ -42,7 +42,7 @@
                         {
                             "input_sources": [
                                 {
-                                    "input_mode_id": "com.apple.inputmethod.SCIM.ITABC"
+                                    "input_source_id": "com.apple.inputmethod.SCIM.ITABC"
                                 }
                             ],
                             "type": "input_source_unless"
@@ -64,7 +64,7 @@
                     "to_if_alone": [
                         {
                             "select_input_source": {
-                                "input_mode_id": "com.apple.inputmethod.SCIM.ITABC"
+                                "input_source_id": "com.apple.inputmethod.SCIM.ITABC"
                             }
                         }
                     ],
@@ -113,7 +113,7 @@
                         {
                             "input_sources": [
                                 {
-                                    "input_mode_id": "com.apple.inputmethod.SCIM.ITABC"
+                                    "input_source_id": "com.apple.inputmethod.SCIM.ITABC"
                                 }
                             ],
                             "type": "input_source_unless"
@@ -135,7 +135,7 @@
                     "to_if_alone": [
                         {
                             "select_input_source": {
-                                "input_mode_id": "com.apple.inputmethod.SCIM.ITABC"
+                                "input_source_id": "com.apple.inputmethod.SCIM.ITABC"
                             }
                         }
                     ],
