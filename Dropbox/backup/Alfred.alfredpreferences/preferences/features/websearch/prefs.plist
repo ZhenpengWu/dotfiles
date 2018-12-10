@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSites</key>
+	<dict>
+		<key>37A97140-39A2-4195-AE92-D9EC57290AAD</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>github</string>
+			<key>text</key>
+			<string>Github UBC</string>
+			<key>url</key>
+			<string>https://github.ugrad.cs.ubc.ca/</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>64405512-4CAE-4C40-9DC3-3EA86BBF6E3E</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>shooter</string>
+			<key>text</key>
+			<string>Shooter</string>
+			<key>url</key>
+			<string>http://assrt.net/sub/?searchword={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>A7AEECE1-4F78-4CC4-B524-C8A6B3898165</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>github</string>
+			<key>text</key>
+			<string>Github</string>
+			<key>url</key>
+			<string>https://github.com/ZhenpengWu</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>onlyShowEnabledInPrefs</key>
+	<true/>
+</dict>
+</plist>

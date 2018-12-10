@@ -180,7 +180,7 @@ tmux_conf_theme_status_right='#{prefix}#{pairing}#{synchronized} #{?battery_bar,
 
 # status left style
 tmux_conf_theme_status_left_fg='#000000,#e4e4e4,#e4e4e4'  # black, white , white
-tmux_conf_theme_status_left_bg='#ffff00,#ff00af,#00afff'  # yellow, pink, white blue
+tmux_conf_theme_status_left_bg='#fDff00,#EF529A,#00afff'  # yellow, pink, white blue
 tmux_conf_theme_status_left_attr='bold,none,none'
 
 # status right style
@@ -271,7 +271,7 @@ tmux_conf_copy_to_os_clipboard=true
 #set -g mouse on
 
 # force Vi mode
-#   really you shoulZd export VISUAL or EDITOR environment variable, see manual
+#   really you shouZd export VISUAL or EDITOR environment variable, see manual
 #set -g status-keys vi
 #set -g mode-keys vi
 
@@ -283,4 +283,4 @@ set -g prefix C-a
 bind C-a send-prefix
 
 # move status line to top
-# set -g status-position top
+set -g status-position bottom

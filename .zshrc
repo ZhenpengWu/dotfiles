@@ -4,10 +4,9 @@ export PATH=$HOME/bin:/usr/local/bin:$PATH
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/AKIRA/.oh-my-zsh
 export ZSH_CUSTOM=$ZSH/custom
-
 export PATH="/usr/local/sbin:$PATH"
-export PATH="$HOME/.npm-packages/bin:$PATH"
-export PATH="$HOME/.npm-packages/lib:$PATH"
+export PATH="$PATH:$HOME/.npm-packages"
+export PATH="$PATH:$HOME/.npm-packages/lib"
 export PATH="/usr/local/texlive/2018/bin:$PATH"
 export PATH="/usr/local/opt/node@8/bin:$PATH"
 export PATH="/usr/local/opt/coreutils/libexec/gnubin:$PATH"
@@ -114,4 +113,3 @@ handin() {
         echo "handin course# hw#";
     fi
 }
-
