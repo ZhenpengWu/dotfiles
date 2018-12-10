@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8' ?>
-<workflow>
-  <name>aria2c</name>
-  <version>1.0</version>
-  <bundle>cnsworder</bundle>
-  <updated>1459951174</updated>
-  <file>aria2c.alfredworkflow</file>
-</workflow>
