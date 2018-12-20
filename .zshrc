@@ -97,9 +97,10 @@ alias ohmyzsh="emacs ~/.oh-my-zsh"
 alias e='emacs -nw'
 alias t='tmux attach -t base || tmux new -s base'
 alias code="code-insiders"
-eval $(thefuck --alias)
+alias ls='ls --color=tty'
 alias vim=nvim
 
+eval $(thefuck --alias)
 erl() {
 	/usr/local/bin/erl erl -eval 'code:add_path("/Users/AKIRA/Desktop/CPSC 418/erl")' "$@"
 }
