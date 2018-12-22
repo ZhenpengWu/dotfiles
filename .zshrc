@@ -5,10 +5,11 @@ export PATH=$HOME/bin:/usr/local/bin:$PATH
 export ZSH=/Users/AKIRA/.oh-my-zsh
 export ZSH_CUSTOM=$ZSH/custom
 export PATH="/usr/local/sbin:$PATH"
-export PATH="$PATH:$HOME/.npm-packages/bin"
-export PATH="$PATH:$HOME/.npm-packages/lib"
+export PATH="$HOME/.npm-packages/bin:$PATH"
+export PATH="$HOME/.npm-packages/lib:$PATH"
 export PATH="/usr/local/texlive/2018/bin:$PATH"
-export PATH="/usr/local/opt/node@8/bin:$PATH"
+# export PATH="/usr/local/opt/node@8/bin:$PATH"
+export PATH="/usr/local/opt/node/bin:$PATH"
 export PATH="/usr/local/opt/coreutils/libexec/gnubin:$PATH"
 
 # language
