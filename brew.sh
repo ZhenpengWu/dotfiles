@@ -41,19 +41,10 @@ brew install wget --with-iri
 
 # Install Python
 brew install python
-brew install python3
+brew install python@2
 
 # Install more recent versions of some OS X tools.
 brew install vim --override-system-vi
-
-# Install font tools.
-brew tap homebrew/cask-fonts
-brew cask install font-fira-code
-brew cask install font-hack-nerd-font
-brew cask install font-firacode-nerd-font
-brew cask install font-firacode-nerd-font-mono
-brew cask install font-firamono-nerd-font
-brew cask install font-firamono-nerd-font-mono
 
 # Install some CTF tools; see https://github.com/ctfs/write-ups.
 brew install binutils
@@ -75,14 +66,25 @@ brew install ruby
 brew install gcc
 brew install node
 brew install node@8
+brew install cloc
+brew install htop
+brew install neovim
+brew install go
+brew install erlang 
+brew install bet
+brew install les 
+brew install tmux
 
-# TODO: setup sql
+# Install sql
 brew install mysql
 brew install postgresql
 brew install sqlite
 
-# TODO: setup aria2
+# Install aria2
 brew install aria2
+cp ${HOME}/backup/homebrew.mxcl.aria2.plist ${HOME}/Library/LaunchAgents/homebrew.mxcl.aria2.plist
+# Start aria2 when login
+brew services start aria2
 
 # Lxml and Libxslt
 brew install libxml2
@@ -91,8 +93,17 @@ brew link libxml2 --force
 brew link libxslt --force
 
 # Install Heroku
-brew install heroku-toolbelt
+brew install heroku/brew/heroku
 heroku update
+
+# Install font tools.
+brew tap homebrew/cask-fonts
+brew cask install font-fira-code
+brew cask install font-hack-nerd-font
+brew cask install font-firacode-nerd-font
+brew cask install font-firacode-nerd-font-mono
+brew cask install font-firamono-nerd-font
+brew cask install font-firamono-nerd-font-mono
 
 # Core casks
 brew cask install alfred
@@ -113,6 +124,15 @@ brew cask install postman
 brew cask install karabiner-elements
 brew cask install mpv
 
+brew cask install airmail-beta                 
+brew cask insgall neteasemusic
+brew cask install robo-3t
+brew cask install plistedit-pro                 
+brew cask install astrill                                                           
+brew cask install calibre                                                             
+brew cask install thunder
+brew cask install julia                                          
+                                                            
 # Development tool casks
 brew cask install virtualbox
 
@@ -124,7 +144,7 @@ brew install docker
 brew install boot2docker
 
 # Install developer friendly quick look plugins; see https://github.com/sindresorhus/quick-look-plugins
-brew cask install hetimazipql qlcolorcode qlimagesize qlmarkdown qlmobi qlprettypatch qlvideo
+brew cask install hetimazipql qlcolorcode qlimagesize qlmarkdown qlmobi qlprettypatch qlvideo quicklook-csv quicklook-json
 
 # Remove outdated versions from the cellar.
 brew cleanup
