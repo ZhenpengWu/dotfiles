@@ -1,1 +1,0 @@
-/Users/Julian/Documents/Code/mpv/mpv-stats/stats.lua
