@@ -82,7 +82,7 @@ brew install sqlite
 
 # Install aria2
 brew install aria2
-cp ${HOME}/backup/homebrew.mxcl.aria2.plist ${HOME}/Library/LaunchAgents/homebrew.mxcl.aria2.plist
+cp ${HOME}/.aria2/homebrew.mxcl.aria2.plist ${HOME}/Library/LaunchAgents/homebrew.mxcl.aria2.plist
 # Start aria2 when login
 brew services start aria2
 
