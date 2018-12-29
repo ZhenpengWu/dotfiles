@@ -125,7 +125,7 @@ brew cask install karabiner-elements
 brew cask install mpv
 
 brew cask install airmail-beta                 
-brew cask insgall neteasemusic
+brew cask install neteasemusic
 brew cask install robo-3t
 brew cask install plistedit-pro                 
 brew cask install astrill                                                           
