@@ -3,7 +3,7 @@
 ## brew.sh
 
 ```
-$ chmod +x id_rsa ./brew.sh
+$ chmod +x ./brew.sh
 ```
 
 ### aria2
@@ -31,7 +31,7 @@ $ brew services start aria2
 ## macos.sh
 
 ```
-$ chmod +x id_rsa ./macos.sh
+$ chmod +x ./macos.sh
 ```
 
 ## zsh & .oh-my-zsh
@@ -77,3 +77,8 @@ $ cp .tmux/.tmux.conf.local .
 - dash
 - alfred
 
+## git
+
+```
+$ git config --global core.excludesfile ~/.gitignore_global
+```

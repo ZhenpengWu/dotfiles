@@ -4,3 +4,16 @@
 # Folder view configuration files
 .DS_Store
 Desktop.ini
+
+# Node
+npm-debug.log
+
+# Windows
+Thumbs.db
+
+# Jetbrains
+.idea/
+
+# General
+log/
+*.log
