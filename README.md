@@ -12,3 +12,10 @@
 - aria2
 - ssh
 - alfred
+
+## .tmux
+
+```
+$ ln -s -f .tmux/.tmux.conf
+$ cp .tmux/.tmux.conf.local .
+```
