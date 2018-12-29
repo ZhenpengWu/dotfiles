@@ -4,3 +4,6 @@
 [submodule ".emacs.d"]
 	path = .emacs.d
 	url = https://github.com/syl20bnr/spacemacs
+[submodule ".config/mpv"]
+	path = .config/mpv
+	url = https://github.com/ZhenpengWu/mpv-config.git
