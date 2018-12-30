@@ -41,6 +41,7 @@ brew install emacs --with-cocoa
 brew tap d12frosted/emacs-plus
 brew install emacs-plus
 ln -s /usr/local/opt/emacs-plus/Emacs.app /Applications
+brew link --overwrite emacs-plus
 
 # Install vim & neovim; see https://github.com/neovim/neovim
 brew install vim --override-system-vi
@@ -53,6 +54,7 @@ brew install xz
 
 # Install tmux; see https://github.com/gpakosz/.tmux
 brew install tmux
+brew install reattach-to-user-namespace
 
 # Install git & related tools 
 brew install git
@@ -76,6 +78,7 @@ brew install r
 brew install python
 brew install python@2
 brew install perl
+brew install cmake
 brew cask install java
 brew cask install julia
 
@@ -89,21 +92,28 @@ brew install aria2
 cp ${HOME}/.aria2/homebrew.mxcl.aria2.plist ${HOME}/Library/LaunchAgents/homebrew.mxcl.aria2.plist
 brew services start aria2
 
-# Install video & audio cli
+# Install video & audio command line
 brew install ffmpeg
 brew install flac
 brew install youtube-dl
 
 # Install other useful binaries.
 brew install wget --with-iri
+brew install curl
+brew install telnet
 brew install grep the_silver_searcher # grep / ag
 brew install imagemagick --with-webp
 brew install tree
 brew install pandoc # see https://github.com/jgm/pandoc
 brew install cloc # see https://github.com/AlDanial/cloc
 brew install htop
-brew install bet
 brew install less
+brew install duti
+brew install yank
+brew install cmatrix
+brew install whois
+# brew install subversion
+# brew install octave
 
 # Install zsh plugins
 brew install autojump
@@ -111,14 +121,14 @@ brew install thefuck
 brew install fzf
 brew install bat
 
-# Lxml and Libxslt
+# Install Lxml and Libxslt
 brew install libxml2
 brew install libxslt
 brew link libxml2 --force
 brew link libxslt --force
 
 # Install Heroku
-brew install heroku-toolbelt
+brew install heroku/brew/heroku
 heroku update
 
 # Install development tools
