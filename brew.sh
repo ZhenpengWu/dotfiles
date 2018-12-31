@@ -54,6 +54,7 @@ brew install xz
 
 # Install tmux; see https://github.com/gpakosz/.tmux
 brew install tmux
+brew install tmux-xpanes
 brew install reattach-to-user-namespace
 
 # Install git & related tools 

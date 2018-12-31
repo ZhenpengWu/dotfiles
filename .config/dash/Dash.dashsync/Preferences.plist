@@ -425,6 +425,8 @@
 	<true/>
 	<key>shouldShowStatusIcon</key>
 	<true/>
+	<key>shouldStartAtLogin</key>
+	<true/>
 	<key>shouldSyncBookmarks</key>
 	<true/>
 	<key>shouldSyncDocsets</key>

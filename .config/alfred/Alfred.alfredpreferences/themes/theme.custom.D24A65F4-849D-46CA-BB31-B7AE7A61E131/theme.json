@@ -30,7 +30,7 @@
       "background" : "#4B4B4B00",
       "spacing" : 0,
       "text" : {
-        "size" : 32,
+        "size" : 35,
         "colorSelected" : "#000000FF",
         "font" : "WenYue XinQingNianTi (Non-Commercial Use)",
         "color" : "#DB303CFF"
@@ -38,13 +38,13 @@
       "backgroundSelected" : "#D8D8DBFF"
     },
     "window" : {
-      "color" : "#11111172",
+      "color" : "#11111159",
       "paddingHorizontal" : 0,
       "width" : 550,
       "borderPadding" : 0,
       "borderColor" : "#000000FF",
-      "blur" : 15,
-      "roundness" : 9,
+      "blur" : 5,
+      "roundness" : 3,
       "paddingVertical" : 5
     },
     "credit" : "AKIRA",
