@@ -73,9 +73,30 @@ $ cp .tmux/.tmux.conf.local .
 
 ## .config
 
-- iterm2
-- dash
-- alfred
+### iTerm2
+
+- ssh configuration, see [https://github.com/ZhenpengWu/dotfiles/tree/master/.config/iterm2](https://github.com/ZhenpengWu/dotfiles/tree/master/.config/iterm2)
+
+### RIME / Squirrel
+
+```
+$ ln -s ${HOME}/.config/Rime ${HOME}/Library/Rime
+```
+
+```
+$ open ~/Library/Preferences/com.apple.HIToolbox.plist
+```
+
+- Remove the input source or input sources you want to disable from the AppleEnabledInputSources dictionary
+
+### Alfred
+
+- Minimal/Minimal Dark Alfred theme preference
+
+### Dash
+
+- Dash preference
+- Some snippets
 
 ## git
 

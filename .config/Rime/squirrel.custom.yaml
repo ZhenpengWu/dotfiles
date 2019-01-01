@@ -1,0 +1,43 @@
+# encoding: utf-8
+
+patch:
+  show_notifications_via_notification_center: true
+
+  style/color_scheme: AKIRA
+  style/line_spacing: 0
+  style/spacing: 10  # space between preedit and candidates in non-inline mode
+
+  preset_color_schemes:
+    AKIRA:
+      name: AKIRA
+      author: Zhenpeng Wu <marswu1995@gmail.com>
+      horizontal: true
+      inline_preedit: true
+      candidate_format: "%c\u2005%@\u2005"   # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间。
+      border_color_width: 0
+      font_point: 16                          # 候选文字大小
+      label_font_point: 14                    # 候选编号大小  
+      corner_radius: 3                        # 候选条圆角
+      border_height: 0                        # 窗口边界高度，大于圆角半径才生效
+      border_width: 0                         # 窗口边界宽度，大于圆角半径才生效
+      font_face: "FZQingKeBenYueSongS-R-GB"
+      label_font_face: "Samurai"
+      back_color: 0xFFFFFF                    # 候选条背景色，24位色值，16进制，BGR顺序
+      border_color: 0xE0B693                  # 边框色
+      candidate_text_color: 0x000000          # 预选项文字颜色
+      comment_text_color: 0x999999            # 拼音等提示文字颜色
+      hilited_text_color: 0xfecb96            # 高亮文字，即與當前高亮候選對應的那部份輸入碼   
+      hilited_back_color: 0xfff0e3            # 第一候选项背景背景色
+      hilited_candidate_text_color: 0xc98915  # 第一候选项文字颜色
+      hilited_candidate_label_color: 0x999999 # 第一候选项编号颜色
+      hilited_candidate_back_color: 0xFFFFFF  # 高亮候選項的底色，若與背景色不同就會顯出光棒
+      hilited_comment_text_color: 0x999999    # 注解文字高亮
+      hilited_text_color: 0x999999            # 高亮拼音 (需要开启内嵌编码)
+      text_color: 0x424242                    # 拼音行文字颜色
+      label_color: 0x999999
+
+  app_options:
+    'com.runningwithcrayons.Alfred-3':
+      ascii_mode: true
+    'com.googlecode.iterm2':
+      ascii_mode: true
