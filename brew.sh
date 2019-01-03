@@ -78,7 +78,6 @@ brew install lua@5.1
 brew install r
 brew install python
 brew install python@2
-brew install perl
 brew install cmake
 brew cask install java
 brew cask install julia
@@ -150,7 +149,7 @@ brew cask install alfred
 brew cask install hammerspoon
 brew cask install karabiner-elements
 brew cask install plistedit-pro
-
+brew cask install squirrel
 # Install productivity tools
 brew cask install google-chrome
 brew cask install airmail-beta
