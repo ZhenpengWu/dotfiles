@@ -1,7 +1,6 @@
 # encoding: utf-8
 
 patch:
-
   menu/page_size: 6
 
   # 如果要把 Caps Lock 設爲只改變字母的大小寫而不做中西文切換，可將 Caps_Lock 對應的切換方式設爲 noop
@@ -26,4 +25,4 @@ patch:
     - schema: luna_pinyin_simp
 
   switcher/hotkeys:
-      - Control+Alt+Shift+R
+    - Control+Alt+Shift+R
