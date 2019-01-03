@@ -87,7 +87,7 @@ $ ln -s ${HOME}/.config/Rime ${HOME}/Library/Rime
 $ open ~/Library/Preferences/com.apple.HIToolbox.plist
 ```
 
-- Remove the input source or input sources you want to disable from the AppleEnabledInputSources dictionary
+- Remove the input source or input sources you want to disable from the `AppleEnabledInputSources` dictionary
 
 ### Alfred
 
