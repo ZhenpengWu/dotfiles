@@ -8,25 +8,25 @@ $ chmod +x ./brew.sh
 
 ### aria2
 
-- aria2 configuration, see [https://github.com/ZhenpengWu/dotfiles/tree/master/.aria2](https://github.com/ZhenpengWu/dotfiles/tree/master/.aria2)
+- aria2 configuration, see [this](https://github.com/ZhenpengWu/dotfiles/tree/master/.aria2)
+- copy `aria2.plist` from `.config` folder to `LaunchAgents` folder, and start aria2 at startup
 
 ```
-$ brew install aria2
 $ cp ${HOME}/.aria2/homebrew.mxcl.aria2.plist ${HOME}/Library/LaunchAgents/homebrew.mxcl.aria2.plist
 $ brew services start aria2
 ```
 
 ### mpv
 
-- mpv configuration, see [https://github.com/ZhenpengWu/mpv-config](https://github.com/ZhenpengWu/mpv-config)
+- mpv configuration, see [this](https://github.com/ZhenpengWu/mpv-config)
 
 ### hammerspoon
 
-- hammerspoon configuration, see [https://github.com/ZhenpengWu/dotfiles/tree/master/.hammerspoon](https://github.com/ZhenpengWu/dotfiles/tree/master/.hammerspoon)
+- hammerspoon configuration, see [this](https://github.com/ZhenpengWu/dotfiles/tree/master/.hammerspoon)
 
 ### karabiner
 
-- karabiner configuration, see [https://github.com/ZhenpengWu/dotfiles/tree/master/.config/karabiner](https://github.com/ZhenpengWu/dotfiles/tree/master/.config/karabiner)
+- karabiner configuration, see [this](https://github.com/ZhenpengWu/dotfiles/tree/master/.config/karabiner)
 
 ## macos.sh
 
@@ -69,37 +69,41 @@ $ cp .tmux/.tmux.conf.local .
 
 ## .ssh
 
-- ssh configuration, see [https://github.com/ZhenpengWu/dotfiles/tree/master/.ssh](https://github.com/ZhenpengWu/dotfiles/tree/master/.ssh)
+- ssh configuration, see [this](https://github.com/ZhenpengWu/dotfiles/tree/master/.ssh)
 
 ## .config
 
 ### iTerm2
 
-- ssh configuration, see [https://github.com/ZhenpengWu/dotfiles/tree/master/.config/iterm2](https://github.com/ZhenpengWu/dotfiles/tree/master/.config/iterm2)
+- iTerm2 configuration, see [this](https://github.com/ZhenpengWu/dotfiles/tree/master/.config/iterm2)
 
 ### RIME / Squirrel
+
+- copy Rime configuration from `.config` folder to `Library` folder
 
 ```
 $ ln -s ${HOME}/.config/Rime ${HOME}/Library/Rime
 ```
 
-```
-$ open ~/Library/Preferences/com.apple.HIToolbox.plist
-```
+- remove the input source or input sources you want to disable from the `AppleEnabledInputSources` dictionary
 
-- Remove the input source or input sources you want to disable from the `AppleEnabledInputSources` dictionary
+```
+$ open ${HOME}/Library/Preferences/com.apple.HIToolbox.plist
+```
 
 ### Alfred
 
-- Minimal/Minimal Dark Alfred theme preference
+- Minimal/Minimal Dark Alfred theme preferences
 
 ### Dash
 
-- Dash preference
+- Dash preferences
 - Some snippets
 
 ## git
 
+- set the global gitignore
+
 ```
-$ git config --global core.excludesfile ~/.gitignore_global
+$ git config --global core.excludesfile ${HOME}/.gitignore_global
 ```
