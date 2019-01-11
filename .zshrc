@@ -10,7 +10,9 @@ export PATH="$HOME/.npm-packages/lib:$PATH"
 export PATH="/usr/local/texlive/2018/bin:$PATH"
 # export PATH="/usr/local/opt/node@8/bin:$PATH"
 export PATH="/usr/local/opt/node/bin:$PATH"
-export PATH="/usr/local/opt/coreutils/libexec/gnubin:$PATH"
+# export PATH="/usr/local/opt/coreutils/libexec/gnubin:$PATH"
+
+export PATH=$PATH:$(ruby -e 'puts Gem.bindir')
 
 # language
 export LANG=en_US.UTF-8
@@ -46,6 +48,12 @@ SPACESHIP_GIT_SYMBOL=$'\ufb2b '
 SPACESHIP_GIT_BRANCH_PREFIX=$'\ufb2b '
 SPACESHIP_USER_SHOW=true
 SPACESHIP_BATTERY_SHOW=false
+SPACESHIP_PROMPT_ADD_NEWLINE=true
+SPACESHIP_CHAR_SUFFIX=(" ")
+SPACESHIP_PROMPT_DEFAULT_PREFIX='$USER'
+SPACESHIP_PROMPT_FIRST_PREFIX_SHOW=true
+
+source $(dirname $(gem which colorls))/tab_complete.sh
 
 # Command auto-correction.
 # ENABLE_CORRECTION="true"
@@ -83,13 +91,14 @@ ZSH_DISABLE_COMPFIX="true"
 # DISABLE_UNTRACKED_FILES_DIRTY="true"
 
 # plugins
-plugins=(git
-         k
-         autojump
-         virtualenv
-         zsh-autosuggestions
-         zsh-completions
-         zsh-syntax-highlighting)
+plugins=(
+    git
+    autojump
+    history-substring-search
+    zsh-autosuggestions
+    zsh-completions
+    zsh-syntax-highlighting
+)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -98,23 +107,25 @@ alias ohmyzsh="emacs ~/.oh-my-zsh"
 alias e='emacs -nw'
 alias t='tmux attach -t base || tmux new -s base'
 alias code="code-insiders"
-alias ls='ls --color=tty'
 alias vim=nvim
+alias top=gtop
+
+alias l='colorls -1'
+alias ll='colorls -la'
+alias la='colorls -la'
+alias ls='colorls -1 -l'
+alias lg='colorls -1 -l --gs --tree'
 
 eval $(thefuck --alias)
-erl() {
-	/usr/local/bin/erl erl -eval 'code:add_path("/Users/AKIRA/Desktop/CPSC 418/erl")' "$@"
-}
 
 ok() {
-	cmatrix -a -s -b
+    cmatrix -a -s -b
 }
 
 handin() {
-    if  [ "$1" != "" ] && [ "$2" != "" ] # or better, if [ -n "$1" ]
-    then 
+    if [ "$1" != "" ] && [ "$2" != "" ]; then # or better, if [ -n "$1" ]
         rsync -ra . w8j0b@thetis.ugrad.cs.ubc.ca:~/"$1"/"$2"
     else
-        echo "handin course# hw#";
+        echo "handin course# hw#"
     fi
 }

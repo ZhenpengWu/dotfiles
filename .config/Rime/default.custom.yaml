@@ -7,7 +7,7 @@ patch:
   # 如果要以 Caps Lock 切換到西文模式，默認輸出小寫字母，請置 ascii_composer/good_old_caps_lock: false
   # 如果要以 Caps Lock 切換到西文模式，默認輸出大寫字母，請使用以下設置：
 
-  ascii_composer/good_old_caps_lock: true
+  ascii_composer/good_old_caps_lock: false
 
   # inline_ascii 在輸入法的臨時西文編輯區內輸入字母、數字、符號、空格等，回車上屏後自動復位到中文
   # commit_text 已輸入的候選文字上屏並切換至西文輸入模式
@@ -26,3 +26,37 @@ patch:
 
   switcher/hotkeys:
     - Control+Alt+Shift+R
+
+  key_binder:
+    bindings:
+      - { accept: "Control+p", send: Up, when: composing }
+      - { accept: "Control+n", send: Down, when: composing }
+      - { accept: "Control+b", send: Left, when: composing }
+      - { accept: "Control+f", send: Right, when: composing }
+      - { accept: "Control+a", send: Home, when: composing }
+      - { accept: "Control+e", send: End, when: composing }
+      - { accept: "Control+d", send: Delete, when: composing }
+      - { accept: "Control+k", send: "Shift+Delete", when: composing }
+      - { accept: "Control+h", send: BackSpace, when: composing }
+      - { accept: "Control+g", send: Escape, when: composing }
+      - { accept: "Control+bracketleft", send: Escape, when: composing }
+      - { accept: "Alt+v", send: Page_Up, when: composing }
+      - { accept: "Control+v", send: Page_Down, when: composing }
+      - { accept: ISO_Left_Tab, send: "Shift+Left", when: composing }
+      - { accept: "Shift+Tab", send: "Shift+Left", when: composing }
+      - { accept: Tab, send: "Shift+Right", when: composing }
+      - { accept: minus, send: Page_Up, when: has_menu }
+      - { accept: equal, send: Page_Down, when: has_menu }
+      - { accept: comma, send: Page_Up, when: paging }
+      - { accept: period, send: Page_Down, when: has_menu }
+      #   - { accept: "Control+Shift+1", select: .next, when: always }
+    #   - { accept: "Control+Shift+2", toggle: ascii_mode, when: always }
+    #   - { accept: "Control+Shift+3", toggle: full_shape, when: always }
+    #   - { accept: "Control+Shift+4", toggle: simplification, when: always }
+    #   - { accept: "Control+Shift+5", toggle: extended_charset, when: always }
+    #   - { accept: "Control+Shift+exclam", select: .next, when: always }
+    #   - { accept: "Control+Shift+numbersign", toggle: full_shape, when: always }
+    #   - { accept: "Control+Shift+dollar", toggle: simplification, when: always }
+    #   - { accept: "Control+Shift+percent", toggle: extended_charset, when: always }
+    #   - { accept: "Shift+space", toggle: full_shape, when: always }
+    #   - { accept: "Control+period", toggle: ascii_punct, when: always }

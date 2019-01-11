@@ -2,7 +2,7 @@
     "title": "Switch Input Source Caps_lock",
     "rules": [
         {
-            "description": "Switch Input Source Caps_lock",
+            "description": "Switch Input Source Caps_lock LEFT",
             "manipulators": [
                 {
                     "type": "basic",
@@ -14,22 +14,28 @@
                             ]
                         }
                     },
+                    "parameters": {
+                        "basic.to_if_alone_timeout_milliseconds": 250
+                    },
                     "to": [
                         {
-                            "key_code": "left_shift",
-                            "lazy": true
+                            "key_code": "left_shift"
                         }
                     ],
                     "to_if_alone": [
                         {
-                            "key_code": "caps_lock"
+                            "key_code": "2",
+                            "modifiers": [
+                                "left_shift",
+                                "left_control"
+                            ]
                         }
                     ]
                 }
             ]
         },
         {
-            "description": "Switch Input Source Caps_lock 2",
+            "description": "Switch Input Source Caps_lock RIGHT",
             "manipulators": [
                 {
                     "type": "basic",
@@ -42,12 +48,6 @@
                         }
                     },
                     "to": [
-                        {
-                            "key_code": "right_shift",
-                            "lazy": true
-                        }
-                    ],
-                    "to_if_alone": [
                         {
                             "key_code": "caps_lock"
                         }

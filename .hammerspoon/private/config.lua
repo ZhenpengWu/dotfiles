@@ -10,7 +10,7 @@ hspoon_list = {
     -- "CountDown",
     -- "FnMate",
     -- "HCalendar",
-    "HSaria2",
+    -- "HSaria2",
     -- "HSearch",
     -- "KSheet",
     -- "SpeedMenu",

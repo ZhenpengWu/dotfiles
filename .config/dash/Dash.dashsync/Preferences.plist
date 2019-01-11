@@ -54,11 +54,13 @@
 	<key>DHJavaRepo</key>
 	<dict>
 		<key>installed</key>
+		<dict/>
+		<key>uninstalled</key>
 		<dict>
 			<key>net.sf.tweety.lp:asp</key>
 			<dict>
 				<key>date</key>
-				<date>2018-08-09T06:52:28Z</date>
+				<date>2019-01-13T04:42:41Z</date>
 				<key>entry</key>
 				<dict>
 					<key>name</key>
@@ -70,8 +72,6 @@
 				</dict>
 			</dict>
 		</dict>
-		<key>uninstalled</key>
-		<dict/>
 	</dict>
 	<key>DHPhpRepo</key>
 	<dict>
@@ -142,6 +142,8 @@
 	</dict>
 	<key>DHWebViewIsDark</key>
 	<false/>
+	<key>actuallyDarkWebView</key>
+	<true/>
 	<key>annotationsAreShown</key>
 	<false/>
 	<key>bookmarks</key>
@@ -426,7 +428,7 @@
 	<key>shouldShowStatusIcon</key>
 	<true/>
 	<key>shouldStartAtLogin</key>
-	<true/>
+	<false/>
 	<key>shouldSyncBookmarks</key>
 	<true/>
 	<key>shouldSyncDocsets</key>

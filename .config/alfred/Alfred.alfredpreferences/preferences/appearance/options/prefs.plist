@@ -16,5 +16,7 @@
 	<true/>
 	<key>showscrollbar</key>
 	<false/>
+	<key>visibleresults</key>
+	<integer>7</integer>
 </dict>
 </plist>

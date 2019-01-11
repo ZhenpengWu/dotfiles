@@ -6,13 +6,17 @@
 sudo -v
 
 # Keep-alive: update existing `sudo` time stamp until the script has finished.
-while true; do sudo -n true; sleep 60; kill -0 "$$" || exit; done 2>/dev/null &
+while true; do
+    sudo -n true
+    sleep 60
+    kill -0 "$$" || exit
+done 2>/dev/null &
 
 # Check for Homebrew,
 # Install if we don't have it
 if test ! $(which brew); then
-echo "Installing homebrew..."
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    echo "Installing homebrew..."
+    ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 fi
 
 # Make sure we’re using the latest Homebrew.
@@ -57,7 +61,7 @@ brew install tmux
 brew install tmux-xpanes
 brew install reattach-to-user-namespace
 
-# Install git & related tools 
+# Install git & related tools
 brew install git
 brew install git-lfs
 brew install git-flow
@@ -105,7 +109,7 @@ brew install grep the_silver_searcher # grep / ag
 brew install imagemagick --with-webp
 brew install tree
 brew install pandoc # see https://github.com/jgm/pandoc
-brew install cloc # see https://github.com/AlDanial/cloc
+brew install cloc   # see https://github.com/AlDanial/cloc
 brew install htop
 brew install less
 brew install duti
@@ -166,7 +170,7 @@ brew cask install xquartz
 brew cask install skype
 brew cask install astrill
 brew cask install neteasemusic
-brew cask install calibre 
+brew cask install calibre
 brew cask install thunder
 
 # Install font tools

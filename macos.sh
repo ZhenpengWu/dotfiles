@@ -1,4 +1,3 @@
-
 # ~/osx.sh — Originally from https://mths.be/osx
 
 # Close any open System Preferences panes, to prevent them from overriding
@@ -9,7 +8,11 @@ osascript -e 'tell application "System Preferences" to quit'
 sudo -v
 
 # Keep-alive: update existing `sudo` time stamp until `osx.sh` has finished
-while true; do sudo -n true; sleep 60; kill -0 "$$" || exit; done 2>/dev/null &
+while true; do
+    sudo -n true
+    sleep 60
+    kill -0 "$$" || exit
+done 2>/dev/null &
 
 ###############################################################################
 # General UI/UX                                                               #
@@ -486,11 +489,11 @@ defaults write com.apple.spotlight orderedItems -array \
     '{"enabled" = 0;"name" = "MENU_WEBSEARCH";}' \
     '{"enabled" = 0;"name" = "MENU_SPOTLIGHT_SUGGESTIONS";}'
 # Load new settings before rebuilding the index
-killall mds > /dev/null 2>&1
+killall mds >/dev/null 2>&1
 # Make sure indexing is enabled for the main volume
-sudo mdutil -i on / > /dev/null
+sudo mdutil -i on / >/dev/null
 # Rebuild the index from scratch
-sudo mdutil -E / > /dev/null
+sudo mdutil -E / >/dev/null
 
 ###############################################################################
 # Terminal & iTerm 2                                                          #
@@ -502,19 +505,19 @@ sudo mdutil -E / > /dev/null
 #defaults write org.x.X11 wm_ffm -bool true
 
 start_if_needed() {
-  local grep_name="[${1:0:1}]${1:1}"
+    local grep_name="[${1:0:1}]${1:1}"
 
-  if [[ -z $(ps aux | grep -e "${grep_name}") ]]; then
-    if [ -e ~/Applications/$1.app ]; then
-      open ~/Applications/$1.app
-    else
-      if [ -e /Applications/$1.app ]; then
-        open /Applications/$1.app
-      fi
+    if [[ -z $(ps aux | grep -e "${grep_name}") ]]; then
+        if [ -e ~/Applications/$1.app ]; then
+            open ~/Applications/$1.app
+        else
+            if [ -e /Applications/$1.app ]; then
+                open /Applications/$1.app
+            fi
+        fi
     fi
-  fi
 
-  true
+    true
 }
 
 # Install the Akira theme for iTerm
@@ -532,7 +535,7 @@ defaults write com.googlecode.iterm2 PromptOnQuit -bool false
 defaults write com.apple.TimeMachine DoNotOfferNewDisksForBackup -bool true
 
 # Disable local Time Machine backups
-hash tmutil &> /dev/null && sudo tmutil disablelocal
+hash tmutil &>/dev/null && sudo tmutil disablelocal
 
 ###############################################################################
 # Activity Monitor                                                            #
@@ -653,18 +656,8 @@ defaults write com.google.Chrome.canary PMPrintingExpandedStateForPrint2 -bool t
 # Kill affected applications                                                  #
 ###############################################################################
 
-for app in 
-	"Activity Monitor" \
-	"Address Book" \
-	"Calendar" \ 
-	"Contacts" \
-	"Dock" \
-	"Finder" \
-	"Google Chrome" \
-	"Mail" \
-	"Messages" \
-	"Safari" \
-	"SystemUIServer"; do
-    killall "${app}" > /dev/null 2>&1
+for app in "Activity Monitor" "Address Book" "Calendar" "Contacts" "Dock" "Finder" "Google Chrome" "Mail" "Messages" "Safari" "SystemUIServer"; do
+    killall "${app}" >/dev/null 2>&1
 done
+
 echo "Done. Note that some of these changes require a logout/restart of your OS to take effect.  At a minimum, be sure to restart your Terminal."

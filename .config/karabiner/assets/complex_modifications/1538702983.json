@@ -1,0 +1,184 @@
+{
+    "title": "CTRL to CAPS_LOCK",
+    "rules": [
+        {
+            "manipulators": [
+                {
+                    "from": {
+                        "modifiers": {
+                            "optional": [
+                                "any"
+                            ]
+                        },
+                        "key_code": "left_shift"
+                    },
+                    "to_if_alone": [
+                        {
+                            "key_code": "escape"
+                        },
+                        {
+                            "select_input_source": {
+                                "language": "en",
+                                "input_source_id": "^com\\.apple\\.keylayout\\.US$"
+                            }
+                        }
+                    ],
+                    "type": "basic",
+                    "conditions": [
+                        {
+                            "type": "input_source_if",
+                            "input_sources": [
+                                {
+                                    "language": "zh-Hans"
+                                }
+                            ]
+                        }
+                    ],
+                    "to": [
+                        {
+                            "key_code": "left_shift"
+                        }
+                    ],
+                    "description": "按 left_shift 切换系统英文和 RIME 输入法"
+                },
+                {
+                    "from": {
+                        "modifiers": {
+                            "optional": [
+                                "any"
+                            ]
+                        },
+                        "key_code": "left_shift"
+                    },
+                    "to_if_alone": [
+                        {
+                            "select_input_source": {
+                                "language": "zh-Hans",
+                                "input_source_id": "^im\\.rime\\.inputmethod\\.Squirrel\\.Rime$"
+                            }
+                        }
+                    ],
+                    "type": "basic",
+                    "conditions": [
+                        {
+                            "type": "input_source_if",
+                            "input_sources": [
+                                {
+                                    "language": "en"
+                                }
+                            ]
+                        },
+                        {
+                            "bundle_identifiers": [
+                                "^org\\.gnu\\.Emacs$",
+                                "^org\\.gnu\\.AquamacsEmacs$",
+                                "^org\\.gnu\\.Aquamacs$"
+                            ],
+                            "type": "frontmost_application_unless"
+                        }
+                    ],
+                    "description": "按 left_shift 切换RIME 输入法",
+                    "to": [
+                        {
+                            "key_code": "left_shift"
+                        }
+                    ]
+                },
+                {
+                    "from": {
+                        "key_code": "left_shift",
+                        "modifiers": {
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "type": "basic",
+                    "to_if_alone": [
+                        {
+                            "select_input_source": {
+                                "input_source_id": "^im\\.rime\\.inputmethod\\.Squirrel\\.Rime$",
+                                "language": "zh-Hans"
+                            }
+                        },
+                        {
+                            "key_code": "f18"
+                        }
+                    ],
+                    "conditions": [
+                        {
+                            "type": "input_source_if",
+                            "input_sources": [
+                                {
+                                    "language": "en"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "frontmost_application_if",
+                            "bundle_identifiers": [
+                                "^org\\.gnu\\.Emacs$",
+                                "^org\\.gnu\\.AquamacsEmacs$",
+                                "^org\\.gnu\\.Aquamacs$"
+                            ]
+                        }
+                    ],
+                    "description": "emacs按 left_shift 切换RIME 输入法",
+                    "to": [
+                        {
+                            "key_code": "left_shift"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "conditions": [
+                        {
+                            "input_sources": [
+                                {
+                                    "language": "zh-Hans"
+                                }
+                            ],
+                            "type": "input_source_if"
+                        },
+                        {
+                            "bundle_identifiers": [
+                                "^org\\.gnu\\.Emacs$",
+                                "^org\\.gnu\\.AquamacsEmacs$",
+                                "^org\\.gnu\\.Aquamacs$"
+                            ],
+                            "type": "frontmost_application_if"
+                        }
+                    ],
+                    "to": [
+                        {
+                            "key_code": "g",
+                            "modifiers": [
+                                "left_control"
+                            ]
+                        },
+                        {
+                            "select_input_source": {
+                                "input_source_id": "^com\\.apple\\.keylayout\\.US$",
+                                "language": "en"
+                            }
+                        }
+                    ],
+                    "description": "emacs按 ctrl-g 切换english 输入法",
+                    "from": {
+                        "key_code": "g",
+                        "modifiers": {
+                            "mandatory": [
+                                "control"
+                            ],
+                            "optional": [
+                                "caps_lock"
+                            ]
+                        }
+                    }
+                }
+            ],
+            "description": "按 left_shift 切换系统英文和 RIME 输入法"
+        }
+    ]
+}
