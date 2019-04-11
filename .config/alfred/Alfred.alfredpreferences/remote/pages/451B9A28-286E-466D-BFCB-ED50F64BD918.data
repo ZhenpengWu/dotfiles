@@ -53,21 +53,7 @@
 			<key>itemuid</key>
 			<string>94A01E63-0441-450C-B2DC-D0ECBB4C2288</string>
 		</dict>
-		<dict>
-			<key>actionconfig</key>
-			<dict>
-				<key>path</key>
-				<string>~/Downloads</string>
-			</dict>
-			<key>actionuid</key>
-			<string>remote.alfred.launchfile</string>
-			<key>buttoniconid</key>
-			<string>01B57023-8C4D-459B-BA4B-1AE4A506A5A1</string>
-			<key>buttonlabel</key>
-			<string>Downloads</string>
-			<key>itemuid</key>
-			<string>49F2EC93-6A7E-44D7-8E33-D3A22967DFC7</string>
-		</dict>
+		<dict/>
 		<dict>
 			<key>actionconfig</key>
 			<dict>

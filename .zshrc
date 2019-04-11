@@ -7,11 +7,11 @@ export ZSH_CUSTOM=$ZSH/custom
 export PATH="/usr/local/sbin:$PATH"
 export PATH="$HOME/.npm-packages/bin:$PATH"
 export PATH="$HOME/.npm-packages/lib:$PATH"
-export PATH="/usr/local/texlive/2018/bin:$PATH"
-# export PATH="/usr/local/opt/node@8/bin:$PATH"
-export PATH="/usr/local/opt/node/bin:$PATH"
+export PATH="/usr/local/texlive/2019/bin:$PATH"
+export PATH="/usr/local/opt/node@12/bin:$PATH"
+# export PATH="/usr/local/opt/node/bin:$PATH"
 # export PATH="/usr/local/opt/coreutils/libexec/gnubin:$PATH"
-
+export PATH="/usr/local/opt/ruby/bin:$PATH"
 export PATH=$PATH:$(ruby -e 'puts Gem.bindir')
 
 # language
@@ -23,8 +23,8 @@ export SSH_KEY_PATH="~/.ssh/rsa_id"
 # spaceship
 source "$ZSH/custom/themes/spaceship.zsh-theme"
 ZSH_THEME="spaceship"
-SPACESHIP_CHAR_SYMBOL=$'\ue007 '
-SPACESHIP_CHAR_SYMBOL_SECONDARY=$'\ue007 '
+SPACESHIP_CHAR_SYMBOL=$'\uf641 '
+SPACESHIP_CHAR_SYMBOL_SECONDARY=$'\uf641  '
 SPACESHIP_PACKAGE_SYMBOL=$'\uf487 '
 SPACESHIP_NODE_SYMBOL=$'\uf898 '
 SPACESHIP_RUBY_SYMBOL=$'\ue21e '
@@ -109,6 +109,7 @@ alias t='tmux attach -t base || tmux new -s base'
 alias code="code-insiders"
 alias vim=nvim
 alias top=gtop
+alias py3=python3
 
 alias l='colorls -1'
 alias ll='colorls -la'
@@ -122,10 +123,3 @@ ok() {
     cmatrix -a -s -b
 }
 
-handin() {
-    if [ "$1" != "" ] && [ "$2" != "" ]; then # or better, if [ -n "$1" ]
-        rsync -ra . w8j0b@thetis.ugrad.cs.ubc.ca:~/"$1"/"$2"
-    else
-        echo "handin course# hw#"
-    fi
-}

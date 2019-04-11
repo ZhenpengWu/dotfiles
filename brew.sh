@@ -107,7 +107,6 @@ brew install curl
 brew install telnet
 brew install grep the_silver_searcher # grep / ag
 brew install imagemagick --with-webp
-brew install tree
 brew install pandoc # see https://github.com/jgm/pandoc
 brew install cloc   # see https://github.com/AlDanial/cloc
 brew install htop
@@ -123,7 +122,7 @@ brew install whois
 brew install autojump
 brew install thefuck
 brew install fzf
-brew install bat
+# brew install bat
 
 # Install Lxml and Libxslt
 brew install libxml2
@@ -154,9 +153,10 @@ brew cask install hammerspoon
 brew cask install karabiner-elements
 brew cask install plistedit-pro
 brew cask install squirrel
+
 # Install productivity tools
 brew cask install google-chrome
-brew cask install airmail-beta
+# brew cask install airmail-beta
 brew cask install teamviewer
 brew cask install dropbox
 brew cask install slack
@@ -167,11 +167,12 @@ brew cask install mactex
 # Intall other tools
 brew cask install mpv
 brew cask install xquartz
-brew cask install skype
-brew cask install astrill
+# brew cask install skype
+# brew cask install astrill
 brew cask install neteasemusic
 brew cask install calibre
 brew cask install thunder
+brew cask install mkvtoolnix
 
 # Install font tools
 brew tap homebrew/cask-fonts

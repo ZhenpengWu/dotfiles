@@ -314,15 +314,15 @@ hsmail_keys = hsmail_keys or {"alt", "P"}
 if string.len(hsmail_keys[2]) > 0 then
     spoon.ModalMgr.supervisor:bind(hsmail_keys[1], hsmail_keys[2], "Toggle Mail Application", function() 
         -- local mail = hs.appfinder.appFromName("Airmail")
-        -- local mail = hs.appfinder.appFromName("Mail")
+        local mail = hs.appfinder.appFromName("Mail")
         -- local mail = hs.appfinder.appFromName("Canary Mail")
-        local mail = hs.appfinder.appFromName("Spark")
+        -- local mail = hs.appfinder.appFromName("Spark")
 
         if mail == nil then
             -- hs.application.launchOrFocusByBundleID("it.bloop.airmail.beta11")
-            -- hs.application.launchOrFocusByBundleID("com.apple.mail")
+            hs.application.launchOrFocusByBundleID("com.apple.mail")
             -- hs.application.launchOrFocusByBundleID("io.canarymail.mac")
-            hs.application.launchOrFocusByBundleID("com.readdle.smartemail-Mac")
+            -- hs.application.launchOrFocusByBundleID("com.readdle.smartemail-Mac")
 
         else
             if mail:isFrontmost() then

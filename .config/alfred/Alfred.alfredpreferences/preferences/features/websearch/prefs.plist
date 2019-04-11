@@ -13,7 +13,7 @@
 			<key>text</key>
 			<string>Github UBC</string>
 			<key>url</key>
-			<string>https://github.ugrad.cs.ubc.ca/</string>
+			<string>https://github.students.cs.ubc.ca</string>
 			<key>utf8</key>
 			<true/>
 		</dict>
@@ -22,11 +22,24 @@
 			<key>enabled</key>
 			<true/>
 			<key>keyword</key>
-			<string>shooter</string>
+			<string>sub</string>
 			<key>text</key>
 			<string>Shooter</string>
 			<key>url</key>
 			<string>http://assrt.net/sub/?searchword={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>87DF73C4-D72A-43C2-8606-826C4A7AD362</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>sub</string>
+			<key>text</key>
+			<string>Sub HD</string>
+			<key>url</key>
+			<string>https://subhd.tv/search0/{query}</string>
 			<key>utf8</key>
 			<true/>
 		</dict>
@@ -40,6 +53,19 @@
 			<string>Github</string>
 			<key>url</key>
 			<string>https://github.com/ZhenpengWu</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>C1ABBD58-35DE-46CF-998A-DD0DFCACEA2B</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>douban</string>
+			<key>text</key>
+			<string>Douban</string>
+			<key>url</key>
+			<string>https://www.douban.com/search?source=suggest&amp;q={query}</string>
 			<key>utf8</key>
 			<true/>
 		</dict>

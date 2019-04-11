@@ -3,8 +3,10 @@
 #         without any warranty.
 #         Copyright 2012— Gregory Pakosz (@gpakosz).
 
-# -- navigation ----------------------------------------------------------------
+# edit configuration
+bind e new-window -n '~/.tmux.conf.local' "sh -c '\${EDITOR:-nvim} ~/.tmux.conf.local && tmux source ~/.tmux.conf && tmux display \"~/.tmux.conf sourced\"'"
 
+# -- navigation ----------------------------------------------------------------
 # if you're running tmux within iTerm2
 #   - and tmux is 1.9 or 1.9a
 #   - and iTerm2 is configured to let option key act as +Esc
@@ -165,6 +167,7 @@ tmux_conf_theme_right_separator_sub='|'
 #     - #{prefix}
 #     - #{root}
 #     - #{synchronized}
+#     - #{uptime_y}
 #     - #{uptime_d}
 #     - #{uptime_h}
 #     - #{uptime_m}
@@ -172,7 +175,8 @@ tmux_conf_theme_right_separator_sub='|'
 #     - #{username}
 #     - #{username_ssh}
 tmux_conf_theme_status_left=' ❐ #S | ↑#{?uptime_d, #{uptime_d}d,}#{?uptime_h, #{uptime_h}h,}#{?uptime_m, #{uptime_m}m,} '
-tmux_conf_theme_status_right=' #{prefix}#{pairing}#{synchronized}#{?battery_status, #{battery_status},}#{?battery_bar, #{battery_bar},}#{?battery_percentage, #{battery_percentage},} , %R | #{username}#{root} | #{hostname} '
+# tmux_conf_theme_status_right=' #{prefix}#{pairing}#{synchronized}#{?battery_status, #{battery_status},}#{?battery_bar, #{battery_bar},}#{?battery_percentage, #{battery_percentage},} , %R | #{username}#{root} | #{hostname} '
+tmux_conf_theme_status_right='#{prefix}#{pairing}#{synchronized} #{?battery_status, #{battery_status},}#{?battery_bar, #{battery_bar},}#{?battery_percentage, #{battery_percentage},} | #{username}#{root} | #{hostname} '
 
 set -g status-justify left                               # center align window list
 
@@ -279,4 +283,5 @@ set -g prefix C-a
 bind C-a send-prefix
 
 # move status line to top
-set -g status-position bottom
+set -g status-position top
+

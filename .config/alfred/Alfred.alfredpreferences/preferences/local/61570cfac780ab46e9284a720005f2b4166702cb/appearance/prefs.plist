@@ -4,5 +4,9 @@
 <dict>
 	<key>currentthemeuid</key>
 	<string>theme.custom.C183BF57-50D5-4D85-9584-FFFE1C091405</string>
+	<key>darkthemeuid</key>
+	<string>theme.custom.C183BF57-50D5-4D85-9584-FFFE1C091405</string>
+	<key>lightthemeuid</key>
+	<string>theme.custom.C183BF57-50D5-4D85-9584-FFFE1C091405</string>
 </dict>
 </plist>

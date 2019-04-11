@@ -1,7 +1,7 @@
 # encoding: utf-8
 
 patch:
-  menu/page_size: 6
+  menu/page_size: 8
 
   # 如果要把 Caps Lock 設爲只改變字母的大小寫而不做中西文切換，可將 Caps_Lock 對應的切換方式設爲 noop
   # 如果要以 Caps Lock 切換到西文模式，默認輸出小寫字母，請置 ascii_composer/good_old_caps_lock: false

@@ -6,17 +6,21 @@ patch:
   style/color_scheme: AKIRA
   style/horizontal: true
   style/inline_preedit: true
+  style/display_tray_icon: true # 顯示托盤圖標
   style/candidate_format: "%c\u2005%@\u2005" # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间。
   style/font_face: "FZQingKeBenYueSongS-R-GB"
-  style/label_font_face: "Samurai"
+  style/label_font_face: "FZQingKeBenYueSongS-R-GB"
   style/border_color_width: 0
-  style/font_point: 16 # 候选文字大小
+  style/font_point: 14 # 候选文字大小
   style/label_font_point: 14 # 候选编号大小
   style/corner_radius: 3 # 候选条圆角
   style/border_height: 0 # 窗口边界高度，大于圆角半径才生效
   style/border_width: 0 # 窗口边界宽度，大于圆角半径才生效
   style/line_spacing: 0
   style/spacing: 10
+
+  app_options/com.googlecode.iterm2:
+    ascii_mode: true
 
   preset_color_schemes:
     AKIRA:

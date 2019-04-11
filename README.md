@@ -1,5 +1,5 @@
 # dotfiles
-
+ 
 ## brew.sh
 
 ```
@@ -94,11 +94,6 @@ $ open ${HOME}/Library/Preferences/com.apple.HIToolbox.plist
 ### Alfred
 
 - Minimal/Minimal Dark Alfred theme preferences
-
-### Dash
-
-- Dash preferences
-- Some snippets
 
 ## git
 
