@@ -200,4 +200,4 @@
 	process = git-lfs filter-process
 	required = true
 [gpg]
-	program = /usr/local/bin/gpg
+	program = gpg
