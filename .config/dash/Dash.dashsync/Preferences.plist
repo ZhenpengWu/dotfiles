@@ -138,7 +138,30 @@
 			</dict>
 		</dict>
 		<key>uninstalled</key>
-		<dict/>
+		<dict>
+			<key>Solidity</key>
+			<dict>
+				<key>date</key>
+				<date>2020-01-28T02:32:02Z</date>
+				<key>entry</key>
+				<dict>
+					<key>aliases</key>
+					<array>
+						<string>solidity, sol, ethereum solidity, Solidity</string>
+					</array>
+					<key>authorLinkHref</key>
+					<string>https://github.com/Kapeli/Dash-User-Contributions/tree/master/docsets/Solidity#readme</string>
+					<key>authorLinkText</key>
+					<string>Oscar Chavez</string>
+					<key>name</key>
+					<string>Solidity</string>
+					<key>platform</key>
+					<string>usercontribSolidity</string>
+					<key>uniqueIdentifier</key>
+					<string>Solidity</string>
+				</dict>
+			</dict>
+		</dict>
 	</dict>
 	<key>DHWebViewIsDark</key>
 	<false/>
@@ -178,6 +201,10 @@
 			<key>~/Library/Application Support/Dash/DocSets/Java_SE10/Java.docset</key>
 			<string>java:</string>
 			<key>~/Library/Application Support/Dash/DocSets/Java_SE11/Java.docset</key>
+			<string>java:</string>
+			<key>~/Library/Application Support/Dash/DocSets/Java_SE12/Java.docset</key>
+			<string>java:</string>
+			<key>~/Library/Application Support/Dash/DocSets/Java_SE13/Java.docset</key>
 			<string>java:</string>
 			<key>~/Library/Application Support/Dash/DocSets/Java_SE8/Java.docset</key>
 			<string>java:</string>
@@ -280,6 +307,11 @@
 				<key>date</key>
 				<date>2019-07-03T11:21:18Z</date>
 			</dict>
+			<key>http://kapeli.com/feeds/Java_SE13.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2020-01-22T00:57:34Z</date>
+			</dict>
 			<key>http://kapeli.com/feeds/Java_SE8.xml</key>
 			<dict>
 				<key>date</key>
@@ -309,6 +341,11 @@
 			<dict>
 				<key>date</key>
 				<date>2018-06-28T02:53:46Z</date>
+			</dict>
+			<key>http://kapeli.com/feeds/NumPy.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2020-01-28T23:39:46Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/PHP.xml</key>
 			<dict>
@@ -344,6 +381,11 @@
 			<dict>
 				<key>date</key>
 				<date>2018-10-06T16:48:48Z</date>
+			</dict>
+			<key>http://kapeli.com/feeds/SciPy.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2020-01-28T23:40:01Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/TypeScript.xml</key>
 			<dict>
