@@ -2,47 +2,105 @@
 import sys
 import os
 import ssl
+import re
 from workflow import Workflow3
 
 reload(sys)
 sys.setdefaultencoding('utf8')
 
 
-def getargs(wf):
+def escape_quote(result):
+    return result.replace("\'", "\\\'").replace("\"", "\\\"")
+
+
+def get_args(wf):
     query = sys.argv[1]
-    query = query.split('$%')
-    operation = str(sys.argv[2])
+    arg_array = query.split('$%')
+    command = str(sys.argv[2])
 
-    # 是否有更新
-    if query[4] == 'update':
-        wf.start_update()
-    # 是否有错误
-    elif query[4] == 'error':
-        import webbrowser
-        url = "https://blog.naaln.com/2017/04/alfred-youdao-intro/"
-        webbrowser.open(url)
-        return
-    elif query[4] != '':
-        return
+    try:
+        version = arg_array[0]
+        query = arg_array[1]
+        result = arg_array[2]
+        query_language = arg_array[3]
+        pronounce = arg_array[4]
+        operation = arg_array[5]
 
-    if operation == 'search':
+        # 是否有更新
+        if operation == 'update_now':
+            wf.start_update()
+            return
+        elif operation == 'update_with_url':
+            import webbrowser
+            url = "https://github.com/whyliam/whyliam.workflows.youdao/releases"
+            webbrowser.open(url)
+            return
+        elif operation == 'update_next_time':
+            return
+
+        # 是否有错误
+        elif operation == 'error':
+            import webbrowser
+            url = "https://blog.naaln.com/2017/04/alfred-youdao-intro/"
+            webbrowser.open(url)
+            return
+
         # 查询的单词
-        sys.stdout.write(query[0].strip())
-    elif operation == 'copy':
+        if command == 'search':
+            sys.stdout.write(query)
+
         # 翻译的结果
-        sys.stdout.write(query[1].strip())
-    elif operation == "pronounce":
+        elif command == 'copy':
+            sys.stdout.write(result)
+
         # 发音
-        if query[2]:
-            bashCommand = "say --voice='Samantha' " + query[2]
-            os.system(bashCommand)
-        if query[3]:
-            bashCommand = "say --voice='Ting-Ting' " + query[3]
-            os.system(bashCommand)
+        elif command == "pronounce":
+            if ('2') in query_language:
+                data_form, data_to = query_language.split('2')
+            else:
+                data_form = query_language
+                data_to = ''
+
+            if data_form == 'EN':
+                if pronounce == '':
+                    pronounce = query
+                bashCommand = "say --voice='Samantha' " + \
+                    escape_quote(pronounce)
+                os.system(bashCommand)
+
+            elif data_form == 'KO':
+                if pronounce == '':
+                    pronounce = query
+                bashCommand = "say --voice='Yuna' " + escape_quote(pronounce)
+                os.system(bashCommand)
+
+            elif data_form == 'zh-CHS':
+                if pronounce == '':
+                    pronounce = query
+                bashCommand = "say --voice='Ting-Ting' " + \
+                    escape_quote(pronounce)
+                os.system(bashCommand)
+
+            elif data_form == 'JA':
+                if pronounce == '':
+                    pronounce = query
+                bashCommand = "say --voice='Kyoko' " + escape_quote(pronounce)
+                os.system(bashCommand)
+
+            elif data_to == 'EN':
+                if pronounce == '':
+                    pronounce = result
+                bashCommand = "say --voice='Samantha' " + \
+                    escape_quote(pronounce)
+                os.system(bashCommand)
+
+    except Exception as e:
+        return
 
 
 if __name__ == '__main__':
     wf = Workflow3(update_settings={
         'github_slug': 'whyliam/whyliam.workflows.youdao',
+        'frequency': 0
     })
-    sys.exit(wf.run(getargs))
+    sys.exit(wf.run(get_args))

@@ -14,9 +14,9 @@
 	<integer>2</integer>
 	<key>saveposition</key>
 	<true/>
+	<key>showOnScreen</key>
+	<integer>1</integer>
 	<key>showscrollbar</key>
 	<false/>
-	<key>visibleresults</key>
-	<integer>7</integer>
 </dict>
 </plist>

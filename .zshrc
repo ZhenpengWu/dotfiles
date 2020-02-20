@@ -18,8 +18,6 @@ export PATH="/usr/local/texlive/2019/bin:$PATH"
 export PATH="/usr/local/opt/node@12/bin:$PATH"
 # export PATH="/usr/local/opt/node/bin:$PATH"
 # export PATH="/usr/local/opt/coreutils/libexec/gnubin:$PATH"
-export PATH="/usr/local/opt/ruby/bin:$PATH"
-export PATH=$PATH:$(ruby -e 'puts Gem.bindir')
 
 # language
 export LANG=en_US.UTF-8
@@ -116,7 +114,7 @@ alias e='emacs -nw'
 alias t='tmux attach -t base || tmux new -s base'
 alias code="code-insiders"
 alias vim=nvim
-alias top=gtop
+# alias top=gtop
 alias py3=python3
 
 alias l='colorls -1'
@@ -133,3 +131,4 @@ ok() {
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
