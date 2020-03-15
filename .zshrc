@@ -112,7 +112,6 @@ source $ZSH/oh-my-zsh.sh
 alias ohmyzsh="emacs ~/.oh-my-zsh"
 alias e='emacs -nw'
 alias t='tmux attach -t base || tmux new -s base'
-alias code="code-insiders"
 alias vim=nvim
 # alias top=gtop
 alias py3=python3
