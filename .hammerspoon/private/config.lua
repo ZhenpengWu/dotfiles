@@ -1,4 +1,6 @@
-hypershift = {"ctrl", "alt", "cmd", "shift"}
+-- hypershift = {"ctrl", "alt", "cmd", "shift"}
+
+hypershift = {"alt"}
 
 -- Specify Spoons which will be loaded
 hspoon_list = {
@@ -29,23 +31,13 @@ hsaria2_secret = "token"
 
 ----------------------------------------------------------------------------------------------------
 
--- Window hints keybinding: Focuse to any window you want
-hswhints_keys = {hypershift, "tab"}
-
 -- clipshowM environment keybinding: System clipboard reader
-hsclipsM_keys = {hypershift, "C"}
 
 -- Toggle the display of aria2 frontend
 hsaria2_keys = {hypershift, "\\"}
 
--- Launch Hammerspoon Search
-hsearch_keys = {hypershift, "G"}
-
 -- Read Hammerspoon and Spoons API manual in default browser
 hsman_keys = {hypershift, "H"}
-
--- countdownM environment keybinding: Visual countdown
-hscountdM_keys = {hypershift, "I"}
 
 -- Lock computer's screen
 hslock_keys = {hypershift, "L"}
@@ -63,12 +55,7 @@ hsaclock_keys = {hypershift, "T"}
 hsconsole_keys = {hypershift, "Z"}
 
 -- Toggle Mail Application
-hsmail_keys = {hypershift, "P"}
-
--- Toggle Finder
-hsfinder_keys = {hypershift, "A"}
-
-hsvolumedevice_keys = {hypershift, "O"}
+hsmail_keys = {hypershift, "M"}
 
 hswinleft_keys = {hypershift, "left"}
 

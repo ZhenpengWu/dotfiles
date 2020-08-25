@@ -128,6 +128,7 @@ ok() {
     cmatrix -a -s -b
 }
 
+# export PATH = "$PATH:/usr/local/Cellar/perl/5.28.0/bin"
+
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
-

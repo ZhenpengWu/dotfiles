@@ -7,12 +7,14 @@
 	<key>hotkey</key>
 	<dict>
 		<key>key</key>
-		<integer>0</integer>
+		<integer>-1</integer>
 		<key>mod</key>
-		<integer>0</integer>
+		<integer>-1</integer>
 		<key>string</key>
 		<string></string>
 	</dict>
+	<key>limit</key>
+	<integer>4</integer>
 	<key>snippetKeywordEnabled</key>
 	<false/>
 	<key>viewerKeywordEnabled</key>
