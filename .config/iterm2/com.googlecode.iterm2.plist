@@ -2568,7 +2568,7 @@
 	</array>
 	<key>NoSyncAllAppVersions</key>
 	<array>
-		<string>3.3.20200611-nightly</string>
+		<string>3.3.20190626-nightly</string>
 		<string>3.3.20191113-nightly</string>
 		<string>3.4.20200723-nightly</string>
 		<string>3.3.20190623-nightly</string>
@@ -2597,7 +2597,9 @@
 		<string>3.3.20200315-nightly</string>
 		<string>3.4.20200727-nightly</string>
 		<string>3.3.20191210-nightly</string>
+		<string>3.4.20200819-nightly</string>
 		<string>3.3.20190815-nightly</string>
+		<string>3.4.20200813-nightly</string>
 		<string>3.3.20190911-nightly</string>
 		<string>3.3.20190907-nightly</string>
 		<string>3.4.20200806-nightly</string>
@@ -2605,6 +2607,7 @@
 		<string>3.3.20190904-nightly</string>
 		<string>3.3.20190802-nightly</string>
 		<string>3.3.20200122-nightly</string>
+		<string>3.4.20200831-nightly</string>
 		<string>3.3.20190829-nightly</string>
 		<string>3.4.20200629-nightly</string>
 		<string>3.4.20200725-nightly</string>
@@ -2626,7 +2629,7 @@
 		<string>3.3.20190929-nightly</string>
 		<string>3.4.20200726-nightly</string>
 		<string>3.3.20191215-nightly</string>
-		<string>3.3.20190626-nightly</string>
+		<string>3.3.20200611-nightly</string>
 	</array>
 	<key>NoSyncAutoBurialReveal</key>
 	<true/>
@@ -2657,7 +2660,7 @@
 		<key>screenFrame</key>
 		<string>{{0, 0}, {1680, 1050}}</string>
 		<key>topLeft</key>
-		<string>{14, 807}</string>
+		<string>{20, 807}</string>
 	</dict>
 	<key>NoSyncHaveRequestedFullDiskAccess</key>
 	<true/>
@@ -2670,9 +2673,9 @@
 	<key>NoSyncInstallationId</key>
 	<string>49AB0D0D-BCFA-44CD-B6DB-016C3E07D458</string>
 	<key>NoSyncLastOSVersion</key>
-	<string>Version 10.16 (Build 20A5343i)</string>
+	<string>Version 10.16 (Build 20A5354i)</string>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>328</integer>
+	<integer>351</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -2807,7 +2810,7 @@
 				<key>isTerminal</key>
 				<true/>
 				<key>name</key>
-				<string>presentationName</string>
+				<string>session.tty</string>
 				<key>nonterminalContext</key>
 				<integer>0</integer>
 			</dict>
@@ -3167,6 +3170,14 @@
 				<key>isTerminal</key>
 				<true/>
 				<key>name</key>
+				<string>processTitle</string>
+				<key>nonterminalContext</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>isTerminal</key>
+				<true/>
+				<key>name</key>
 				<string>session.badge</string>
 				<key>nonterminalContext</key>
 				<integer>0</integer>
@@ -3351,6 +3362,14 @@
 				<key>isTerminal</key>
 				<true/>
 				<key>name</key>
+				<string>presentationName</string>
+				<key>nonterminalContext</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>isTerminal</key>
+				<true/>
+				<key>name</key>
 				<string>session.termid</string>
 				<key>nonterminalContext</key>
 				<integer>0</integer>
@@ -3360,14 +3379,6 @@
 				<true/>
 				<key>name</key>
 				<string>creationTimeString</string>
-				<key>nonterminalContext</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>isTerminal</key>
-				<true/>
-				<key>name</key>
-				<string>session.tty</string>
 				<key>nonterminalContext</key>
 				<integer>0</integer>
 			</dict>
@@ -3387,6 +3398,14 @@
 				<true/>
 				<key>name</key>
 				<string>id</string>
+				<key>nonterminalContext</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>isTerminal</key>
+				<true/>
+				<key>name</key>
+				<string>currentTab.currentSession.processTitle</string>
 				<key>nonterminalContext</key>
 				<integer>0</integer>
 			</dict>
@@ -4138,7 +4157,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2020-08-07T05:39:18Z</date>
+	<date>2020-09-04T09:33:38Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SUUpdateRelaunchingMarker</key>
@@ -4177,6 +4196,8 @@
 	<integer>1</integer>
 	<key>TmuxUsesDedicatedProfile</key>
 	<false/>
+	<key>UIElementRequiresHotkeys</key>
+	<false/>
 	<key>UKCrashReporterLastCrashReportDate</key>
 	<real>1541411328</real>
 	<key>UseBorder</key>
@@ -4200,7 +4221,7 @@
 	<key>findMode_iTerm</key>
 	<integer>0</integer>
 	<key>iTerm Version</key>
-	<string>3.4.20200806-nightly</string>
+	<string>3.4.20200831-nightly</string>
 	<key>kCPKSelectionViewPreferredModeKey</key>
 	<integer>7</integer>
 	<key>kCPKSelectionViewShowHSBTextFieldsKey</key>

@@ -73,6 +73,7 @@ if git pull --rebase --stat origin master; then
   printf "${BLUE}${BOLD}%s ${UNDER}%s${RESET}\n" "Want to get involved in the community? Join our Discord:" "https://discord.gg/ohmyzsh"
   printf "${BLUE}${BOLD}%s ${UNDER}%s${RESET}\n" "Get your Oh My Zsh swag at:" "https://shop.planetargon.com/collections/oh-my-zsh"
 else
+  status=$?
   printf "${RED}%s${RESET}\n" 'There was an error updating. Try again later?'
 fi
 
@@ -81,3 +82,6 @@ case "$resetAutoStash" in
 "") git config --unset rebase.autoStash ;;
 *) git config rebase.autoStash "$resetAutoStash" ;;
 esac
+
+# Exit with `1` if the update failed
+exit $status
