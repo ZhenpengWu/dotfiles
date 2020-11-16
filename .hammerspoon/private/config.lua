@@ -55,7 +55,7 @@ hsaclock_keys = {hypershift, "T"}
 hsconsole_keys = {hypershift, "Z"}
 
 -- Toggle Mail Application
-hsmail_keys = {hypershift, "M"}
+hsmail_keys = {hypershift, "P"}
 
 hswinleft_keys = {hypershift, "left"}
 

@@ -312,6 +312,16 @@
 				<key>date</key>
 				<date>2020-08-07T06:58:59Z</date>
 			</dict>
+			<key>http://kapeli.com/feeds/Java_SE14.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2020-10-19T19:06:38Z</date>
+			</dict>
+			<key>http://kapeli.com/feeds/Java_SE15.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2020-10-19T19:06:48Z</date>
+			</dict>
 			<key>http://kapeli.com/feeds/Java_SE8.xml</key>
 			<dict>
 				<key>date</key>
