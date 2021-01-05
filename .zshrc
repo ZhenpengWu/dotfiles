@@ -19,6 +19,9 @@ export PATH="/usr/local/opt/node@12/bin:$PATH"
 # export PATH="/usr/local/opt/node/bin:$PATH"
 # export PATH="/usr/local/opt/coreutils/libexec/gnubin:$PATH"
 
+# export CPATH=/Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/System/Library/Perl/5.28/darwin-thread-multi-2level/CORE:$CPATH
+# export PATH="/usr/local/opt/perl/bin:$PATH"
+
 # language
 export LANG=en_US.UTF-8
 

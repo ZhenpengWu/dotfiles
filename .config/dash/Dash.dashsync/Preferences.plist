@@ -222,6 +222,11 @@
 	<dict>
 		<key>installed</key>
 		<dict>
+			<key>http://kapeli.com/feeds/AWS_JavaScript.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2021-01-04T22:43:11Z</date>
+			</dict>
 			<key>http://kapeli.com/feeds/AppleScript.xml</key>
 			<dict>
 				<key>date</key>

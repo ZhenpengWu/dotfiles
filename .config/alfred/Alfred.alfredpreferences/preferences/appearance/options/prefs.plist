@@ -16,7 +16,5 @@
 	<true/>
 	<key>showOnScreen</key>
 	<integer>1</integer>
-	<key>showscrollbar</key>
-	<false/>
 </dict>
 </plist>

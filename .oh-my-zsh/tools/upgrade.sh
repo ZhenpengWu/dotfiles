@@ -1,12 +1,16 @@
 #!/usr/bin/env zsh
 
+if [ -z "$ZSH_VERSION" ]; then
+  exec zsh "$0"
+fi
+
 cd "$ZSH"
 
 # Use colors, but only if connected to a terminal
 # and that terminal supports them.
 
 local -a RAINBOW
-local RED GREEN YELLOW BLUE UNDER BOLD RESET
+local RED GREEN YELLOW BLUE BOLD DIM UNDER RESET
 
 if [ -t 1 ]; then
   RAINBOW=(
@@ -24,12 +28,13 @@ if [ -t 1 ]; then
   YELLOW=$(printf '\033[33m')
   BLUE=$(printf '\033[34m')
   BOLD=$(printf '\033[1m')
+  DIM=$(printf '\033[2m')
   UNDER=$(printf '\033[4m')
   RESET=$(printf '\033[m')
 fi
 
 # Update upstream remote to ohmyzsh org
-git remote -v | while read remote url _; do
+git remote -v | while read remote url extra; do
   case "$url" in
   https://github.com/robbyrussell/oh-my-zsh(|.git))
     git remote set-url "$remote" "https://github.com/ohmyzsh/ohmyzsh.git"
@@ -65,12 +70,15 @@ if git pull --rebase --stat origin master; then
   else
     message="Hooray! Oh My Zsh has been updated!"
 
+    # Save the commit prior to updating
+    git config oh-my-zsh.lastVersion "$last_commit"
+
     # Display changelog with less if available, otherwise just print it to the terminal
-    if (( $+commands[less] )); then
-      command less -R <("$ZSH/tools/changelog.sh" HEAD "$last_commit")
-    else
+    if [[ "$1" = --interactive ]]; then
       "$ZSH/tools/changelog.sh" HEAD "$last_commit"
     fi
+
+    printf "${BLUE}%s \`${BOLD}%s${RESET}${BLUE}\`${RESET}\n" "You can see the changelog with" "omz changelog"
   fi
 
   printf "${BLUE}%s${RESET}\n" "Updating Oh My Zsh Custom Plugins and Themes"

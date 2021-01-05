@@ -13,6 +13,8 @@
 		<key>string</key>
 		<string></string>
 	</dict>
+	<key>ignoreRemoteClipboard</key>
+	<true/>
 	<key>limit</key>
 	<integer>4</integer>
 	<key>snippetKeywordEnabled</key>
