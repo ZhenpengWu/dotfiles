@@ -1,0 +1,63 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#DB2F3CCB",
+        "font" : "System",
+        "color" : "#CBCBCBF3"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "WenYue XinQingNianTi (Non-Commercial Use) W8",
+        "color" : "#FEFFFFFF"
+      },
+      "backgroundSelected" : "#48006900",
+      "text" : {
+        "size" : 22,
+        "colorSelected" : "#DB2F3CFF",
+        "font" : "WenYue XinQingNianTi (Non-Commercial Use) W8",
+        "color" : "#FFFFFFFF"
+      },
+      "iconPaddingHorizontal" : 7,
+      "roundness" : 8,
+      "paddingVertical" : 3,
+      "iconSize" : 42
+    },
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "search" : {
+      "backgroundSelected" : "#48006900",
+      "paddingHorizontal" : 7,
+      "spacing" : 5,
+      "text" : {
+        "size" : 45,
+        "colorSelected" : "#FEFB00FF",
+        "font" : "WenYue XinQingNianTi (Non-Commercial Use) W8",
+        "color" : "#DB2F3CFF"
+      },
+      "background" : "#00000000",
+      "roundness" : 8,
+      "paddingVertical" : 4
+    },
+    "scrollbar" : {
+      "color" : "#FEFFFFFF",
+      "thickness" : 2
+    },
+    "name" : "xxxx",
+    "window" : {
+      "color" : "#F8F8F800",
+      "paddingHorizontal" : 9,
+      "width" : 700,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 0,
+      "roundness" : 15,
+      "paddingVertical" : 9
+    }
+  }
+}

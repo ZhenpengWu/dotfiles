@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#FEFFFFFF",
+        "font" : "FZYaoTi",
+        "color" : "#FFFFFFD8"
+      },
+      "shortcut" : {
+        "size" : 9,
+        "colorSelected" : "#FFFFFFBF",
+        "font" : "WenYue XinQingNianTi (Non-Commercial Use)",
+        "color" : "#00000000"
+      },
+      "backgroundSelected" : "#17161700",
+      "text" : {
+        "size" : 28,
+        "colorSelected" : "#DB303CFF",
+        "font" : "WenYue XinQingNianTi (Non-Commercial Use)",
+        "color" : "#FEFFFFE5"
+      },
+      "iconPaddingHorizontal" : 5,
+      "roundness" : 0,
+      "paddingVertical" : 1,
+      "iconSize" : 40
+    },
+    "search" : {
+      "backgroundSelected" : "#D8D8DBFF",
+      "paddingHorizontal" : 8,
+      "spacing" : 0,
+      "text" : {
+        "size" : 60,
+        "colorSelected" : "#DB303CFF",
+        "font" : "WenYue XinQingNianTi (Non-Commercial Use)",
+        "color" : "#DB2F3CFF"
+      },
+      "background" : "#4B4B4B00",
+      "roundness" : 0,
+      "paddingVertical" : 0
+    },
+    "window" : {
+      "color" : "#11111100",
+      "paddingHorizontal" : 0,
+      "width" : 527,
+      "borderPadding" : 0,
+      "borderColor" : "#000000FF",
+      "blur" : 0,
+      "roundness" : 3,
+      "paddingVertical" : 0
+    },
+    "credit" : "AKIRA",
+    "separator" : {
+      "color" : "#000000FF",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#A9A9A9FF",
+      "thickness" : 0
+    },
+    "name" : "Minimal Large"
+  }
+}

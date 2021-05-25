@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<workflow>
+  <name>Pretty JSON</name>
+  <version>1.0.0</version>
+  <bundle>dev.skydiver.alfred.json</bundle>
+  <updated>1564414261</updated>
+  <file>prettyjson.alfredworkflow</file>
+</workflow>

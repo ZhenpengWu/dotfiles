@@ -1,0 +1,1222 @@
+{"title": "sen", "subtitle": "森", "arg": "2.2.5$%sen$%森$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "fam", "subtitle": "fam公司", "arg": "2.2.5$%fam$%fam公司$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "verilog", "subtitle": "verilog", "arg": "2.2.5$%verilog$%verilog$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "epoch", "subtitle": "时代", "arg": "2.2.5$%epoch$%时代$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "epochs", "subtitle": "时代", "arg": "2.2.5$%epochs$%时代$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "epoches", "subtitle": "时代", "arg": "2.2.5$%epoches$%时代$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ascending", "subtitle": "提升", "arg": "2.2.5$%ascending$%提升$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "t", "subtitle": "t", "arg": "2.2.5$%t$%t$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "tr", "subtitle": "tr", "arg": "2.2.5$%tr$%tr$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mi", "subtitle": "我的", "arg": "2.2.5$%mi$%我的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "migrate", "subtitle": "迁移", "arg": "2.2.5$%migrate$%迁移$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "h", "subtitle": "h", "arg": "2.2.5$%h$%h$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "Hosp", "subtitle": "Hosp", "arg": "2.2.5$%Hosp$%Hosp$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "Hospital", "subtitle": "医院", "arg": "2.2.5$%Hospital$%医院$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "Saturation", "subtitle": "饱和", "arg": "2.2.5$%Saturation$%饱和$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "unde", "subtitle": "波形的", "arg": "2.2.5$%unde$%波形的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "undeliverable", "subtitle": "无法投递的", "arg": "2.2.5$%undeliverable$%无法投递的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mutual", "subtitle": "相互", "arg": "2.2.5$%mutual$%相互$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ballot", "subtitle": "投票", "arg": "2.2.5$%ballot$%投票$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "delet", "subtitle": "删除", "arg": "2.2.5$%delet$%删除$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "delegate", "subtitle": "委托", "arg": "2.2.5$%delegate$%委托$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "che", "subtitle": "切", "arg": "2.2.5$%che$%切$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "check", "subtitle": "检查", "arg": "2.2.5$%check$%检查$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "checkin", "subtitle": "签入", "arg": "2.2.5$%checkin$%签入$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "cancelled", "subtitle": "取消了", "arg": "2.2.5$%cancelled$%取消了$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "flatten", "subtitle": "平", "arg": "2.2.5$%flatten$%平$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "cenmoid", "subtitle": "cenmoid", "arg": "2.2.5$%cenmoid$%cenmoid$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "cenmoid", "subtitle": "cenmoid", "arg": "2.2.5$%cenmoid$%cenmoid$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "e", "subtitle": "e", "arg": "2.2.5$%e$%e$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ellipsis", "subtitle": "省略", "arg": "2.2.5$%ellipsis$%省略$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "padding", "subtitle": "填充", "arg": "2.2.5$%padding$%填充$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dropb", "subtitle": "dropb", "arg": "2.2.5$%dropb$%dropb$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dropout", "subtitle": "辍学", "arg": "2.2.5$%dropout$%辍学$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "inappropriate", "subtitle": "不合适的", "arg": "2.2.5$%inappropriate$%不合适的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "write", "subtitle": "写", "arg": "2.2.5$%write$%写$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "write-up", "subtitle": "帐面价值", "arg": "2.2.5$%write-up$%帐面价值$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "yuci", "subtitle": "yuci", "arg": "2.2.5$%yuci$%yuci$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "与此同时", "subtitle": "At the same time", "arg": "2.2.5$%与此同时$%At the same time$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "fun", "subtitle": "有趣的", "arg": "2.2.5$%fun$%有趣的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "fungible", "subtitle": "可替代的", "arg": "2.2.5$%fungible$%可替代的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "den", "subtitle": "窝", "arg": "2.2.5$%den$%窝$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "densel", "subtitle": "densel", "arg": "2.2.5$%densel$%densel$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "densely", "subtitle": "人口", "arg": "2.2.5$%densely$%人口$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "stride", "subtitle": "步", "arg": "2.2.5$%stride$%步$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "legit", "subtitle": "合法的", "arg": "2.2.5$%legit$%合法的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "motif", "subtitle": "主题", "arg": "2.2.5$%motif$%主题$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "vop", "subtitle": "vop", "arg": "2.2.5$%vop$%vop$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "viola", "subtitle": "中提琴", "arg": "2.2.5$%viola$%中提琴$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sa", "subtitle": "大会", "arg": "2.2.5$%sa$%大会$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sacri", "subtitle": "sacri", "arg": "2.2.5$%sacri$%sacri$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sacrilegious", "subtitle": "亵渎神明的", "arg": "2.2.5$%sacrilegious$%亵渎神明的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sacrilegious", "subtitle": "亵渎神明的", "arg": "2.2.5$%sacrilegious$%亵渎神明的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "concurrebt", "subtitle": "concurrebt", "arg": "2.2.5$%concurrebt$%concurrebt$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "concurre", "subtitle": "同意", "arg": "2.2.5$%concurre$%同意$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "concurrent", "subtitle": "并发", "arg": "2.2.5$%concurrent$%并发$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dhra ,", "subtitle": "dhra", "arg": "2.2.5$%dhra ,$%dhra$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dhra", "subtitle": "dhra", "arg": "2.2.5$%dhra$%dhra$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dur", "subtitle": "大调的", "arg": "2.2.5$%dur$%大调的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "durable", "subtitle": "耐用", "arg": "2.2.5$%durable$%耐用$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "paranoid", "subtitle": "偏执", "arg": "2.2.5$%paranoid$%偏执$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "no offense", "subtitle": "没有冒犯的意思", "arg": "2.2.5$%no offense$%没有冒犯的意思$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "trtun", "subtitle": "trtun", "arg": "2.2.5$%trtun$%trtun$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "trtuncate", "subtitle": "trtuncate", "arg": "2.2.5$%trtuncate$%trtuncate$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "tr", "subtitle": "tr", "arg": "2.2.5$%tr$%tr$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "trunv", "subtitle": "trunv", "arg": "2.2.5$%trunv$%trunv$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "truncate", "subtitle": "截断", "arg": "2.2.5$%truncate$%截断$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "作弊", "subtitle": "cheating", "arg": "2.2.5$%作弊$%cheating$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "propose", "subtitle": "提出", "arg": "2.2.5$%propose$%提出$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "gt", "subtitle": "gt", "arg": "2.2.5$%gt$%gt$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "grain", "subtitle": "粮食", "arg": "2.2.5$%grain$%粮食$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "data grain", "subtitle": "数据的谷物", "arg": "2.2.5$%data grain$%数据的谷物$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "fine-", "subtitle": "细粒度组件", "arg": "2.2.5$%fine-$%细粒度组件$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "fine-gtai", "subtitle": "fine-gtai", "arg": "2.2.5$%fine-gtai$%fine-gtai$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "fine-grain", "subtitle": "精密", "arg": "2.2.5$%fine-grain$%精密$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "fine-gra", "subtitle": "fine-gra", "arg": "2.2.5$%fine-gra$%fine-gra$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "fine-grian", "subtitle": "fine-grian", "arg": "2.2.5$%fine-grian$%fine-grian$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "fine-grain", "subtitle": "精密", "arg": "2.2.5$%fine-grain$%精密$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "tr", "subtitle": "tr", "arg": "2.2.5$%tr$%tr$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "truncate", "subtitle": "截断", "arg": "2.2.5$%truncate$%截断$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mute", "subtitle": "沉默的", "arg": "2.2.5$%mute$%沉默的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mutex", "subtitle": "互斥锁", "arg": "2.2.5$%mutex$%互斥锁$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mutexes", "subtitle": "互斥锁", "arg": "2.2.5$%mutexes$%互斥锁$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "vulner", "subtitle": "脆弱性", "arg": "2.2.5$%vulner$%脆弱性$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "vulnerable", "subtitle": "脆弱的", "arg": "2.2.5$%vulnerable$%脆弱的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ex", "subtitle": "前女友", "arg": "2.2.5$%ex$%前女友$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "execute", "subtitle": "执行", "arg": "2.2.5$%execute$%执行$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "s", "subtitle": "年代", "arg": "2.2.5$%s$%年代$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "so far", "subtitle": "到目前为止", "arg": "2.2.5$%so far$%到目前为止$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "pe", "subtitle": "体育", "arg": "2.2.5$%pe$%体育$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "petition", "subtitle": "请愿书", "arg": "2.2.5$%petition$%请愿书$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "draw th", "subtitle": "画th", "arg": "2.2.5$%draw th$%画th$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "draw the short", "subtitle": "画出短", "arg": "2.2.5$%draw the short$%画出短$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "draw the short straw", "subtitle": "画出短草", "arg": "2.2.5$%draw the short straw$%画出短草$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "reser", "subtitle": "以前", "arg": "2.2.5$%reser$%以前$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "reserv", "subtitle": "reserv", "arg": "2.2.5$%reserv$%reserv$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "reservoir", "subtitle": "储层", "arg": "2.2.5$%reservoir$%储层$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "spe", "subtitle": "spe", "arg": "2.2.5$%spe$%spe$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "speechless", "subtitle": "说不出话来", "arg": "2.2.5$%speechless$%说不出话来$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "qu", "subtitle": "曲", "arg": "2.2.5$%qu$%曲$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "quadrature", "subtitle": "交", "arg": "2.2.5$%quadrature$%交$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "in", "subtitle": "在", "arg": "2.2.5$%in$%在$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "in-phase", "subtitle": "in-phase", "arg": "2.2.5$%in-phase$%in-phase$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "in-phae", "subtitle": "in-phae", "arg": "2.2.5$%in-phae$%in-phae$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "in-phase", "subtitle": "in-phase", "arg": "2.2.5$%in-phase$%in-phase$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "inphase", "subtitle": "同相的", "arg": "2.2.5$%inphase$%同相的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "电饭煲", "subtitle": "Rice cooker", "arg": "2.2.5$%电饭煲$%Rice cooker$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "sg", "subtitle": "sg", "arg": "2.2.5$%sg$%sg$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sph", "subtitle": "sph", "arg": "2.2.5$%sph$%sph$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sphere", "subtitle": "球", "arg": "2.2.5$%sphere$%球$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "the", "subtitle": "的", "arg": "2.2.5$%the$%的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "threshod", "subtitle": "threshod", "arg": "2.2.5$%threshod$%threshod$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "threshold", "subtitle": "阈值", "arg": "2.2.5$%threshold$%阈值$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "underway", "subtitle": "在进行中", "arg": "2.2.5$%underway$%在进行中$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "bounty", "subtitle": "赏金", "arg": "2.2.5$%bounty$%赏金$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "backing store", "subtitle": "支持存储", "arg": "2.2.5$%backing store$%支持存储$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "provi", "subtitle": "provi", "arg": "2.2.5$%provi$%provi$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "provisional", "subtitle": "临时", "arg": "2.2.5$%provisional$%临时$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "scrilkl", "subtitle": "scrilkl", "arg": "2.2.5$%scrilkl$%scrilkl$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "scrollbar", "subtitle": "滚动条", "arg": "2.2.5$%scrollbar$%滚动条$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "gli", "subtitle": "gli", "arg": "2.2.5$%gli$%gli$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "glitch", "subtitle": "故障", "arg": "2.2.5$%glitch$%故障$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "so", "subtitle": "所以", "arg": "2.2.5$%so$%所以$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sp", "subtitle": "sp", "arg": "2.2.5$%sp$%sp$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "spawn", "subtitle": "产卵", "arg": "2.2.5$%spawn$%产卵$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "harsh", "subtitle": "严厉的", "arg": "2.2.5$%harsh$%严厉的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ca", "subtitle": "ca", "arg": "2.2.5$%ca$%ca$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "captured", "subtitle": "捕获", "arg": "2.2.5$%captured$%捕获$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "resolve", "subtitle": "解决", "arg": "2.2.5$%resolve$%解决$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "guard", "subtitle": "警卫", "arg": "2.2.5$%guard$%警卫$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "once", "subtitle": "一次", "arg": "2.2.5$%once$%一次$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "wait", "subtitle": "等待", "arg": "2.2.5$%wait$%等待$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "waitt", "subtitle": "韦特", "arg": "2.2.5$%waitt$%韦特$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "waitting", "subtitle": "在等待", "arg": "2.2.5$%waitting$%在等待$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "waiting", "subtitle": "等待", "arg": "2.2.5$%waiting$%等待$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "levergae", "subtitle": "levergae", "arg": "2.2.5$%levergae$%levergae$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "leverage", "subtitle": "利用", "arg": "2.2.5$%leverage$%利用$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "aggre", "subtitle": "有进取心", "arg": "2.2.5$%aggre$%有进取心$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "aggregation", "subtitle": "聚合", "arg": "2.2.5$%aggregation$%聚合$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "unit", "subtitle": "单位", "arg": "2.2.5$%unit$%单位$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "unit steps", "subtitle": "单元的步骤", "arg": "2.2.5$%unit steps$%单元的步骤$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "at unit steps", "subtitle": "在单位的步骤", "arg": "2.2.5$%at unit steps$%在单位的步骤$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "叫", "subtitle": "call", "arg": "2.2.5$%叫$%call$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "吼叫", "subtitle": "roar", "arg": "2.2.5$%吼叫$%roar$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "barking", "subtitle": "吠叫", "arg": "2.2.5$%barking$%吠叫$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "beginned", "subtitle": "开始", "arg": "2.2.5$%beginned$%开始$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "beginn", "subtitle": "beginn", "arg": "2.2.5$%beginn$%beginn$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "beginning", "subtitle": "开始", "arg": "2.2.5$%beginning$%开始$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "beginni", "subtitle": "beginni", "arg": "2.2.5$%beginni$%beginni$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "beginned", "subtitle": "开始", "arg": "2.2.5$%beginned$%开始$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "begined", "subtitle": "开始", "arg": "2.2.5$%begined$%开始$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "begin", "subtitle": "开始", "arg": "2.2.5$%begin$%开始$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "beginned", "subtitle": "开始", "arg": "2.2.5$%beginned$%开始$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "begg", "subtitle": "贝格", "arg": "2.2.5$%begg$%贝格$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "beg", "subtitle": "求", "arg": "2.2.5$%beg$%求$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "me", "subtitle": "我", "arg": "2.2.5$%me$%我$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "merely", "subtitle": "仅仅是", "arg": "2.2.5$%merely$%仅仅是$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "phase", "subtitle": "阶段", "arg": "2.2.5$%phase$%阶段$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "phases", "subtitle": "阶段", "arg": "2.2.5$%phases$%阶段$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "in-phase", "subtitle": "in-phase", "arg": "2.2.5$%in-phase$%in-phase$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "in phase", "subtitle": "在阶段", "arg": "2.2.5$%in phase$%在阶段$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "am", "subtitle": "我", "arg": "2.2.5$%am$%我$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "amplitude", "subtitle": "振幅", "arg": "2.2.5$%amplitude$%振幅$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sine", "subtitle": "正弦", "arg": "2.2.5$%sine$%正弦$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "phase", "subtitle": "阶段", "arg": "2.2.5$%phase$%阶段$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "plane", "subtitle": "飞机", "arg": "2.2.5$%plane$%飞机$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ana", "subtitle": "安娜", "arg": "2.2.5$%ana$%安娜$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "analog", "subtitle": "模拟", "arg": "2.2.5$%analog$%模拟$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "infer", "subtitle": "推断出", "arg": "2.2.5$%infer$%推断出$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "hi", "subtitle": "嗨", "arg": "2.2.5$%hi$%嗨$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "high-end", "subtitle": "高端", "arg": "2.2.5$%high-end$%高端$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "relaying", "subtitle": "继电保护", "arg": "2.2.5$%relaying$%继电保护$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "re", "subtitle": "再保险", "arg": "2.2.5$%re$%再保险$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "renarjd", "subtitle": "renarjd", "arg": "2.2.5$%renarjd$%renarjd$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "remark", "subtitle": "备注", "arg": "2.2.5$%remark$%备注$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "afaik", "subtitle": "afaik", "arg": "2.2.5$%afaik$%afaik$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "inter", "subtitle": "国际米兰", "arg": "2.2.5$%inter$%国际米兰$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "interference", "subtitle": "干扰", "arg": "2.2.5$%interference$%干扰$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "cir", "subtitle": "圆形的", "arg": "2.2.5$%cir$%圆形的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "circumstances", "subtitle": "情况下", "arg": "2.2.5$%circumstances$%情况下$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mild", "subtitle": "温和的", "arg": "2.2.5$%mild$%温和的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "con", "subtitle": "与", "arg": "2.2.5$%con$%与$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "cog", "subtitle": "齿轮", "arg": "2.2.5$%cog$%齿轮$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "cognitive", "subtitle": "认知", "arg": "2.2.5$%cognitive$%认知$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "weird", "subtitle": "奇怪的", "arg": "2.2.5$%weird$%奇怪的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "fine grid", "subtitle": "细网格", "arg": "2.2.5$%fine grid$%细网格$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "co", "subtitle": "有限公司", "arg": "2.2.5$%co$%有限公司$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "consuming", "subtitle": "消费", "arg": "2.2.5$%consuming$%消费$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "consuming", "subtitle": "消费", "arg": "2.2.5$%consuming$%消费$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "consuming spectrun", "subtitle": "消费spectrun", "arg": "2.2.5$%consuming spectrun$%消费spectrun$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "consuming spectrum", "subtitle": "使用光谱", "arg": "2.2.5$%consuming spectrum$%使用光谱$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mi", "subtitle": "我的", "arg": "2.2.5$%mi$%我的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mild-c", "subtitle": "mild-c", "arg": "2.2.5$%mild-c$%mild-c$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mild-cicume", "subtitle": "mild-cicume", "arg": "2.2.5$%mild-cicume$%mild-cicume$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mild-cicum", "subtitle": "mild-cicum", "arg": "2.2.5$%mild-cicum$%mild-cicum$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mild-cicumstance", "subtitle": "mild-cicumstance", "arg": "2.2.5$%mild-cicumstance$%mild-cicumstance$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mild cicumstance", "subtitle": "温和的中", "arg": "2.2.5$%mild cicumstance$%温和的中$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mild cicumstances", "subtitle": "温和的中", "arg": "2.2.5$%mild cicumstances$%温和的中$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "modulate", "subtitle": "调节", "arg": "2.2.5$%modulate$%调节$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "carrier", "subtitle": "航空公司", "arg": "2.2.5$%carrier$%航空公司$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "is refe", "subtitle": "是refe", "arg": "2.2.5$%is refe$%是refe$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "is referred to as", "subtitle": "被称为", "arg": "2.2.5$%is referred to as$%被称为$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "besides", "subtitle": "除了", "arg": "2.2.5$%besides$%除了$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "neg", "subtitle": "负的", "arg": "2.2.5$%neg$%负的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "neglects", "subtitle": "忽略了", "arg": "2.2.5$%neglects$%忽略了$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sigmo", "subtitle": "sigmo", "arg": "2.2.5$%sigmo$%sigmo$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sigmoidal", "subtitle": "s形", "arg": "2.2.5$%sigmoidal$%s形$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mi", "subtitle": "我的", "arg": "2.2.5$%mi$%我的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mitigate", "subtitle": "减轻", "arg": "2.2.5$%mitigate$%减轻$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "high", "subtitle": "高", "arg": "2.2.5$%high$%高$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "high-order", "subtitle": "高阶", "arg": "2.2.5$%high-order$%高阶$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "modi", "subtitle": "莫迪", "arg": "2.2.5$%modi$%莫迪$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "modifier", "subtitle": "修饰符", "arg": "2.2.5$%modifier$%修饰符$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "discrepan", "subtitle": "discrepan", "arg": "2.2.5$%discrepan$%discrepan$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "discrepancie", "subtitle": "discrepancie", "arg": "2.2.5$%discrepancie$%discrepancie$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "discrepancies", "subtitle": "差异", "arg": "2.2.5$%discrepancies$%差异$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "prejudice", "subtitle": "偏见", "arg": "2.2.5$%prejudice$%偏见$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "jade", "subtitle": "玉", "arg": "2.2.5$%jade$%玉$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "discrepancies", "subtitle": "差异", "arg": "2.2.5$%discrepancies$%差异$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "constellation", "subtitle": "星座", "arg": "2.2.5$%constellation$%星座$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "刺猬", "subtitle": "The hedgehog", "arg": "2.2.5$%刺猬$%The hedgehog$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "刺猬", "subtitle": "The hedgehog", "arg": "2.2.5$%刺猬$%The hedgehog$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "轮滑", "subtitle": "Roller skating", "arg": "2.2.5$%轮滑$%Roller skating$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "直排轮", "subtitle": "Inline skating", "arg": "2.2.5$%直排轮$%Inline skating$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "l", "subtitle": "l", "arg": "2.2.5$%l$%l$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "losses", "subtitle": "损失", "arg": "2.2.5$%losses$%损失$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "eddicacy", "subtitle": "eddicacy", "arg": "2.2.5$%eddicacy$%eddicacy$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "efficacy", "subtitle": "功效", "arg": "2.2.5$%efficacy$%功效$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "蜜鼬", "subtitle": "Honey skunk", "arg": "2.2.5$%蜜鼬$%Honey skunk$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "entry level", "subtitle": "入门级", "arg": "2.2.5$%entry level$%入门级$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "time", "subtitle": "时间", "arg": "2.2.5$%time$%时间$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "time series", "subtitle": "时间序列", "arg": "2.2.5$%time series$%时间序列$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "att", "subtitle": "丙氨酸", "arg": "2.2.5$%att$%丙氨酸$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "attention", "subtitle": "注意", "arg": "2.2.5$%attention$%注意$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "polish", "subtitle": "波兰的", "arg": "2.2.5$%polish$%波兰的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "conda", "subtitle": "conda", "arg": "2.2.5$%conda$%conda$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ince", "subtitle": "恩斯", "arg": "2.2.5$%ince$%恩斯$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "incentive", "subtitle": "激励", "arg": "2.2.5$%incentive$%激励$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "funnel", "subtitle": "漏斗", "arg": "2.2.5$%funnel$%漏斗$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "bundle", "subtitle": "包", "arg": "2.2.5$%bundle$%包$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "bundles", "subtitle": "包", "arg": "2.2.5$%bundles$%包$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "in", "subtitle": "在", "arg": "2.2.5$%in$%在$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "inaccessinl", "subtitle": "inaccessinl", "arg": "2.2.5$%inaccessinl$%inaccessinl$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "inaccessin", "subtitle": "inaccessin", "arg": "2.2.5$%inaccessin$%inaccessin$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "inaccessi", "subtitle": "inaccessi", "arg": "2.2.5$%inaccessi$%inaccessi$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "inaccessible", "subtitle": "无法访问", "arg": "2.2.5$%inaccessible$%无法访问$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dis", "subtitle": "说", "arg": "2.2.5$%dis$%说$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dispatjc", "subtitle": "dispatjc", "arg": "2.2.5$%dispatjc$%dispatjc$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dispat", "subtitle": "dispat", "arg": "2.2.5$%dispat$%dispat$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dispatches", "subtitle": "分派", "arg": "2.2.5$%dispatches$%分派$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "haysra", "subtitle": "haysra", "arg": "2.2.5$%haysra$%haysra$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "haystack", "subtitle": "干草堆", "arg": "2.2.5$%haystack$%干草堆$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "free c", "subtitle": "免费的c", "arg": "2.2.5$%free c$%免费的c$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "free loa", "subtitle": "免费的贷款", "arg": "2.2.5$%free loa$%免费的贷款$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "free loading", "subtitle": "自由加载", "arg": "2.2.5$%free loading$%自由加载$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "freeloading", "subtitle": "不劳而获", "arg": "2.2.5$%freeloading$%不劳而获$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "shut off", "subtitle": "关闭", "arg": "2.2.5$%shut off$%关闭$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "stuy", "subtitle": "stuy", "arg": "2.2.5$%stuy$%stuy$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "stub", "subtitle": "存根", "arg": "2.2.5$%stub$%存根$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "fate", "subtitle": "命运", "arg": "2.2.5$%fate$%命运$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "strawman", "subtitle": "稻草人", "arg": "2.2.5$%strawman$%稻草人$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "catasr", "subtitle": "catasr", "arg": "2.2.5$%catasr$%catasr$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "catastrophic", "subtitle": "灾难性的", "arg": "2.2.5$%catastrophic$%灾难性的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "drone", "subtitle": "无人驾驶飞机", "arg": "2.2.5$%drone$%无人驾驶飞机$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "scatt", "subtitle": "scatt", "arg": "2.2.5$%scatt$%scatt$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "scatter-gather", "subtitle": "散集", "arg": "2.2.5$%scatter-gather$%散集$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "heterogeneity", "subtitle": "非均质性", "arg": "2.2.5$%heterogeneity$%非均质性$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "partway", "subtitle": "到某种程度", "arg": "2.2.5$%partway$%到某种程度$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "semi-colon", "subtitle": "分号", "arg": "2.2.5$%semi-colon$%分号$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "intruder", "subtitle": "入侵者", "arg": "2.2.5$%intruder$%入侵者$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "p", "subtitle": "p", "arg": "2.2.5$%p$%p$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "pertur", "subtitle": "pertur", "arg": "2.2.5$%pertur$%pertur$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "perturbed", "subtitle": "摄动", "arg": "2.2.5$%perturbed$%摄动$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "Invigilation", "subtitle": "监考", "arg": "2.2.5$%Invigilation$%监考$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "bump", "subtitle": "撞", "arg": "2.2.5$%bump$%撞$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "recisit", "subtitle": "recisit", "arg": "2.2.5$%recisit$%recisit$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "reaisit", "subtitle": "reaisit", "arg": "2.2.5$%reaisit$%reaisit$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "reuisit", "subtitle": "reuisit", "arg": "2.2.5$%reuisit$%reuisit$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "reoisit", "subtitle": "reoisit", "arg": "2.2.5$%reoisit$%reoisit$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "reisit", "subtitle": "reisit", "arg": "2.2.5$%reisit$%reisit$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "reisit", "subtitle": "reisit", "arg": "2.2.5$%reisit$%reisit$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "isit", "subtitle": "有更深的了解", "arg": "2.2.5$%isit$%有更深的了解$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "i", "subtitle": "我", "arg": "2.2.5$%i$%我$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "draw", "subtitle": "画", "arg": "2.2.5$%draw$%画$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ber", "subtitle": "的误码率", "arg": "2.2.5$%ber$%的误码率$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "berno", "subtitle": "berno", "arg": "2.2.5$%berno$%berno$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "bern", "subtitle": "伯尔尼", "arg": "2.2.5$%bern$%伯尔尼$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "bernnulli", "subtitle": "bernnulli", "arg": "2.2.5$%bernnulli$%bernnulli$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "curd", "subtitle": "凝乳", "arg": "2.2.5$%curd$%凝乳$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "c", "subtitle": "c", "arg": "2.2.5$%c$%c$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "crude", "subtitle": "原油", "arg": "2.2.5$%crude$%原油$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "d", "subtitle": "d", "arg": "2.2.5$%d$%d$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "di", "subtitle": "迪", "arg": "2.2.5$%di$%迪$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "did", "subtitle": "做了", "arg": "2.2.5$%did$%做了$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "didomoly", "subtitle": "didomoly", "arg": "2.2.5$%didomoly$%didomoly$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "aidomoly", "subtitle": "aidomoly", "arg": "2.2.5$%aidomoly$%aidomoly$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "did", "subtitle": "做了", "arg": "2.2.5$%did$%做了$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "didotomies", "subtitle": "didotomies", "arg": "2.2.5$%didotomies$%didotomies$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sha", "subtitle": "沙", "arg": "2.2.5$%sha$%沙$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "shatters", "subtitle": "打破了", "arg": "2.2.5$%shatters$%打破了$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "d", "subtitle": "d", "arg": "2.2.5$%d$%d$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dichotomies", "subtitle": "二分类", "arg": "2.2.5$%dichotomies$%二分类$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "shatter", "subtitle": "粉碎", "arg": "2.2.5$%shatter$%粉碎$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dich", "subtitle": "你", "arg": "2.2.5$%dich$%你$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dichotomies", "subtitle": "二分类", "arg": "2.2.5$%dichotomies$%二分类$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dichotomy", "subtitle": "二分法", "arg": "2.2.5$%dichotomy$%二分法$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "con", "subtitle": "与", "arg": "2.2.5$%con$%与$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "co", "subtitle": "有限公司", "arg": "2.2.5$%co$%有限公司$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "coin", "subtitle": "硬币", "arg": "2.2.5$%coin$%硬币$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "coincided", "subtitle": "同时", "arg": "2.2.5$%coincided$%同时$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "yth", "subtitle": "yth", "arg": "2.2.5$%yth$%yth$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "thub", "subtitle": "thub", "arg": "2.2.5$%thub$%thub$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "thumb", "subtitle": "拇指", "arg": "2.2.5$%thumb$%拇指$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "rthumb", "subtitle": "rthumb", "arg": "2.2.5$%rthumb$%rthumb$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ruthumb", "subtitle": "ruthumb", "arg": "2.2.5$%ruthumb$%ruthumb$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "rulethumb", "subtitle": "rulethumb", "arg": "2.2.5$%rulethumb$%rulethumb$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "rule thumb", "subtitle": "拇指规则", "arg": "2.2.5$%rule thumb$%拇指规则$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "conceal", "subtitle": "隐藏", "arg": "2.2.5$%conceal$%隐藏$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "desp", "subtitle": "desp", "arg": "2.2.5$%desp$%desp$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "despite", "subtitle": "尽管", "arg": "2.2.5$%despite$%尽管$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sta", "subtitle": "sta", "arg": "2.2.5$%sta$%sta$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "stale", "subtitle": "不新鲜的", "arg": "2.2.5$%stale$%不新鲜的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "skew", "subtitle": "斜", "arg": "2.2.5$%skew$%斜$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "skew", "subtitle": "斜", "arg": "2.2.5$%skew$%斜$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "landlord", "subtitle": "房东", "arg": "2.2.5$%landlord$%房东$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mounted", "subtitle": "安装", "arg": "2.2.5$%mounted$%安装$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dae", "subtitle": "dae", "arg": "2.2.5$%dae$%dae$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "daemon", "subtitle": "守护进程", "arg": "2.2.5$%daemon$%守护进程$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "hef", "subtitle": "医疗公平基金", "arg": "2.2.5$%hef$%医疗公平基金$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "hefty", "subtitle": "高额", "arg": "2.2.5$%hefty$%高额$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "suspect", "subtitle": "怀疑", "arg": "2.2.5$%suspect$%怀疑$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dr", "subtitle": "博士", "arg": "2.2.5$%dr$%博士$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dro", "subtitle": "滴", "arg": "2.2.5$%dro$%滴$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dron", "subtitle": "dron", "arg": "2.2.5$%dron$%dron$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "drone", "subtitle": "无人驾驶飞机", "arg": "2.2.5$%drone$%无人驾驶飞机$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "bu", "subtitle": "部", "arg": "2.2.5$%bu$%部$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "burrito", "subtitle": "玉米煎饼", "arg": "2.2.5$%burrito$%玉米煎饼$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "beforehab", "subtitle": "beforehab", "arg": "2.2.5$%beforehab$%beforehab$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "beforeha", "subtitle": "beforeha", "arg": "2.2.5$%beforeha$%beforeha$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "beforehand", "subtitle": "事先", "arg": "2.2.5$%beforehand$%事先$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "out-o", "subtitle": "出来", "arg": "2.2.5$%out-o$%出来$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "out-of-band", "subtitle": "带外", "arg": "2.2.5$%out-of-band$%带外$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "out-of-band", "subtitle": "带外", "arg": "2.2.5$%out-of-band$%带外$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "out-of-band graph", "subtitle": "带外图", "arg": "2.2.5$%out-of-band graph$%带外图$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "occassion", "subtitle": "occassion", "arg": "2.2.5$%occassion$%occassion$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "occassionlt", "subtitle": "occassionlt", "arg": "2.2.5$%occassionlt$%occassionlt$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "occassionly", "subtitle": "occassionly", "arg": "2.2.5$%occassionly$%occassionly$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "occas", "subtitle": "occas", "arg": "2.2.5$%occas$%occas$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "occassio", "subtitle": "occassio", "arg": "2.2.5$%occassio$%occassio$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "occas", "subtitle": "occas", "arg": "2.2.5$%occas$%occas$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "occasionall", "subtitle": "occasionall", "arg": "2.2.5$%occasionall$%occasionall$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "occasionally", "subtitle": "偶尔", "arg": "2.2.5$%occasionally$%偶尔$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "tran", "subtitle": "tran", "arg": "2.2.5$%tran$%tran$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "transparency", "subtitle": "透明度", "arg": "2.2.5$%transparency$%透明度$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "retain", "subtitle": "保留", "arg": "2.2.5$%retain$%保留$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "pp", "subtitle": "页", "arg": "2.2.5$%pp$%页$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "peeps", "subtitle": "人", "arg": "2.2.5$%peeps$%人$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "state", "subtitle": "状态", "arg": "2.2.5$%state$%状态$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "h", "subtitle": "h", "arg": "2.2.5$%h$%h$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "hefty", "subtitle": "高额", "arg": "2.2.5$%hefty$%高额$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ig", "subtitle": "搞笑", "arg": "2.2.5$%ig$%搞笑$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "igworkes", "subtitle": "igworkes", "arg": "2.2.5$%igworkes$%igworkes$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "igwork", "subtitle": "igwork", "arg": "2.2.5$%igwork$%igwork$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "igworke", "subtitle": "igworke", "arg": "2.2.5$%igworke$%igworke$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "igworkes", "subtitle": "igworkes", "arg": "2.2.5$%igworkes$%igworkes$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "igwokes", "subtitle": "igwokes", "arg": "2.2.5$%igwokes$%igwokes$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "igwokes", "subtitle": "igwokes", "arg": "2.2.5$%igwokes$%igwokes$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "igwores", "subtitle": "igwores", "arg": "2.2.5$%igwores$%igwores$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "iwores", "subtitle": "iwores", "arg": "2.2.5$%iwores$%iwores$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "inwores", "subtitle": "inwores", "arg": "2.2.5$%inwores$%inwores$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "i", "subtitle": "我", "arg": "2.2.5$%i$%我$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ig", "subtitle": "搞笑", "arg": "2.2.5$%ig$%搞笑$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "i", "subtitle": "我", "arg": "2.2.5$%i$%我$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ic", "subtitle": "集成电路", "arg": "2.2.5$%ic$%集成电路$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "i", "subtitle": "我", "arg": "2.2.5$%i$%我$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "io", "subtitle": "io", "arg": "2.2.5$%io$%io$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "iowo", "subtitle": "iowo", "arg": "2.2.5$%iowo$%iowo$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "iowores", "subtitle": "iowores", "arg": "2.2.5$%iowores$%iowores$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "meta", "subtitle": "元", "arg": "2.2.5$%meta$%元$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "unimportant", "subtitle": "不重要的", "arg": "2.2.5$%unimportant$%不重要的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "surname", "subtitle": "姓", "arg": "2.2.5$%surname$%姓$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "in thesa", "subtitle": "在thesa", "arg": "2.2.5$%in thesa$%在thesa$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "in the sane", "subtitle": "在理智的", "arg": "2.2.5$%in the sane$%在理智的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "in the same", "subtitle": "在相同的", "arg": "2.2.5$%in the same$%在相同的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "in the same order", "subtitle": "在相同的顺序", "arg": "2.2.5$%in the same order$%在相同的顺序$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "as po", "subtitle": "当阿宝", "arg": "2.2.5$%as po$%当阿宝$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "as opposed to", "subtitle": "而不是", "arg": "2.2.5$%as opposed to$%而不是$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "hierarchy", "subtitle": "层次结构", "arg": "2.2.5$%hierarchy$%层次结构$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "exe", "subtitle": "exe", "arg": "2.2.5$%exe$%exe$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "exemplifu", "subtitle": "exemplifu", "arg": "2.2.5$%exemplifu$%exemplifu$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "exemplify", "subtitle": "例证", "arg": "2.2.5$%exemplify$%例证$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sp", "subtitle": "sp", "arg": "2.2.5$%sp$%sp$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "spoiler", "subtitle": "扰流板", "arg": "2.2.5$%spoiler$%扰流板$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "as", "subtitle": "作为", "arg": "2.2.5$%as$%作为$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "near", "subtitle": "附近", "arg": "2.2.5$%near$%附近$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "throu", "subtitle": "throu", "arg": "2.2.5$%throu$%throu$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "throughout", "subtitle": "在", "arg": "2.2.5$%throughout$%在$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "teammates", "subtitle": "队友", "arg": "2.2.5$%teammates$%队友$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "the", "subtitle": "的", "arg": "2.2.5$%the$%的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "comprehension", "subtitle": "理解", "arg": "2.2.5$%comprehension$%理解$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "tr", "subtitle": "tr", "arg": "2.2.5$%tr$%tr$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "troa", "subtitle": "troa", "arg": "2.2.5$%troa$%troa$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "troag", "subtitle": "troag", "arg": "2.2.5$%troag$%troag$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "tr", "subtitle": "tr", "arg": "2.2.5$%tr$%tr$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "tro", "subtitle": "有望", "arg": "2.2.5$%tro$%有望$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "tria", "subtitle": "恐怖主义风险保险法案", "arg": "2.2.5$%tria$%恐怖主义风险保险法案$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "triagnles", "subtitle": "triagnles", "arg": "2.2.5$%triagnles$%triagnles$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "triangle", "subtitle": "三角形", "arg": "2.2.5$%triangle$%三角形$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "do", "subtitle": "做", "arg": "2.2.5$%do$%做$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "di", "subtitle": "迪", "arg": "2.2.5$%di$%迪$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "emss", "subtitle": "ems", "arg": "2.2.5$%emss$%ems$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mess", "subtitle": "混乱", "arg": "2.2.5$%mess$%混乱$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ternary", "subtitle": "三元", "arg": "2.2.5$%ternary$%三元$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "rev", "subtitle": "牧师", "arg": "2.2.5$%rev$%牧师$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "reve", "subtitle": "梦", "arg": "2.2.5$%reve$%梦$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "reven", "subtitle": "reven", "arg": "2.2.5$%reven$%reven$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "revenclaw", "subtitle": "revenclaw", "arg": "2.2.5$%revenclaw$%revenclaw$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ozzy", "subtitle": "奥兹", "arg": "2.2.5$%ozzy$%奥兹$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "遗产", "subtitle": "heritage", "arg": "2.2.5$%遗产$%heritage$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "ozzy", "subtitle": "奥兹", "arg": "2.2.5$%ozzy$%奥兹$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "breakfast", "subtitle": "早餐", "arg": "2.2.5$%breakfast$%早餐$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "overhead", "subtitle": "开销", "arg": "2.2.5$%overhead$%开销$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "longhand", "subtitle": "手写", "arg": "2.2.5$%longhand$%手写$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "shorthand", "subtitle": "速记", "arg": "2.2.5$%shorthand$%速记$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "triangle", "subtitle": "三角形", "arg": "2.2.5$%triangle$%三角形$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "anagram", "subtitle": "回文构词法", "arg": "2.2.5$%anagram$%回文构词法$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "triplet", "subtitle": "三联体", "arg": "2.2.5$%triplet$%三联体$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "Reimbursement", "subtitle": "报销", "arg": "2.2.5$%Reimbursement$%报销$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "rare", "subtitle": "罕见的", "arg": "2.2.5$%rare$%罕见的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "savage", "subtitle": "野蛮人", "arg": "2.2.5$%savage$%野蛮人$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "stuff", "subtitle": "的东西", "arg": "2.2.5$%stuff$%的东西$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "make up", "subtitle": "组成", "arg": "2.2.5$%make up$%组成$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "pissed", "subtitle": "很生气", "arg": "2.2.5$%pissed$%很生气$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "rude", "subtitle": "粗鲁的", "arg": "2.2.5$%rude$%粗鲁的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "grant", "subtitle": "格兰特", "arg": "2.2.5$%grant$%格兰特$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "integ", "subtitle": "integ", "arg": "2.2.5$%integ$%integ$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "integer", "subtitle": "整数", "arg": "2.2.5$%integer$%整数$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "zin", "subtitle": "寻", "arg": "2.2.5$%zin$%寻$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "zinn", "subtitle": "辛", "arg": "2.2.5$%zinn$%辛$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "zinnia", "subtitle": "zinnia", "arg": "2.2.5$%zinnia$%zinnia$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "l", "subtitle": "l", "arg": "2.2.5$%l$%l$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "lag", "subtitle": "滞后", "arg": "2.2.5$%lag$%滞后$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "alisa", "subtitle": "艾丽莎", "arg": "2.2.5$%alisa$%艾丽莎$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "alias", "subtitle": "别名", "arg": "2.2.5$%alias$%别名$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "numer", "subtitle": "号码", "arg": "2.2.5$%numer$%号码$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "numerator", "subtitle": "分子", "arg": "2.2.5$%numerator$%分子$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "tricky", "subtitle": "棘手的", "arg": "2.2.5$%tricky$%棘手的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "joint", "subtitle": "联合", "arg": "2.2.5$%joint$%联合$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "wd", "subtitle": "wd", "arg": "2.2.5$%wd$%wd$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "wdym", "subtitle": "wdym", "arg": "2.2.5$%wdym$%wdym$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "symme", "subtitle": "symme", "arg": "2.2.5$%symme$%symme$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "symmerty", "subtitle": "symmerty", "arg": "2.2.5$%symmerty$%symmerty$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "symme", "subtitle": "symme", "arg": "2.2.5$%symme$%symme$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "bakery", "subtitle": "面包店", "arg": "2.2.5$%bakery$%面包店$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sour", "subtitle": "酸", "arg": "2.2.5$%sour$%酸$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sourdough", "subtitle": "酵母", "arg": "2.2.5$%sourdough$%酵母$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "牛角包", "subtitle": "croissant", "arg": "2.2.5$%牛角包$%croissant$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "牛角包", "subtitle": "croissant", "arg": "2.2.5$%牛角包$%croissant$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "croissant", "subtitle": "羊角面包", "arg": "2.2.5$%croissant$%羊角面包$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "donut", "subtitle": "甜甜圈", "arg": "2.2.5$%donut$%甜甜圈$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "donut", "subtitle": "甜甜圈", "arg": "2.2.5$%donut$%甜甜圈$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "甜甜圈", "subtitle": "donuts", "arg": "2.2.5$%甜甜圈$%donuts$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "Cinnamon", "subtitle": "肉桂", "arg": "2.2.5$%Cinnamon$%肉桂$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "bana", "subtitle": "巴纳", "arg": "2.2.5$%bana$%巴纳$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "banana", "subtitle": "香蕉", "arg": "2.2.5$%banana$%香蕉$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "enti", "subtitle": "enti", "arg": "2.2.5$%enti$%enti$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "entity", "subtitle": "实体", "arg": "2.2.5$%entity$%实体$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "coaster", "subtitle": "过山车", "arg": "2.2.5$%coaster$%过山车$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "静电", "subtitle": "electrostatic", "arg": "2.2.5$%静电$%electrostatic$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "静电贴", "subtitle": "Electrostatic stickers", "arg": "2.2.5$%静电贴$%Electrostatic stickers$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "Proctorio", "subtitle": "Proctorio", "arg": "2.2.5$%Proctorio$%Proctorio$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dumb", "subtitle": "愚蠢的", "arg": "2.2.5$%dumb$%愚蠢的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "afterward", "subtitle": "之后", "arg": "2.2.5$%afterward$%之后$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "===", "subtitle": "= = =", "arg": "2.2.5$%===$%= = =$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "take for granted", "subtitle": "认为是理所当然的", "arg": "2.2.5$%take for granted$%认为是理所当然的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "目录", "subtitle": "directory", "arg": "2.2.5$%目录$%directory$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "uh", "subtitle": "呃", "arg": "2.2.5$%uh$%呃$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ugh", "subtitle": "啊", "arg": "2.2.5$%ugh$%啊$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "tense", "subtitle": "紧张的", "arg": "2.2.5$%tense$%紧张的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "despair", "subtitle": "绝望", "arg": "2.2.5$%despair$%绝望$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "despair", "subtitle": "绝望", "arg": "2.2.5$%despair$%绝望$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "award", "subtitle": "奖", "arg": "2.2.5$%award$%奖$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "proposed", "subtitle": "提出了", "arg": "2.2.5$%proposed$%提出了$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "bruh", "subtitle": "bruh", "arg": "2.2.5$%bruh$%bruh$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "reach out", "subtitle": "接触", "arg": "2.2.5$%reach out$%接触$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "re", "subtitle": "再保险", "arg": "2.2.5$%re$%再保险$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "reac", "subtitle": "管理计划", "arg": "2.2.5$%reac$%管理计划$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "九宫格", "subtitle": "Scratchable latex", "arg": "2.2.5$%九宫格$%Scratchable latex$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "Knorr", "subtitle": "克诺尔", "arg": "2.2.5$%Knorr$%克诺尔$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "对折线", "subtitle": "The broken line", "arg": "2.2.5$%对折线$%The broken line$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "obstacles", "subtitle": "障碍", "arg": "2.2.5$%obstacles$%障碍$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sym", "subtitle": "信谊", "arg": "2.2.5$%sym$%信谊$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "wym", "subtitle": "wym", "arg": "2.2.5$%wym$%wym$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ample", "subtitle": "充足的", "arg": "2.2.5$%ample$%充足的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "倍数", "subtitle": "A multiple", "arg": "2.2.5$%倍数$%A multiple$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "hostile", "subtitle": "充满敌意的", "arg": "2.2.5$%hostile$%充满敌意的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "kidney", "subtitle": "肾脏", "arg": "2.2.5$%kidney$%肾脏$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "n", "subtitle": "n", "arg": "2.2.5$%n$%n$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "analog", "subtitle": "模拟", "arg": "2.2.5$%analog$%模拟$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "peer", "subtitle": "同行", "arg": "2.2.5$%peer$%同行$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "strike away", "subtitle": "罢工了", "arg": "2.2.5$%strike away$%罢工了$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "choosen", "subtitle": "选", "arg": "2.2.5$%choosen$%选$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "chosen", "subtitle": "选择", "arg": "2.2.5$%chosen$%选择$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "forging", "subtitle": "锻造", "arg": "2.2.5$%forging$%锻造$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "tail", "subtitle": "尾巴", "arg": "2.2.5$%tail$%尾巴$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "w", "subtitle": "w", "arg": "2.2.5$%w$%w$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "wym", "subtitle": "wym", "arg": "2.2.5$%wym$%wym$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dr", "subtitle": "博士", "arg": "2.2.5$%dr$%博士$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dry", "subtitle": "干", "arg": "2.2.5$%dry$%干$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dry-run", "subtitle": "管制", "arg": "2.2.5$%dry-run$%管制$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "(432.18 + 829.14) /2", "subtitle": "(432.18 + 829.14) / 2", "arg": "2.2.5$%(432.18 + 829.14) /2$%(432.18 + 829.14) / 2$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "(432.18 + 829.14) /", "subtitle": "(432.18 + 829.14) /", "arg": "2.2.5$%(432.18 + 829.14) /$%(432.18 + 829.14) /$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "alternate", "subtitle": "备用", "arg": "2.2.5$%alternate$%备用$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "alternato", "subtitle": "alternato", "arg": "2.2.5$%alternato$%alternato$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "alternative", "subtitle": "替代", "arg": "2.2.5$%alternative$%替代$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "pall", "subtitle": "笼罩在", "arg": "2.2.5$%pall$%笼罩在$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "kpd", "subtitle": "kpd", "arg": "2.2.5$%kpd$%kpd$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "书房", "subtitle": "The study", "arg": "2.2.5$%书房$%The study$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "interw", "subtitle": "interw", "arg": "2.2.5$%interw$%interw$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "interweave", "subtitle": "交织", "arg": "2.2.5$%interweave$%交织$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "backtrack", "subtitle": "回溯", "arg": "2.2.5$%backtrack$%回溯$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "d", "subtitle": "d", "arg": "2.2.5$%d$%d$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dale", "subtitle": "戴尔", "arg": "2.2.5$%dale$%戴尔$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dia", "subtitle": "dia", "arg": "2.2.5$%dia$%dia$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "diag", "subtitle": "诊断接头", "arg": "2.2.5$%diag$%诊断接头$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "diagnal", "subtitle": "diagnal", "arg": "2.2.5$%diagnal$%diagnal$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "diag", "subtitle": "诊断接头", "arg": "2.2.5$%diag$%诊断接头$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "spo", "subtitle": "热点;", "arg": "2.2.5$%spo$%热点;$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "spoiled", "subtitle": "被宠坏的", "arg": "2.2.5$%spoiled$%被宠坏的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "spoiled kid", "subtitle": "被宠坏的孩子", "arg": "2.2.5$%spoiled kid$%被宠坏的孩子$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "babysitter", "subtitle": "保姆", "arg": "2.2.5$%babysitter$%保姆$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "傲慢", "subtitle": "arrogance", "arg": "2.2.5$%傲慢$%arrogance$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "tr", "subtitle": "tr", "arg": "2.2.5$%tr$%tr$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "trail", "subtitle": "小道", "arg": "2.2.5$%trail$%小道$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "s", "subtitle": "年代", "arg": "2.2.5$%s$%年代$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "subscript", "subtitle": "下标", "arg": "2.2.5$%subscript$%下标$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "viable", "subtitle": "可行的", "arg": "2.2.5$%viable$%可行的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mix up", "subtitle": "混淆", "arg": "2.2.5$%mix up$%混淆$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "teaser", "subtitle": "急转弯", "arg": "2.2.5$%teaser$%急转弯$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ud", "subtitle": "ud", "arg": "2.2.5$%ud$%ud$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dude", "subtitle": "伙计", "arg": "2.2.5$%dude$%伙计$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "deduct", "subtitle": "扣除", "arg": "2.2.5$%deduct$%扣除$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "gg", "subtitle": "gg", "arg": "2.2.5$%gg$%gg$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "但是", "subtitle": "but", "arg": "2.2.5$%但是$%but$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "red tea", "subtitle": "红茶", "arg": "2.2.5$%red tea$%红茶$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "b", "subtitle": "b", "arg": "2.2.5$%b$%b$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "noir", "subtitle": "黑色", "arg": "2.2.5$%noir$%黑色$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "infamous", "subtitle": "臭名昭著的", "arg": "2.2.5$%infamous$%臭名昭著的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "serial", "subtitle": "串行", "arg": "2.2.5$%serial$%串行$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "serialization", "subtitle": "序列化", "arg": "2.2.5$%serialization$%序列化$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "cloned", "subtitle": "克隆", "arg": "2.2.5$%cloned$%克隆$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "len", "subtitle": "len", "arg": "2.2.5$%len$%len$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "legency", "subtitle": "legency", "arg": "2.2.5$%legency$%legency$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "lengendary", "subtitle": "lengendary", "arg": "2.2.5$%lengendary$%lengendary$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "legen", "subtitle": "legen", "arg": "2.2.5$%legen$%legen$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "legendary", "subtitle": "传奇", "arg": "2.2.5$%legendary$%传奇$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "contaminated", "subtitle": "受污染的", "arg": "2.2.5$%contaminated$%受污染的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "amid", "subtitle": "在", "arg": "2.2.5$%amid$%在$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "unprecedented", "subtitle": "前所未有的", "arg": "2.2.5$%unprecedented$%前所未有的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mural", "subtitle": "壁画", "arg": "2.2.5$%mural$%壁画$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "cam", "subtitle": "凸轮", "arg": "2.2.5$%cam$%凸轮$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "piles", "subtitle": "桩", "arg": "2.2.5$%piles$%桩$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "platter", "subtitle": "盘", "arg": "2.2.5$%platter$%盘$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "entrepreneur", "subtitle": "企业家", "arg": "2.2.5$%entrepreneur$%企业家$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "entrepreneur", "subtitle": "企业家", "arg": "2.2.5$%entrepreneur$%企业家$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "entrepreneur", "subtitle": "企业家", "arg": "2.2.5$%entrepreneur$%企业家$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "entrepreneur", "subtitle": "企业家", "arg": "2.2.5$%entrepreneur$%企业家$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "entrepreneur", "subtitle": "企业家", "arg": "2.2.5$%entrepreneur$%企业家$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "entrepreneur", "subtitle": "企业家", "arg": "2.2.5$%entrepreneur$%企业家$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ml", "subtitle": "毫升", "arg": "2.2.5$%ml$%毫升$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ml", "subtitle": "毫升", "arg": "2.2.5$%ml$%毫升$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mllf", "subtitle": "mllf", "arg": "2.2.5$%mllf$%mllf$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "milf", "subtitle": "摩罗伊斯兰自由阵线", "arg": "2.2.5$%milf$%摩罗伊斯兰自由阵线$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "直", "subtitle": "straight", "arg": "2.2.5$%直$%straight$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "直角", "subtitle": "Right Angle", "arg": "2.2.5$%直角$%Right Angle$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "p", "subtitle": "p", "arg": "2.2.5$%p$%p$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "parras", "subtitle": "parras", "arg": "2.2.5$%parras$%parras$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "parras", "subtitle": "parras", "arg": "2.2.5$%parras$%parras$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "pa", "subtitle": "巴勒斯坦权力机构", "arg": "2.2.5$%pa$%巴勒斯坦权力机构$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "parity", "subtitle": "奇偶校验", "arg": "2.2.5$%parity$%奇偶校验$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "CARMICHAEL, JEFFREY", "subtitle": "卡迈克尔,杰弗里", "arg": "2.2.5$%CARMICHAEL, JEFFREY$%卡迈克尔,杰弗里$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "CARMICHAEL, JEFFREY", "subtitle": "卡迈克尔,杰弗里", "arg": "2.2.5$%CARMICHAEL, JEFFREY$%卡迈克尔,杰弗里$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "initials", "subtitle": "名字的首字母", "arg": "2.2.5$%initials$%名字的首字母$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "initial", "subtitle": "最初的", "arg": "2.2.5$%initial$%最初的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "initials", "subtitle": "名字的首字母", "arg": "2.2.5$%initials$%名字的首字母$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ininitials", "subtitle": "ininitials", "arg": "2.2.5$%ininitials$%ininitials$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "instinitials", "subtitle": "instinitials", "arg": "2.2.5$%instinitials$%instinitials$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "instructor initials", "subtitle": "教练的首字母", "arg": "2.2.5$%instructor initials$%教练的首字母$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "viable", "subtitle": "可行的", "arg": "2.2.5$%viable$%可行的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "s", "subtitle": "年代", "arg": "2.2.5$%s$%年代$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "scr", "subtitle": "可控硅", "arg": "2.2.5$%scr$%可控硅$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "scrum ma", "subtitle": "scrum马", "arg": "2.2.5$%scrum ma$%scrum马$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "scrum master", "subtitle": "scrum master", "arg": "2.2.5$%scrum master$%scrum master$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "novel", "subtitle": "小说", "arg": "2.2.5$%novel$%小说$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "forward", "subtitle": "向前", "arg": "2.2.5$%forward$%向前$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "confere", "subtitle": "confere", "arg": "2.2.5$%confere$%confere$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "conference", "subtitle": "会议", "arg": "2.2.5$%conference$%会议$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "tre", "subtitle": "混乱关系", "arg": "2.2.5$%tre$%混乱关系$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "transistent", "subtitle": "transistent", "arg": "2.2.5$%transistent$%transistent$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "transis", "subtitle": "转机", "arg": "2.2.5$%transis$%转机$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "trans", "subtitle": "反式", "arg": "2.2.5$%trans$%反式$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "tran", "subtitle": "tran", "arg": "2.2.5$%tran$%tran$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "transient", "subtitle": "瞬态", "arg": "2.2.5$%transient$%瞬态$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "carrier", "subtitle": "航空公司", "arg": "2.2.5$%carrier$%航空公司$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mural", "subtitle": "壁画", "arg": "2.2.5$%mural$%壁画$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mural", "subtitle": "壁画", "arg": "2.2.5$%mural$%壁画$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "so", "subtitle": "所以", "arg": "2.2.5$%so$%所以$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sort facility", "subtitle": "这种设备", "arg": "2.2.5$%sort facility$%这种设备$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "bushy", "subtitle": "浓密的", "arg": "2.2.5$%bushy$%浓密的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "左下角", "subtitle": "The lower left corner", "arg": "2.2.5$%左下角$%The lower left corner$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "下角", "subtitle": "The Angle of", "arg": "2.2.5$%下角$%The Angle of$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "右下角", "subtitle": "The lower right corner", "arg": "2.2.5$%右下角$%The lower right corner$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "红霉素", "subtitle": "erythromycin", "arg": "2.2.5$%红霉素$%erythromycin$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "红霉素", "subtitle": "erythromycin", "arg": "2.2.5$%红霉素$%erythromycin$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "红霉素", "subtitle": "erythromycin", "arg": "2.2.5$%红霉素$%erythromycin$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "assist", "subtitle": "协助", "arg": "2.2.5$%assist$%协助$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "aff", "subtitle": "著名", "arg": "2.2.5$%aff$%著名$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "aggression", "subtitle": "侵略", "arg": "2.2.5$%aggression$%侵略$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "thun", "subtitle": "图恩湖", "arg": "2.2.5$%thun$%图恩湖$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "thunder", "subtitle": "雷声", "arg": "2.2.5$%thunder$%雷声$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "head count", "subtitle": "总人数", "arg": "2.2.5$%head count$%总人数$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "354.46 + 223.79 + 22.38 + 109.76", "subtitle": "354.46 + 223.79 + 22.38 + 109.76", "arg": "2.2.5$%354.46 + 223.79 + 22.38 + 109.76$%354.46 + 223.79 + 22.38 + 109.76$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "预习", "subtitle": "preview", "arg": "2.2.5$%预习$%preview$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "c", "subtitle": "c", "arg": "2.2.5$%c$%c$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "corpo", "subtitle": "corpo", "arg": "2.2.5$%corpo$%corpo$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "denominator", "subtitle": "分母", "arg": "2.2.5$%denominator$%分母$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "revolution", "subtitle": "革命", "arg": "2.2.5$%revolution$%革命$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dis", "subtitle": "说", "arg": "2.2.5$%dis$%说$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "disbur", "subtitle": "disbur", "arg": "2.2.5$%disbur$%disbur$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "disbursement", "subtitle": "支付", "arg": "2.2.5$%disbursement$%支付$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "repay", "subtitle": "偿还", "arg": "2.2.5$%repay$%偿还$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "demand cha", "subtitle": "cha需求", "arg": "2.2.5$%demand cha$%cha需求$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "demand charges", "subtitle": "需求费用", "arg": "2.2.5$%demand charges$%需求费用$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ga", "subtitle": "遗传算法", "arg": "2.2.5$%ga$%遗传算法$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "iimc", "subtitle": "iimc", "arg": "2.2.5$%iimc$%iimc$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "iirc", "subtitle": "iirc", "arg": "2.2.5$%iirc$%iirc$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "pass out", "subtitle": "分发", "arg": "2.2.5$%pass out$%分发$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "pass outs", "subtitle": "通过细节", "arg": "2.2.5$%pass outs$%通过细节$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "high pass outs", "subtitle": "高通出局", "arg": "2.2.5$%high pass outs$%高通出局$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "high shpass outs", "subtitle": "高shpass出局", "arg": "2.2.5$%high shpass outs$%高shpass出局$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "high school pass outs", "subtitle": "高中通过细节", "arg": "2.2.5$%high school pass outs$%高中通过细节$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "high school pass out", "subtitle": "高中分发", "arg": "2.2.5$%high school pass out$%高中分发$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "攻读", "subtitle": "studying", "arg": "2.2.5$%攻读$%studying$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "攻读研究生", "subtitle": "Graduate school", "arg": "2.2.5$%攻读研究生$%Graduate school$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "labour", "subtitle": "劳动力", "arg": "2.2.5$%labour$%劳动力$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "labour market", "subtitle": "劳动力市场", "arg": "2.2.5$%labour market$%劳动力市场$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "labor force", "subtitle": "劳动力", "arg": "2.2.5$%labor force$%劳动力$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "presume", "subtitle": "假定", "arg": "2.2.5$%presume$%假定$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "move past", "subtitle": "搬过去", "arg": "2.2.5$%move past$%搬过去$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "resistance", "subtitle": "电阻", "arg": "2.2.5$%resistance$%电阻$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "proof", "subtitle": "证明", "arg": "2.2.5$%proof$%证明$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "nonce", "subtitle": "现时标志", "arg": "2.2.5$%nonce$%现时标志$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "incentives", "subtitle": "激励", "arg": "2.2.5$%incentives$%激励$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "revised", "subtitle": "修改后的", "arg": "2.2.5$%revised$%修改后的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "assets", "subtitle": "资产", "arg": "2.2.5$%assets$%资产$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "住宅", "subtitle": "residential", "arg": "2.2.5$%住宅$%residential$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "c", "subtitle": "c", "arg": "2.2.5$%c$%c$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "condo", "subtitle": "公寓", "arg": "2.2.5$%condo$%公寓$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ascii", "subtitle": "美国信息交换标准代码", "arg": "2.2.5$%ascii$%美国信息交换标准代码$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "repay", "subtitle": "偿还", "arg": "2.2.5$%repay$%偿还$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sining", "subtitle": "西宁", "arg": "2.2.5$%sining$%西宁$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sinking", "subtitle": "沉没", "arg": "2.2.5$%sinking$%沉没$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sinking", "subtitle": "沉没", "arg": "2.2.5$%sinking$%沉没$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sinking fund", "subtitle": "偿债基金", "arg": "2.2.5$%sinking fund$%偿债基金$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "farthest", "subtitle": "最远的", "arg": "2.2.5$%farthest$%最远的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "a", "subtitle": "一个", "arg": "2.2.5$%a$%一个$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "aqu", "subtitle": "aqu", "arg": "2.2.5$%aqu$%aqu$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "aque", "subtitle": "aque", "arg": "2.2.5$%aque$%aque$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "aqueduct", "subtitle": "渡槽", "arg": "2.2.5$%aqueduct$%渡槽$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "salvage", "subtitle": "打捞", "arg": "2.2.5$%salvage$%打捞$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "aside", "subtitle": "一边", "arg": "2.2.5$%aside$%一边$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "s", "subtitle": "年代", "arg": "2.2.5$%s$%年代$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "salvage", "subtitle": "打捞", "arg": "2.2.5$%salvage$%打捞$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "salvage vlau", "subtitle": "打捞vlau", "arg": "2.2.5$%salvage vlau$%打捞vlau$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "set a", "subtitle": "设置一个", "arg": "2.2.5$%set a$%设置一个$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "set aside", "subtitle": "拨出", "arg": "2.2.5$%set aside$%拨出$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "gravesite", "subtitle": "墓地", "arg": "2.2.5$%gravesite$%墓地$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "deposite", "subtitle": "冬瓜山", "arg": "2.2.5$%deposite$%冬瓜山$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "deposit", "subtitle": "存款", "arg": "2.2.5$%deposit$%存款$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "facility", "subtitle": "设施", "arg": "2.2.5$%facility$%设施$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "contr", "subtitle": "来讲", "arg": "2.2.5$%contr$%来讲$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "contractor", "subtitle": "承包商", "arg": "2.2.5$%contractor$%承包商$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "i", "subtitle": "我", "arg": "2.2.5$%i$%我$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "imitate", "subtitle": "模仿", "arg": "2.2.5$%imitate$%模仿$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "entropy", "subtitle": "熵", "arg": "2.2.5$%entropy$%熵$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "rumor", "subtitle": "谣言", "arg": "2.2.5$%rumor$%谣言$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mongering", "subtitle": "贩卖的", "arg": "2.2.5$%mongering$%贩卖的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mor", "subtitle": "铁道部", "arg": "2.2.5$%mor$%铁道部$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mort", "subtitle": "莫特", "arg": "2.2.5$%mort$%莫特$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mortgage", "subtitle": "抵押贷款", "arg": "2.2.5$%mortgage$%抵押贷款$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "amp", "subtitle": "amp", "arg": "2.2.5$%amp$%amp$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "amo", "subtitle": "amo", "arg": "2.2.5$%amo$%amo$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "amor", "subtitle": "埃莫", "arg": "2.2.5$%amor$%埃莫$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "amortization", "subtitle": "摊销", "arg": "2.2.5$%amortization$%摊销$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "appr", "subtitle": "从新加坡", "arg": "2.2.5$%appr$%从新加坡$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "appraised", "subtitle": "评价", "arg": "2.2.5$%appraised$%评价$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "distractors", "subtitle": "干扰物", "arg": "2.2.5$%distractors$%干扰物$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "gong", "subtitle": "龚", "arg": "2.2.5$%gong$%龚$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ample", "subtitle": "充足的", "arg": "2.2.5$%ample$%充足的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "trai", "subtitle": "火车", "arg": "2.2.5$%trai$%火车$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "traitors", "subtitle": "叛徒", "arg": "2.2.5$%traitors$%叛徒$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "zb", "subtitle": "zb", "arg": "2.2.5$%zb$%zb$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "strive", "subtitle": "努力", "arg": "2.2.5$%strive$%努力$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "lag", "subtitle": "滞后", "arg": "2.2.5$%lag$%滞后$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "staravtion", "subtitle": "staravtion", "arg": "2.2.5$%staravtion$%staravtion$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "starvation", "subtitle": "饥饿", "arg": "2.2.5$%starvation$%饥饿$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "w", "subtitle": "w", "arg": "2.2.5$%w$%w$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "wbd", "subtitle": "12月", "arg": "2.2.5$%wbd$%12月$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "consensus", "subtitle": "共识", "arg": "2.2.5$%consensus$%共识$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "laggy", "subtitle": "延迟", "arg": "2.2.5$%laggy$%延迟$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "under", "subtitle": "下", "arg": "2.2.5$%under$%下$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "underwriter", "subtitle": "保险人", "arg": "2.2.5$%underwriter$%保险人$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "financing", "subtitle": "融资", "arg": "2.2.5$%financing$%融资$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "par value", "subtitle": "票面价值", "arg": "2.2.5$%par value$%票面价值$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "invigilation", "subtitle": "监考", "arg": "2.2.5$%invigilation$%监考$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "tme", "subtitle": "开心的", "arg": "2.2.5$%tme$%开心的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "tm", "subtitle": "tm", "arg": "2.2.5$%tm$%tm$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "temper", "subtitle": "脾气", "arg": "2.2.5$%temper$%脾气$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "forge", "subtitle": "打造", "arg": "2.2.5$%forge$%打造$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "relay", "subtitle": "继电器", "arg": "2.2.5$%relay$%继电器$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "f", "subtitle": "f", "arg": "2.2.5$%f$%f$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "flu", "subtitle": "流感", "arg": "2.2.5$%flu$%流感$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "fluous", "subtitle": "fluous", "arg": "2.2.5$%fluous$%fluous$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "superfluous", "subtitle": "多余的", "arg": "2.2.5$%superfluous$%多余的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "traitor", "subtitle": "叛徒", "arg": "2.2.5$%traitor$%叛徒$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "traitorous", "subtitle": "叛逆的", "arg": "2.2.5$%traitorous$%叛逆的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "fulfill", "subtitle": "完成", "arg": "2.2.5$%fulfill$%完成$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ds", "subtitle": "ds", "arg": "2.2.5$%ds$%ds$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sahr", "subtitle": "sahr", "arg": "2.2.5$%sahr$%sahr$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sharding", "subtitle": "分片", "arg": "2.2.5$%sharding$%分片$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "b", "subtitle": "b", "arg": "2.2.5$%b$%b$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "blurring", "subtitle": "模糊", "arg": "2.2.5$%blurring$%模糊$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "multidiscipline", "subtitle": "多学科", "arg": "2.2.5$%multidiscipline$%多学科$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "r", "subtitle": "r", "arg": "2.2.5$%r$%r$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "rather", "subtitle": "而", "arg": "2.2.5$%rather$%而$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "rather", "subtitle": "而", "arg": "2.2.5$%rather$%而$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "rather strong", "subtitle": "相当强大的", "arg": "2.2.5$%rather strong$%相当强大的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "rather strong", "subtitle": "相当强大的", "arg": "2.2.5$%rather strong$%相当强大的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "conjuncitve", "subtitle": "conjuncitve", "arg": "2.2.5$%conjuncitve$%conjuncitve$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "conjuncit", "subtitle": "conjuncit", "arg": "2.2.5$%conjuncit$%conjuncit$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "conjunctive", "subtitle": "连接词", "arg": "2.2.5$%conjunctive$%连接词$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "conjunctiv", "subtitle": "conjunctiv", "arg": "2.2.5$%conjunctiv$%conjunctiv$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "conjunctivities", "subtitle": "conjunctivities", "arg": "2.2.5$%conjunctivities$%conjunctivities$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "q.offer(t);", "subtitle": "q.offer (t);", "arg": "2.2.5$%q.offer(t);$%q.offer (t);$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "pareto", "subtitle": "帕累托", "arg": "2.2.5$%pareto$%帕累托$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sessions", "subtitle": "会话", "arg": "2.2.5$%sessions$%会话$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "session", "subtitle": "会话", "arg": "2.2.5$%session$%会话$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "midd", "subtitle": "midd", "arg": "2.2.5$%midd$%midd$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "midway", "subtitle": "中途", "arg": "2.2.5$%midway$%中途$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "会做", "subtitle": "Would like to be doing", "arg": "2.2.5$%会做$%Would like to be doing$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "doable", "subtitle": "可行的", "arg": "2.2.5$%doable$%可行的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "倍数", "subtitle": "A multiple", "arg": "2.2.5$%倍数$%A multiple$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "Tortoise", "subtitle": "乌龟", "arg": "2.2.5$%Tortoise$%乌龟$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "Tortoise and h", "subtitle": "乌龟和h", "arg": "2.2.5$%Tortoise and h$%乌龟和h$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "Tortoise and hare", "subtitle": "乌龟和兔子", "arg": "2.2.5$%Tortoise and hare$%乌龟和兔子$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "Tortoise", "subtitle": "乌龟", "arg": "2.2.5$%Tortoise$%乌龟$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "hare", "subtitle": "兔子", "arg": "2.2.5$%hare$%兔子$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "alphanumeric", "subtitle": "字母数字", "arg": "2.2.5$%alphanumeric$%字母数字$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "property value", "subtitle": "属性值", "arg": "2.2.5$%property value$%属性值$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "backward", "subtitle": "落后的", "arg": "2.2.5$%backward$%落后的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "从后", "subtitle": "From the back", "arg": "2.2.5$%从后$%From the back$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "从后面", "subtitle": "From behind", "arg": "2.2.5$%从后面$%From behind$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "precessor", "subtitle": "旋进磁铁", "arg": "2.2.5$%precessor$%旋进磁铁$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "predcessor", "subtitle": "predcessor", "arg": "2.2.5$%predcessor$%predcessor$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "pre", "subtitle": "精准医疗", "arg": "2.2.5$%pre$%精准医疗$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "successor", "subtitle": "的继任者", "arg": "2.2.5$%successor$%的继任者$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "前者", "subtitle": "The former", "arg": "2.2.5$%前者$%The former$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "前任", "subtitle": "The former", "arg": "2.2.5$%前任$%The former$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "Beetlejuice", "subtitle": "Beetlejuice", "arg": "2.2.5$%Beetlejuice$%Beetlejuice$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "Nobuhiko Obayashi", "subtitle": "信彦大林", "arg": "2.2.5$%Nobuhiko Obayashi$%信彦大林$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "Nobuhiko Obayashi", "subtitle": "信彦大林", "arg": "2.2.5$%Nobuhiko Obayashi$%信彦大林$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "appeatizer", "subtitle": "appeatizer", "arg": "2.2.5$%appeatizer$%appeatizer$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "appe", "subtitle": "appe", "arg": "2.2.5$%appe$%appe$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "appetizer", "subtitle": "开胃菜", "arg": "2.2.5$%appetizer$%开胃菜$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "paxos", "subtitle": "paxos", "arg": "2.2.5$%paxos$%paxos$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "nu", "subtitle": "ν", "arg": "2.2.5$%nu$%ν$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "nuclear", "subtitle": "核", "arg": "2.2.5$%nuclear$%核$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "nuclear power plabt", "subtitle": "核能plabt", "arg": "2.2.5$%nuclear power plabt$%核能plabt$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "nuclear power plant", "subtitle": "核电站", "arg": "2.2.5$%nuclear power plant$%核电站$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sk", "subtitle": "sk", "arg": "2.2.5$%sk$%sk$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "skate", "subtitle": "滑冰", "arg": "2.2.5$%skate$%滑冰$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "skateholder", "subtitle": "skateholder", "arg": "2.2.5$%skateholder$%skateholder$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "skate", "subtitle": "滑冰", "arg": "2.2.5$%skate$%滑冰$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "skateholder", "subtitle": "skateholder", "arg": "2.2.5$%skateholder$%skateholder$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "skateholder", "subtitle": "skateholder", "arg": "2.2.5$%skateholder$%skateholder$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "skate", "subtitle": "滑冰", "arg": "2.2.5$%skate$%滑冰$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "skate holder", "subtitle": "滑座", "arg": "2.2.5$%skate holder$%滑座$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sk", "subtitle": "sk", "arg": "2.2.5$%sk$%sk$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "stake", "subtitle": "股份", "arg": "2.2.5$%stake$%股份$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "stakeholder", "subtitle": "利益相关者", "arg": "2.2.5$%stakeholder$%利益相关者$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "str", "subtitle": "str", "arg": "2.2.5$%str$%str$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "stream", "subtitle": "流", "arg": "2.2.5$%stream$%流$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "stream res", "subtitle": "流物", "arg": "2.2.5$%stream res$%流物$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "stream restoration", "subtitle": "流恢复", "arg": "2.2.5$%stream restoration$%流恢复$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "stream restoration plan", "subtitle": "溪流修复计划", "arg": "2.2.5$%stream restoration plan$%溪流修复计划$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "payoff", "subtitle": "回报", "arg": "2.2.5$%payoff$%回报$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "credible", "subtitle": "可信的", "arg": "2.2.5$%credible$%可信的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "lottery", "subtitle": "彩票", "arg": "2.2.5$%lottery$%彩票$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "50lottery", "subtitle": "50个彩票", "arg": "2.2.5$%50lottery$%50个彩票$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "50-lottery", "subtitle": "50-lottery", "arg": "2.2.5$%50-lottery$%50-lottery$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "50-50 lottery", "subtitle": "50 - 50的彩票", "arg": "2.2.5$%50-50 lottery$%50 - 50的彩票$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "toss", "subtitle": "扔", "arg": "2.2.5$%toss$%扔$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "commu", "subtitle": "美军陆军", "arg": "2.2.5$%commu$%美军陆军$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "commutative", "subtitle": "可交换的", "arg": "2.2.5$%commutative$%可交换的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "realise", "subtitle": "意识到", "arg": "2.2.5$%realise$%意识到$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "prescribe", "subtitle": "开", "arg": "2.2.5$%prescribe$%开$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "asso", "subtitle": "艾莎", "arg": "2.2.5$%asso$%艾莎$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "associated", "subtitle": "相关的", "arg": "2.2.5$%associated$%相关的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ad", "subtitle": "广告", "arg": "2.2.5$%ad$%广告$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "admissbi", "subtitle": "admissbi", "arg": "2.2.5$%admissbi$%admissbi$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "admissbble", "subtitle": "admissbble", "arg": "2.2.5$%admissbble$%admissbble$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "admissb", "subtitle": "admissb", "arg": "2.2.5$%admissb$%admissb$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "admissbi", "subtitle": "admissbi", "arg": "2.2.5$%admissbi$%admissbi$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "admissble", "subtitle": "admissble", "arg": "2.2.5$%admissble$%admissble$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "predetermined", "subtitle": "预先确定的", "arg": "2.2.5$%predetermined$%预先确定的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "chaged on hold", "subtitle": "转变在举行", "arg": "2.2.5$%chaged on hold$%转变在举行$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "chaged on hold", "subtitle": "转变在举行", "arg": "2.2.5$%chaged on hold$%转变在举行$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "chaging on hold", "subtitle": "恰克在", "arg": "2.2.5$%chaging on hold$%恰克在$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "on hold", "subtitle": "搁置", "arg": "2.2.5$%on hold$%搁置$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "change", "subtitle": "改变", "arg": "2.2.5$%change$%改变$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "char", "subtitle": "字符", "arg": "2.2.5$%char$%字符$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "chargin on", "subtitle": "chargin上", "arg": "2.2.5$%chargin on$%chargin上$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "chargin on hold", "subtitle": "chargin不变", "arg": "2.2.5$%chargin on hold$%chargin不变$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "log", "subtitle": "日志", "arg": "2.2.5$%log$%日志$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dia", "subtitle": "dia", "arg": "2.2.5$%dia$%dia$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "diagonal", "subtitle": "对角", "arg": "2.2.5$%diagonal$%对角$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "antidiagonal", "subtitle": "antidiagonal", "arg": "2.2.5$%antidiagonal$%antidiagonal$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "anti-diagonal", "subtitle": "反对角", "arg": "2.2.5$%anti-diagonal$%反对角$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "keen eye", "subtitle": "敏锐的眼睛", "arg": "2.2.5$%keen eye$%敏锐的眼睛$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "com", "subtitle": "com", "arg": "2.2.5$%com$%com$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "commuting", "subtitle": "通勤", "arg": "2.2.5$%commuting$%通勤$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "botnet", "subtitle": "僵尸网络", "arg": "2.2.5$%botnet$%僵尸网络$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "denial", "subtitle": "否认", "arg": "2.2.5$%denial$%否认$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ddos", "subtitle": "分布式拒绝服务", "arg": "2.2.5$%ddos$%分布式拒绝服务$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "c", "subtitle": "c", "arg": "2.2.5$%c$%c$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "cry", "subtitle": "哭", "arg": "2.2.5$%cry$%哭$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "cryptocu", "subtitle": "cryptocu", "arg": "2.2.5$%cryptocu$%cryptocu$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "cryptocurrencies", "subtitle": "cryptocurrencies", "arg": "2.2.5$%cryptocurrencies$%cryptocurrencies$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "malle", "subtitle": "malle", "arg": "2.2.5$%malle$%malle$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mallea", "subtitle": "mallea", "arg": "2.2.5$%mallea$%mallea$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "malleadbility", "subtitle": "malleadbility", "arg": "2.2.5$%malleadbility$%malleadbility$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "malleability", "subtitle": "可锻性", "arg": "2.2.5$%malleability$%可锻性$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "bene", "subtitle": "祝福", "arg": "2.2.5$%bene$%祝福$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "beneficiary", "subtitle": "受益人", "arg": "2.2.5$%beneficiary$%受益人$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "tr", "subtitle": "tr", "arg": "2.2.5$%tr$%tr$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "trailing", "subtitle": "落后于", "arg": "2.2.5$%trailing$%落后于$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "tor", "subtitle": "tor", "arg": "2.2.5$%tor$%tor$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "tor client", "subtitle": "tor客户", "arg": "2.2.5$%tor client$%tor客户$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "Tor", "subtitle": "Tor", "arg": "2.2.5$%Tor$%Tor$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "intercepting", "subtitle": "拦截", "arg": "2.2.5$%intercepting$%拦截$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "re-entrancy", "subtitle": "re-entrancy", "arg": "2.2.5$%re-entrancy$%re-entrancy$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "merchant", "subtitle": "商人", "arg": "2.2.5$%merchant$%商人$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "eleven", "subtitle": "11", "arg": "2.2.5$%eleven$%11$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "tw", "subtitle": "太瓦", "arg": "2.2.5$%tw$%太瓦$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "twle", "subtitle": "twle", "arg": "2.2.5$%twle$%twle$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "twlve", "subtitle": "twlve", "arg": "2.2.5$%twlve$%twlve$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "t", "subtitle": "t", "arg": "2.2.5$%t$%t$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "twe", "subtitle": "twe", "arg": "2.2.5$%twe$%twe$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "twelve", "subtitle": "十二个", "arg": "2.2.5$%twelve$%十二个$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "fifteen", "subtitle": "15", "arg": "2.2.5$%fifteen$%15$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "Seventeen", "subtitle": "十七岁", "arg": "2.2.5$%Seventeen$%十七岁$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "Eighteen", "subtitle": "十八岁", "arg": "2.2.5$%Eighteen$%十八岁$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "Eighteen", "subtitle": "十八岁", "arg": "2.2.5$%Eighteen$%十八岁$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "nini", "subtitle": "妮妮", "arg": "2.2.5$%nini$%妮妮$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "nineteen", "subtitle": "19", "arg": "2.2.5$%nineteen$%19$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "vendor", "subtitle": "供应商", "arg": "2.2.5$%vendor$%供应商$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "moderate", "subtitle": "温和的", "arg": "2.2.5$%moderate$%温和的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "在看一次", "subtitle": "Looking at once", "arg": "2.2.5$%在看一次$%Looking at once$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "看一次", "subtitle": "A look at", "arg": "2.2.5$%看一次$%A look at$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "再看一次", "subtitle": "Look at it again", "arg": "2.2.5$%再看一次$%Look at it again$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "sol", "subtitle": "索尔", "arg": "2.2.5$%sol$%索尔$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ta ke", "subtitle": "塔克", "arg": "2.2.5$%ta ke$%塔克$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "take a second look", "subtitle": "仔细看一下", "arg": "2.2.5$%take a second look$%仔细看一下$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mallw", "subtitle": "mallw", "arg": "2.2.5$%mallw$%mallw$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mallwabiliry", "subtitle": "mallwabiliry", "arg": "2.2.5$%mallwabiliry$%mallwabiliry$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mallwabili", "subtitle": "mallwabili", "arg": "2.2.5$%mallwabili$%mallwabili$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mallwability", "subtitle": "mallwability", "arg": "2.2.5$%mallwability$%mallwability$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mallwability", "subtitle": "mallwability", "arg": "2.2.5$%mallwability$%mallwability$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "malleability", "subtitle": "可锻性", "arg": "2.2.5$%malleability$%可锻性$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "malleability", "subtitle": "可锻性", "arg": "2.2.5$%malleability$%可锻性$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "complementary", "subtitle": "互补", "arg": "2.2.5$%complementary$%互补$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "hijacked", "subtitle": "被劫持", "arg": "2.2.5$%hijacked$%被劫持$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "comu", "subtitle": "comu", "arg": "2.2.5$%comu$%comu$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "commuter", "subtitle": "通勤", "arg": "2.2.5$%commuter$%通勤$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "through", "subtitle": "通过", "arg": "2.2.5$%through$%通过$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "more through", "subtitle": "更多的通过", "arg": "2.2.5$%more through$%更多的通过$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "tourism", "subtitle": "旅游", "arg": "2.2.5$%tourism$%旅游$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "seek", "subtitle": "寻求", "arg": "2.2.5$%seek$%寻求$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "seek parallel", "subtitle": "寻求并行", "arg": "2.2.5$%seek parallel$%寻求并行$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "seek parallel e", "subtitle": "寻求并行e", "arg": "2.2.5$%seek parallel e$%寻求并行e$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "seek parallel effects", "subtitle": "寻求并行效果", "arg": "2.2.5$%seek parallel effects$%寻求并行效果$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "generic", "subtitle": "通用的", "arg": "2.2.5$%generic$%通用的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "amenity", "subtitle": "美化市容", "arg": "2.2.5$%amenity$%美化市容$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "surro", "subtitle": "surro", "arg": "2.2.5$%surro$%surro$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "surrogate", "subtitle": "代理", "arg": "2.2.5$%surrogate$%代理$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "relocating", "subtitle": "搬迁", "arg": "2.2.5$%relocating$%搬迁$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "route", "subtitle": "路线", "arg": "2.2.5$%route$%路线$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "occuring", "subtitle": "发生", "arg": "2.2.5$%occuring$%发生$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "er", "subtitle": "呃", "arg": "2.2.5$%er$%呃$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "re", "subtitle": "重新", "arg": "2.2.5$%re$%重新$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "railway", "subtitle": "铁路", "arg": "2.2.5$%railway$%铁路$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "closing rate", "subtitle": "关闭率", "arg": "2.2.5$%closing rate$%关闭率$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "deluxe", "subtitle": "豪华", "arg": "2.2.5$%deluxe$%豪华$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mor", "subtitle": "铁道部", "arg": "2.2.5$%mor$%铁道部$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mortgage", "subtitle": "抵押贷款", "arg": "2.2.5$%mortgage$%抵押贷款$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "nonce", "subtitle": "现时标志", "arg": "2.2.5$%nonce$%现时标志$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "revised", "subtitle": "修改后的", "arg": "2.2.5$%revised$%修改后的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "inferior", "subtitle": "劣质", "arg": "2.2.5$%inferior$%劣质$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "报价", "subtitle": "offer", "arg": "2.2.5$%报价$%offer$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "回访", "subtitle": "Pay a return visit", "arg": "2.2.5$%回访$%Pay a return visit$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "发样", "subtitle": "The looks of it", "arg": "2.2.5$%发样$%The looks of it$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "first", "subtitle": "第一个", "arg": "2.2.5$%first$%第一个$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "first place", "subtitle": "首先", "arg": "2.2.5$%first place$%首先$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "plane", "subtitle": "飞机", "arg": "2.2.5$%plane$%飞机$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "inspector", "subtitle": "检查员", "arg": "2.2.5$%inspector$%检查员$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "stale", "subtitle": "不新鲜的", "arg": "2.2.5$%stale$%不新鲜的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "chipmunk", "subtitle": "花栗鼠", "arg": "2.2.5$%chipmunk$%花栗鼠$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "venture", "subtitle": "合资企业", "arg": "2.2.5$%venture$%合资企业$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "plausible", "subtitle": "似是而非的", "arg": "2.2.5$%plausible$%似是而非的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sill", "subtitle": "窗台上", "arg": "2.2.5$%sill$%窗台上$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "skill", "subtitle": "技能", "arg": "2.2.5$%skill$%技能$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "skill", "subtitle": "技能", "arg": "2.2.5$%skill$%技能$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "head up", "subtitle": "头", "arg": "2.2.5$%head up$%头$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "a head up", "subtitle": "一个头", "arg": "2.2.5$%a head up$%一个头$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "a heads up", "subtitle": "一个头", "arg": "2.2.5$%a heads up$%一个头$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ta", "subtitle": "助教", "arg": "2.2.5$%ta$%助教$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "trailing", "subtitle": "落后于", "arg": "2.2.5$%trailing$%落后于$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "leading", "subtitle": "领先的", "arg": "2.2.5$%leading$%领先的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "scotia", "subtitle": "斯科舍", "arg": "2.2.5$%scotia$%斯科舍$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "scotiawire", "subtitle": "scotiawire", "arg": "2.2.5$%scotiawire$%scotiawire$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "compton", "subtitle": "康普顿", "arg": "2.2.5$%compton$%康普顿$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "linkage", "subtitle": "链接", "arg": "2.2.5$%linkage$%链接$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "callout", "subtitle": "调出", "arg": "2.2.5$%callout$%调出$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "i", "subtitle": "我", "arg": "2.2.5$%i$%我$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "i'm", "subtitle": "我", "arg": "2.2.5$%i'm$%我$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "i'm all for it", "subtitle": "我完全赞成", "arg": "2.2.5$%i'm all for it$%我完全赞成$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sublead", "subtitle": "sublead", "arg": "2.2.5$%sublead$%sublead$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sub-lead", "subtitle": "sub-lead", "arg": "2.2.5$%sub-lead$%sub-lead$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "biweekly", "subtitle": "两周一次的", "arg": "2.2.5$%biweekly$%两周一次的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ster", "subtitle": "灭菌", "arg": "2.2.5$%ster$%灭菌$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sterliz", "subtitle": "sterliz", "arg": "2.2.5$%sterliz$%sterliz$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sterlized", "subtitle": "sterlized", "arg": "2.2.5$%sterlized$%sterlized$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "Diagnostics", "subtitle": "诊断", "arg": "2.2.5$%Diagnostics$%诊断$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "lower main land", "subtitle": "较低的主阵地", "arg": "2.2.5$%lower main land$%较低的主阵地$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "truck", "subtitle": "卡车", "arg": "2.2.5$%truck$%卡车$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "seamless", "subtitle": "无缝的", "arg": "2.2.5$%seamless$%无缝的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "seamless", "subtitle": "无缝的", "arg": "2.2.5$%seamless$%无缝的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "packin", "subtitle": "packin", "arg": "2.2.5$%packin$%packin$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "packing", "subtitle": "包装", "arg": "2.2.5$%packing$%包装$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "maxi broil", "subtitle": "马克西烤", "arg": "2.2.5$%maxi broil$%马克西烤$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "maxi broilo", "subtitle": "马克西broilo", "arg": "2.2.5$%maxi broilo$%马克西broilo$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "maxi broiloii", "subtitle": "马克西broiloii", "arg": "2.2.5$%maxi broiloii$%马克西broiloii$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "maxi broiloiio", "subtitle": "马克西broiloiio", "arg": "2.2.5$%maxi broiloiio$%马克西broiloiio$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "maxi broiloiioii", "subtitle": "马克西broiloiioii", "arg": "2.2.5$%maxi broiloiioii$%马克西broiloiioii$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "maxi broiloiioiiii", "subtitle": "马克西broiloiioiiii", "arg": "2.2.5$%maxi broiloiioiiii$%马克西broiloiioiiii$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "maxi broiloiioiiiii", "subtitle": "马克西broiloiioiiiii", "arg": "2.2.5$%maxi broiloiioiiiii$%马克西broiloiioiiiii$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "blo", "subtitle": "鼓风机", "arg": "2.2.5$%blo$%鼓风机$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "bloater", "subtitle": "鲱鱼", "arg": "2.2.5$%bloater$%鲱鱼$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "bloaters", "subtitle": "鲱鱼", "arg": "2.2.5$%bloaters$%鲱鱼$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ab", "subtitle": "ab", "arg": "2.2.5$%ab$%ab$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "abuser", "subtitle": "施虐者", "arg": "2.2.5$%abuser$%施虐者$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "off-", "subtitle": "从- - - - - -", "arg": "2.2.5$%off-$%从- - - - - -$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "off-kilter", "subtitle": "不规则的", "arg": "2.2.5$%off-kilter$%不规则的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "diver", "subtitle": "潜水员", "arg": "2.2.5$%diver$%潜水员$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "divergent", "subtitle": "发散", "arg": "2.2.5$%divergent$%发散$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "cr", "subtitle": "cr", "arg": "2.2.5$%cr$%cr$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "crude", "subtitle": "原油", "arg": "2.2.5$%crude$%原油$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "envy", "subtitle": "嫉妒", "arg": "2.2.5$%envy$%嫉妒$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "Delegation", "subtitle": "代表团", "arg": "2.2.5$%Delegation$%代表团$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "untangling", "subtitle": "解开", "arg": "2.2.5$%untangling$%解开$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "deck", "subtitle": "甲板", "arg": "2.2.5$%deck$%甲板$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "deal", "subtitle": "交易", "arg": "2.2.5$%deal$%交易$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "deck", "subtitle": "甲板", "arg": "2.2.5$%deck$%甲板$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dis", "subtitle": "说", "arg": "2.2.5$%dis$%说$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dispatch", "subtitle": "调度", "arg": "2.2.5$%dispatch$%调度$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "handler", "subtitle": "处理程序", "arg": "2.2.5$%handler$%处理程序$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "jukebox", "subtitle": "自动点唱机", "arg": "2.2.5$%jukebox$%自动点唱机$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "lot", "subtitle": "很多", "arg": "2.2.5$%lot$%很多$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "parking lot", "subtitle": "停车场", "arg": "2.2.5$%parking lot$%停车场$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "停车位", "subtitle": "A parking space", "arg": "2.2.5$%停车位$%A parking space$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "车牌", "subtitle": "The license plate", "arg": "2.2.5$%车牌$%The license plate$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "jigsaw", "subtitle": "拼图", "arg": "2.2.5$%jigsaw$%拼图$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "nic", "subtitle": "网卡", "arg": "2.2.5$%nic$%网卡$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "nickle", "subtitle": "五分镍币", "arg": "2.2.5$%nickle$%五分镍币$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dime", "subtitle": "分钱", "arg": "2.2.5$%dime$%分钱$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "qu", "subtitle": "曲", "arg": "2.2.5$%qu$%曲$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "quarter", "subtitle": "季度", "arg": "2.2.5$%quarter$%季度$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "cent", "subtitle": "分", "arg": "2.2.5$%cent$%分$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "denomination", "subtitle": "教派", "arg": "2.2.5$%denomination$%教派$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "Inventory", "subtitle": "库存", "arg": "2.2.5$%Inventory$%库存$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "work flow", "subtitle": "工作流程", "arg": "2.2.5$%work flow$%工作流程$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "expertise", "subtitle": "专业知识", "arg": "2.2.5$%expertise$%专业知识$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "promising", "subtitle": "有前途的", "arg": "2.2.5$%promising$%有前途的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "laid out", "subtitle": "制定了", "arg": "2.2.5$%laid out$%制定了$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "material", "subtitle": "材料", "arg": "2.2.5$%material$%材料$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "v", "subtitle": "v", "arg": "2.2.5$%v$%v$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "parallelizable", "subtitle": "可平行的", "arg": "2.2.5$%parallelizable$%可平行的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "data skew", "subtitle": "数据倾斜", "arg": "2.2.5$%data skew$%数据倾斜$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "cova", "subtitle": "一家名为", "arg": "2.2.5$%cova$%一家名为$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "covariant", "subtitle": "协变", "arg": "2.2.5$%covariant$%协变$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "tie", "subtitle": "领带", "arg": "2.2.5$%tie$%领带$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "pow", "subtitle": "战俘", "arg": "2.2.5$%pow$%战俘$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "i", "subtitle": "我", "arg": "2.2.5$%i$%我$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "in", "subtitle": "在", "arg": "2.2.5$%in$%在$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "in a", "subtitle": "在一个", "arg": "2.2.5$%in a$%在一个$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "in a nu", "subtitle": "在一个怒", "arg": "2.2.5$%in a nu$%在一个怒$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "in a nut", "subtitle": "在一个螺母", "arg": "2.2.5$%in a nut$%在一个螺母$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "in a nutshell", "subtitle": "简而言之", "arg": "2.2.5$%in a nutshell$%简而言之$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "notational convenin", "subtitle": "符号convenin", "arg": "2.2.5$%notational convenin$%符号convenin$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "notational convenience", "subtitle": "符号方便", "arg": "2.2.5$%notational convenience$%符号方便$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "suite", "subtitle": "套件", "arg": "2.2.5$%suite$%套件$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "rug", "subtitle": "地毯", "arg": "2.2.5$%rug$%地毯$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "waht", "subtitle": "的事", "arg": "2.2.5$%waht$%的事$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "what", "subtitle": "什么", "arg": "2.2.5$%what$%什么$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "what that", "subtitle": "这是什么", "arg": "2.2.5$%what that$%这是什么$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "what that amount", "subtitle": "这是什么数量", "arg": "2.2.5$%what that amount$%这是什么数量$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "amount", "subtitle": "量", "arg": "2.2.5$%amount$%量$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "amo", "subtitle": "amo", "arg": "2.2.5$%amo$%amo$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "amount to", "subtitle": "金额", "arg": "2.2.5$%amount to$%金额$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "algebra", "subtitle": "代数", "arg": "2.2.5$%algebra$%代数$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "dra", "subtitle": "半径标注", "arg": "2.2.5$%dra$%半径标注$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "drawing", "subtitle": "画", "arg": "2.2.5$%drawing$%画$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "engineer", "subtitle": "工程师", "arg": "2.2.5$%engineer$%工程师$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "engineering", "subtitle": "工程", "arg": "2.2.5$%engineering$%工程$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "engineering drawing", "subtitle": "工程制图", "arg": "2.2.5$%engineering drawing$%工程制图$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "fixture", "subtitle": "夹具", "arg": "2.2.5$%fixture$%夹具$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "machi", "subtitle": "麻吉", "arg": "2.2.5$%machi$%麻吉$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "machine", "subtitle": "机", "arg": "2.2.5$%machine$%机$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "machine labor", "subtitle": "机器劳动", "arg": "2.2.5$%machine labor$%机器劳动$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "pro", "subtitle": "箴", "arg": "2.2.5$%pro$%箴$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "proxies", "subtitle": "代理", "arg": "2.2.5$%proxies$%代理$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "semi", "subtitle": "半", "arg": "2.2.5$%semi$%半$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "semi-a", "subtitle": "semi-a", "arg": "2.2.5$%semi-a$%semi-a$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "semi-annual", "subtitle": "半年一次", "arg": "2.2.5$%semi-annual$%半年一次$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "semi annual", "subtitle": "半年会", "arg": "2.2.5$%semi annual$%半年会$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "par value", "subtitle": "票面价值", "arg": "2.2.5$%par value$%票面价值$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "owed", "subtitle": "欠", "arg": "2.2.5$%owed$%欠$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "legilatio", "subtitle": "legilatio", "arg": "2.2.5$%legilatio$%legilatio$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "legilation", "subtitle": "legilation", "arg": "2.2.5$%legilation$%legilation$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "legislation", "subtitle": "立法", "arg": "2.2.5$%legislation$%立法$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "exemption", "subtitle": "豁免", "arg": "2.2.5$%exemption$%豁免$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "progressive", "subtitle": "进步", "arg": "2.2.5$%progressive$%进步$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "liab", "subtitle": "liab", "arg": "2.2.5$%liab$%liab$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "liability", "subtitle": "责任", "arg": "2.2.5$%liability$%责任$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "pro", "subtitle": "箴", "arg": "2.2.5$%pro$%箴$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "prop", "subtitle": "道具", "arg": "2.2.5$%prop$%道具$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "propri", "subtitle": "propri", "arg": "2.2.5$%propri$%propri$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "proprietorship", "subtitle": "独资企业", "arg": "2.2.5$%proprietorship$%独资企业$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "conc", "subtitle": "浓缩的", "arg": "2.2.5$%conc$%浓缩的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "concrete", "subtitle": "混凝土", "arg": "2.2.5$%concrete$%混凝土$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "appen", "subtitle": "的动作", "arg": "2.2.5$%appen$%的动作$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "append-o", "subtitle": "append-o", "arg": "2.2.5$%append-o$%append-o$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "append-only", "subtitle": "只能添加", "arg": "2.2.5$%append-only$%只能添加$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ledger", "subtitle": "分类帐", "arg": "2.2.5$%ledger$%分类帐$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "autonomously", "subtitle": "自主", "arg": "2.2.5$%autonomously$%自主$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ru", "subtitle": "俄文", "arg": "2.2.5$%ru$%俄文$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "rudimentary", "subtitle": "基本的", "arg": "2.2.5$%rudimentary$%基本的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "wind", "subtitle": "风", "arg": "2.2.5$%wind$%风$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "wind up asking", "subtitle": "最终要求", "arg": "2.2.5$%wind up asking$%最终要求$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "wind up asking", "subtitle": "最终要求", "arg": "2.2.5$%wind up asking$%最终要求$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "wind up", "subtitle": "最终", "arg": "2.2.5$%wind up$%最终$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "stipulate", "subtitle": "规定", "arg": "2.2.5$%stipulate$%规定$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mission statemnt", "subtitle": "任务statemnt", "arg": "2.2.5$%mission statemnt$%任务statemnt$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "mission statement", "subtitle": "使命宣言", "arg": "2.2.5$%mission statement$%使命宣言$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "bench", "subtitle": "板凳上", "arg": "2.2.5$%bench$%板凳上$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "benchmarks", "subtitle": "基准", "arg": "2.2.5$%benchmarks$%基准$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "market share", "subtitle": "市场份额", "arg": "2.2.5$%market share$%市场份额$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "高薪", "subtitle": "High salaries", "arg": "2.2.5$%高薪$%High salaries$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "ad", "subtitle": "广告", "arg": "2.2.5$%ad$%广告$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "admitting", "subtitle": "承认", "arg": "2.2.5$%admitting$%承认$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "algebraic", "subtitle": "代数", "arg": "2.2.5$%algebraic$%代数$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "cam", "subtitle": "凸轮", "arg": "2.2.5$%cam$%凸轮$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "campaign", "subtitle": "运动", "arg": "2.2.5$%campaign$%运动$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "campaigns", "subtitle": "活动", "arg": "2.2.5$%campaigns$%活动$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "高收入", "subtitle": "High income", "arg": "2.2.5$%高收入$%High income$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "stand mixer", "subtitle": "站式混合机", "arg": "2.2.5$%stand mixer$%站式混合机$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "桌面", "subtitle": "desktop", "arg": "2.2.5$%桌面$%desktop$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "电脑", "subtitle": "The computer", "arg": "2.2.5$%电脑$%The computer$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "电脑垫子", "subtitle": "Computer mat", "arg": "2.2.5$%电脑垫子$%Computer mat$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "电脑垫", "subtitle": "Computer pad", "arg": "2.2.5$%电脑垫$%Computer pad$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "riverdabl", "subtitle": "riverdabl", "arg": "2.2.5$%riverdabl$%riverdabl$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "riverdale", "subtitle": "里弗代尔", "arg": "2.2.5$%riverdale$%里弗代尔$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "all", "subtitle": "所有", "arg": "2.2.5$%all$%所有$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "alliances", "subtitle": "联盟", "arg": "2.2.5$%alliances$%联盟$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "tent", "subtitle": "帐篷", "arg": "2.2.5$%tent$%帐篷$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "cater", "subtitle": "满足", "arg": "2.2.5$%cater$%满足$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "catering", "subtitle": "餐饮", "arg": "2.2.5$%catering$%餐饮$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "bro", "subtitle": "兄弟", "arg": "2.2.5$%bro$%兄弟$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "brokerage", "subtitle": "经纪公司", "arg": "2.2.5$%brokerage$%经纪公司$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "shole", "subtitle": "shole", "arg": "2.2.5$%shole$%shole$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "tr", "subtitle": "tr", "arg": "2.2.5$%tr$%tr$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "unnecessary", "subtitle": "不必要的", "arg": "2.2.5$%unnecessary$%不必要的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "subcontracting", "subtitle": "分包", "arg": "2.2.5$%subcontracting$%分包$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "accustomed", "subtitle": "习惯了", "arg": "2.2.5$%accustomed$%习惯了$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "saturated", "subtitle": "饱和", "arg": "2.2.5$%saturated$%饱和$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "content", "subtitle": "内容", "arg": "2.2.5$%content$%内容$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "s", "subtitle": "年代", "arg": "2.2.5$%s$%年代$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sub", "subtitle": "子", "arg": "2.2.5$%sub$%子$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "subcinrt", "subtitle": "subcinrt", "arg": "2.2.5$%subcinrt$%subcinrt$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "subc", "subtitle": "subc", "arg": "2.2.5$%subc$%subc$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "subconct", "subtitle": "subconct", "arg": "2.2.5$%subconct$%subconct$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "subco", "subtitle": "潜意识里", "arg": "2.2.5$%subco$%潜意识里$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "subcontract", "subtitle": "分包合同", "arg": "2.2.5$%subcontract$%分包合同$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "subcontracts", "subtitle": "分包", "arg": "2.2.5$%subcontracts$%分包$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "家具", "subtitle": "furniture", "arg": "2.2.5$%家具$%furniture$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "assign", "subtitle": "分配", "arg": "2.2.5$%assign$%分配$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "减震", "subtitle": "Shock absorption", "arg": "2.2.5$%减震$%Shock absorption$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "减震的", "subtitle": "Suspension of", "arg": "2.2.5$%减震的$%Suspension of$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "减震", "subtitle": "Shock absorption", "arg": "2.2.5$%减震$%Shock absorption$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "防震", "subtitle": "shockproof", "arg": "2.2.5$%防震$%shockproof$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "brand identity", "subtitle": "品牌标识", "arg": "2.2.5$%brand identity$%品牌标识$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "brand", "subtitle": "品牌", "arg": "2.2.5$%brand$%品牌$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "brand identity", "subtitle": "品牌标识", "arg": "2.2.5$%brand identity$%品牌标识$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "proven", "subtitle": "证明", "arg": "2.2.5$%proven$%证明$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "provenance", "subtitle": "出处", "arg": "2.2.5$%provenance$%出处$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "data provenance", "subtitle": "数据来源", "arg": "2.2.5$%data provenance$%数据来源$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "data provenance", "subtitle": "数据来源", "arg": "2.2.5$%data provenance$%数据来源$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "lin", "subtitle": "林", "arg": "2.2.5$%lin$%林$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "lineage", "subtitle": "血统", "arg": "2.2.5$%lineage$%血统$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "data lineage", "subtitle": "数据沿袭", "arg": "2.2.5$%data lineage$%数据沿袭$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sharding", "subtitle": "分片", "arg": "2.2.5$%sharding$%分片$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sap", "subtitle": "sap", "arg": "2.2.5$%sap$%sap$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "spare", "subtitle": "备用", "arg": "2.2.5$%spare$%备用$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "spar", "subtitle": "争吵", "arg": "2.2.5$%spar$%争吵$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sparse", "subtitle": "稀疏的", "arg": "2.2.5$%sparse$%稀疏的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "角", "subtitle": "Angle", "arg": "2.2.5$%角$%Angle$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "角垫", "subtitle": "Angle of mat", "arg": "2.2.5$%角垫$%Angle of mat$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "垫", "subtitle": "mat", "arg": "2.2.5$%垫$%mat$%zh-CHS2EN$%$%",         "icon": "icon.png"}
+{"title": "lag", "subtitle": "滞后", "arg": "2.2.5$%lag$%滞后$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "lopsided", "subtitle": "不平衡", "arg": "2.2.5$%lopsided$%不平衡$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "circu", "subtitle": "circu", "arg": "2.2.5$%circu$%circu$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "circurmn", "subtitle": "circurmn", "arg": "2.2.5$%circurmn$%circurmn$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "circum", "subtitle": "环", "arg": "2.2.5$%circum$%环$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "circumnent", "subtitle": "circumnent", "arg": "2.2.5$%circumnent$%circumnent$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "circument", "subtitle": "circument", "arg": "2.2.5$%circument$%circument$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "circumvent", "subtitle": "规避", "arg": "2.2.5$%circumvent$%规避$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "standy", "subtitle": "备份", "arg": "2.2.5$%standy$%备份$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "bogged down", "subtitle": "陷入困境", "arg": "2.2.5$%bogged down$%陷入困境$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "replay", "subtitle": "重播", "arg": "2.2.5$%replay$%重播$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "spwa", "subtitle": "spwa", "arg": "2.2.5$%spwa$%spwa$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "spawn", "subtitle": "产卵", "arg": "2.2.5$%spawn$%产卵$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "wordls", "subtitle": "wordls", "arg": "2.2.5$%wordls$%wordls$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "worl", "subtitle": "网络遍及", "arg": "2.2.5$%worl$%网络遍及$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "worldbeat", "subtitle": "worldbeat", "arg": "2.2.5$%worldbeat$%worldbeat$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "tinted", "subtitle": "有色", "arg": "2.2.5$%tinted$%有色$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "in", "subtitle": "在", "arg": "2.2.5$%in$%在$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "intentional", "subtitle": "有意的", "arg": "2.2.5$%intentional$%有意的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "hea", "subtitle": "他叫", "arg": "2.2.5$%hea$%他叫$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "heading text", "subtitle": "标题文本", "arg": "2.2.5$%heading text$%标题文本$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "heading", "subtitle": "标题", "arg": "2.2.5$%heading$%标题$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "heading text p", "subtitle": "标题文本p", "arg": "2.2.5$%heading text p$%标题文本p$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "heading text placement", "subtitle": "标题文本的位置", "arg": "2.2.5$%heading text placement$%标题文本的位置$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "presented", "subtitle": "提出了", "arg": "2.2.5$%presented$%提出了$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "stich", "subtitle": "一首诗", "arg": "2.2.5$%stich$%一首诗$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "steach", "subtitle": "steach", "arg": "2.2.5$%steach$%steach$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "stic", "subtitle": "不现实", "arg": "2.2.5$%stic$%不现实$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sti", "subtitle": "sti", "arg": "2.2.5$%sti$%sti$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "stich", "subtitle": "一首诗", "arg": "2.2.5$%stich$%一首诗$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "a", "subtitle": "一个", "arg": "2.2.5$%a$%一个$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "darn", "subtitle": "该死的", "arg": "2.2.5$%darn$%该死的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "personnn", "subtitle": "personnn", "arg": "2.2.5$%personnn$%personnn$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "founding", "subtitle": "成立", "arg": "2.2.5$%founding$%成立$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "notch", "subtitle": "切口", "arg": "2.2.5$%notch$%切口$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "notch", "subtitle": "切口", "arg": "2.2.5$%notch$%切口$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "topnotch", "subtitle": "最高质量的", "arg": "2.2.5$%topnotch$%最高质量的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "top-notch", "subtitle": "一流的", "arg": "2.2.5$%top-notch$%一流的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "top-notch", "subtitle": "一流的", "arg": "2.2.5$%top-notch$%一流的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "trajectory", "subtitle": "轨迹", "arg": "2.2.5$%trajectory$%轨迹$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "graze", "subtitle": "吃草", "arg": "2.2.5$%graze$%吃草$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "deviation", "subtitle": "偏差", "arg": "2.2.5$%deviation$%偏差$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "susta", "subtitle": "susta", "arg": "2.2.5$%susta$%susta$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "sustain", "subtitle": "维持", "arg": "2.2.5$%sustain$%维持$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "gtim", "subtitle": "gtim", "arg": "2.2.5$%gtim$%gtim$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "gru", "subtitle": "格勒乌", "arg": "2.2.5$%gru$%格勒乌$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "grim", "subtitle": "严峻的", "arg": "2.2.5$%grim$%严峻的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "grim r", "subtitle": "严峻的r", "arg": "2.2.5$%grim r$%严峻的r$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "grim trigger", "subtitle": "严峻的触发", "arg": "2.2.5$%grim trigger$%严峻的触发$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "deviation", "subtitle": "偏差", "arg": "2.2.5$%deviation$%偏差$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "emergency", "subtitle": "紧急", "arg": "2.2.5$%emergency$%紧急$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "out of think air", "subtitle": "认为空中", "arg": "2.2.5$%out of think air$%认为空中$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "outcompe", "subtitle": "outcompe", "arg": "2.2.5$%outcompe$%outcompe$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "outcompeted", "subtitle": "淘汰出局", "arg": "2.2.5$%outcompeted$%淘汰出局$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "re", "subtitle": "再保险", "arg": "2.2.5$%re$%再保险$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "relay", "subtitle": "继电器", "arg": "2.2.5$%relay$%继电器$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "side-effect", "subtitle": "副作用", "arg": "2.2.5$%side-effect$%副作用$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "unc", "subtitle": "unc", "arg": "2.2.5$%unc$%unc$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "uncle rate", "subtitle": "叔叔率", "arg": "2.2.5$%uncle rate$%叔叔率$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "uncle rate", "subtitle": "叔叔率", "arg": "2.2.5$%uncle rate$%叔叔率$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "temporary", "subtitle": "临时", "arg": "2.2.5$%temporary$%临时$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "temporary relief", "subtitle": "暂时缓解", "arg": "2.2.5$%temporary relief$%暂时缓解$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "unsafe", "subtitle": "不安全的", "arg": "2.2.5$%unsafe$%不安全的$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "gre", "subtitle": "gre考试", "arg": "2.2.5$%gre$%gre考试$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "greener pa", "subtitle": "绿色的爸爸", "arg": "2.2.5$%greener pa$%绿色的爸爸$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "greener pasture", "subtitle": "绿色的草地", "arg": "2.2.5$%greener pasture$%绿色的草地$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "greener pastures", "subtitle": "绿色的牧场", "arg": "2.2.5$%greener pastures$%绿色的牧场$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "precedent", "subtitle": "先例", "arg": "2.2.5$%precedent$%先例$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "outbid", "subtitle": "出价高于", "arg": "2.2.5$%outbid$%出价高于$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "per", "subtitle": "每", "arg": "2.2.5$%per$%每$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "perfo", "subtitle": "性能", "arg": "2.2.5$%perfo$%性能$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "performant", "subtitle": "性能", "arg": "2.2.5$%performant$%性能$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "ca", "subtitle": "ca", "arg": "2.2.5$%ca$%ca$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "canonical", "subtitle": "规范", "arg": "2.2.5$%canonical$%规范$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "downside", "subtitle": "缺点", "arg": "2.2.5$%downside$%缺点$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "thrive", "subtitle": "茁壮成长", "arg": "2.2.5$%thrive$%茁壮成长$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "m", "subtitle": "米", "arg": "2.2.5$%m$%米$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "metr", "subtitle": "metr", "arg": "2.2.5$%metr$%metr$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "metrics", "subtitle": "指标", "arg": "2.2.5$%metrics$%指标$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "go past", "subtitle": "走过去", "arg": "2.2.5$%go past$%走过去$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "pile up", "subtitle": "堆积", "arg": "2.2.5$%pile up$%堆积$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "thru", "subtitle": "通过", "arg": "2.2.5$%thru$%通过$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "server", "subtitle": "服务器", "arg": "2.2.5$%server$%服务器$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "server farm", "subtitle": "服务器群", "arg": "2.2.5$%server farm$%服务器群$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "deposite", "subtitle": "冬瓜山", "arg": "2.2.5$%deposite$%冬瓜山$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "deposit", "subtitle": "存款", "arg": "2.2.5$%deposit$%存款$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "pay back", "subtitle": "偿还", "arg": "2.2.5$%pay back$%偿还$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "undiscounted", "subtitle": "尚未完全", "arg": "2.2.5$%undiscounted$%尚未完全$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "escalation", "subtitle": "升级", "arg": "2.2.5$%escalation$%升级$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "by nothing", "subtitle": "通过什么", "arg": "2.2.5$%by nothing$%通过什么$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "by nothing that", "subtitle": "没有什么,", "arg": "2.2.5$%by nothing that$%没有什么,$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "by noting that 2023 is year 0.", "subtitle": "指出2023年0。", "arg": "2.2.5$%by noting that 2023 is year 0.$%指出2023年0。$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "nonth", "subtitle": "nonth", "arg": "2.2.5$%nonth$%nonth$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "nontheless", "subtitle": "不管怎么", "arg": "2.2.5$%nontheless$%不管怎么$%EN2zh-CHS$%$%",         "icon": "icon.png"}
+{"title": "biogas", "subtitle": "沼气", "arg": "2.2.5$%biogas$%沼气$%EN2zh-CHS$%$%",         "icon": "icon.png"}
