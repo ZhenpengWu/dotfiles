@@ -206,6 +206,10 @@
 			<string>java:</string>
 			<key>~/Library/Application Support/Dash/DocSets/Java_SE13/Java.docset</key>
 			<string>java:</string>
+			<key>~/Library/Application Support/Dash/DocSets/Java_SE14/Java.docset</key>
+			<string>java:</string>
+			<key>~/Library/Application Support/Dash/DocSets/Java_SE15/Java.docset</key>
+			<string>java:</string>
 			<key>~/Library/Application Support/Dash/DocSets/Java_SE8/Java.docset</key>
 			<string>java:</string>
 			<key>~/Library/Application Support/Dash/DocSets/Java_SE9/Java.docset</key>
@@ -336,6 +340,11 @@
 			<dict>
 				<key>date</key>
 				<date>2020-08-07T06:59:21Z</date>
+			</dict>
+			<key>http://kapeli.com/feeds/Jinja.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2021-02-21T02:34:49Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/Lua_5.3.xml</key>
 			<dict>

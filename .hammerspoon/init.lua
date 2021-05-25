@@ -46,6 +46,7 @@ if not hspoon_list then
         "HSaria2",
         "HSearch",
         "SpeedMenu",
+        "TextClipboardHistory",
         "WinWin",
         "FnMate",
     }
@@ -234,6 +235,10 @@ if string.len(hswindown_keys[2]) > 0 then
     end,
     function() pressed.down = false end)
 end
+
+-- spoon.ModalMgr.supervisor:bind({
+--     show = { { "ctrl", "cmd", "alt" }, "d" }
+-- })
 
 ----------------------------------------------------------------------------------------------------
 -- Finally we initialize ModalMgr supervisor

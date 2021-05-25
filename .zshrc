@@ -19,7 +19,7 @@ export PATH="/usr/local/opt/node@12/bin:$PATH"
 # export PATH="/usr/local/opt/node/bin:$PATH"
 # export PATH="/usr/local/opt/coreutils/libexec/gnubin:$PATH"
 
-# export CPATH=/Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/System/Library/Perl/5.28/darwin-thread-multi-2level/CORE:$CPATH
+export CPATH="/Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/System/Library/Perl/5.28/darwin-thread-multi-2level/CORE:$CPATH"
 # export PATH="/usr/local/opt/perl/bin:$PATH"
 
 # language
@@ -117,7 +117,6 @@ alias e='emacs -nw'
 alias t='tmux attach -t base || tmux new -s base'
 alias vim=nvim
 # alias top=gtop
-alias py3=python3
 
 alias l='colorls -1'
 alias ll='colorls -la'
@@ -135,3 +134,5 @@ ok() {
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+export PATH="/usr/local/opt/qt/bin:$PATH"
+export PATH="/usr/local/opt/qt/bin:$PATH"
